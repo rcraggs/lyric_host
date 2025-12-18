@@ -896,12 +896,14 @@
       {
         "start": "22.0",
         "end": "23.12",
-        "label": "topic.sad-songs"
+        "label": "topic.sad-songs",
+        "text": "Take on the world with a wink and a lip curl\nSad song #25"
       },
       {
         "start": "24.0",
         "end": "24.33",
-        "label": "arrogance.general"
+        "label": "arrogance.general",
+        "text": "Super me sees a you in a pavement"
       }
     ],
     "song_labels": [
@@ -2654,37 +2656,44 @@
       {
         "start": "1.0",
         "end": "2.43",
-        "label": "language.gibberish"
+        "label": "language.gibberish",
+        "text": "Largo Captitivio sees faces in the lino\nLargo Captitivio runs naked through asylums"
       },
       {
         "start": "5.0",
         "end": "5.57",
-        "label": "religion.careless"
+        "label": "religion.careless",
+        "text": "Largo Captitivio he'll be the one to cast the first stone"
       },
       {
         "start": "6.0",
         "end": "6.49",
-        "label": "character.flippant"
+        "label": "character.flippant",
+        "text": "Largo Captitivio he hears voices in the telephone"
       },
       {
         "start": "10.0",
         "end": "11.52",
-        "label": "language.humour"
+        "label": "language.humour",
+        "text": "Largo Captitivio fashion victim in his own way\nLargo Captitivio he wears whatever he wore yesterday"
       },
       {
         "start": "14.0",
         "end": "16.67",
-        "label": "topic.alcohol"
+        "label": "topic.alcohol",
+        "text": "Largo Captitivio daily dose of anticeptic\nLargo Captitivio makes the world seem less pathetic\nLargo Captitivio although he says he'll never forget his first love"
       },
       {
         "start": "20.0",
         "end": "21.50",
-        "label": "language.humour"
+        "label": "language.humour",
+        "text": "he learned to love while on a motorway\nhe just kept yelling out faster faster Largo Largo"
       },
       {
         "start": "23.0",
         "end": "24.36",
-        "label": "relationship.sex-general"
+        "label": "relationship.sex-general",
+        "text": "Don't ever let him ask you why it never seems so sunny inside\n'Cause he'll expect to take you home"
       }
     ],
     "song_labels": [
@@ -2700,52 +2709,62 @@
       {
         "start": "1.0",
         "end": "1.44",
-        "label": "self-reference.writing"
+        "label": "self-reference.writing",
+        "text": "Let it go. It wasn't meant to be a love song"
       },
       {
         "start": "2.0",
         "end": "3.32",
-        "label": "topic.drugs"
+        "label": "topic.drugs",
+        "text": "sucking on a hemp-shaped smile\ntastes of a dream called suicide"
       },
       {
         "start": "2.0",
         "end": "3.32",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "sucking on a hemp-shaped smile\ntastes of a dream called suicide"
       },
       {
         "start": "6.0",
         "end": "7.38",
-        "label": "depression.giving-up"
+        "label": "depression.giving-up",
+        "text": "Let it go. Try hard to stay together\nI know, it's much easier to fall apart"
       },
       {
         "start": "11.0",
         "end": "12.33",
-        "label": "depression.serious"
+        "label": "depression.serious",
+        "text": "I know we should never never ever ever\ncount ourselves lucky to be alive"
       },
       {
         "start": "15.0",
         "end": "15.31",
-        "label": "depression.self-harm"
+        "label": "depression.self-harm",
+        "text": "Cut my heart and suck the blood"
       },
       {
         "start": "17.0",
         "end": "17.29",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "when we die we'll fly to Mars"
       },
       {
         "start": "21.0",
         "end": "22.34",
-        "label": "self-reference.writing"
+        "label": "self-reference.writing",
+        "text": "Let it go. I never tried to write a sad song\nit's just the way it all turns out"
       },
       {
         "start": "21.0",
         "end": "22.34",
-        "label": "depression.attracted-to"
+        "label": "depression.attracted-to",
+        "text": "Let it go. I never tried to write a sad song\nit's just the way it all turns out"
       },
       {
         "start": "25.0",
         "end": "26.43",
-        "label": "depression.failure"
+        "label": "depression.failure",
+        "text": "Let it go, it soon just falls to pieces, \nI know but that's just the way it has to be"
       }
     ],
     "song_labels": [
@@ -2760,17 +2779,20 @@
       {
         "start": "5.0",
         "end": "5.67",
-        "label": "tier.c"
+        "label": "tier.c",
+        "text": "You sing only in key but never in the street where we all should be"
       },
       {
         "start": "9.0",
         "end": "9.50",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "You die but only at the end only after all is done"
       },
       {
         "start": "10.0",
         "end": "10.170",
-        "label": "cultural-reference"
+        "label": "cultural-reference",
+        "text": "You never said goodbye never said anything never promised anything that you didn't mean never ever knew that we just died perchance to sleep perchance to dream our dreams"
       }
     ],
     "song_labels": [],
@@ -2787,17 +2809,20 @@
       {
         "start": "1.0",
         "end": "2.44",
-        "label": "relationship.being-single"
+        "label": "relationship.being-single",
+        "text": "I can't remember you as a sunny day. hello hello \nso i think of you as I lie awake hello hello"
       },
       {
         "start": "4.0",
         "end": "4.26",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "Another ode to the obvious"
       },
       {
         "start": "12.0",
         "end": "12.77",
-        "label": "topic.dated-reference"
+        "label": "topic.dated-reference",
+        "text": "When I came home and put the CD on and I just lay all night and listen to it."
       }
     ],
     "song_labels": [],
@@ -2814,37 +2839,44 @@
       {
         "start": "1.0",
         "end": "1.37",
-        "label": "depression.location"
+        "label": "depression.location",
+        "text": "I want to be anywhere other than here"
       },
       {
         "start": "2.0",
         "end": "2.43",
-        "label": "relationship.sex-discovering"
+        "label": "relationship.sex-discovering",
+        "text": "you like it and all of my lovers don't mind"
       },
       {
         "start": "4.0",
         "end": "4.34",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "did I mention impending ascension?"
       },
       {
         "start": "6.0",
         "end": "6.43",
-        "label": "society.distain-for"
+        "label": "society.distain-for",
+        "text": "I don't need this thing I feel for everyone"
       },
       {
         "start": "7.0",
         "end": "7.41",
-        "label": "depression.mild"
+        "label": "depression.mild",
+        "text": "It doesn't take much not to cry right now"
       },
       {
         "start": "9.0",
         "end": "9.41",
-        "label": "depression.location"
+        "label": "depression.location",
+        "text": "I grow wings whenever my town sucks me in"
       },
       {
         "start": "10.0",
         "end": "10.38",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "I notice that no-one is flying with me"
       }
     ],
     "song_labels": [
@@ -2864,17 +2896,20 @@
       {
         "start": "5.0",
         "end": "5.28",
-        "label": "language.gibberish"
+        "label": "language.gibberish",
+        "text": "Roll out the pink ribbon sky"
       },
       {
         "start": "7.0",
         "end": "8.25",
-        "label": "topic.angels"
+        "label": "topic.angels",
+        "text": "You are nothing but angel wanting to fly\ndon't hold back soar dear"
       },
       {
         "start": "17.0",
         "end": "18.30",
-        "label": "depression.struggling"
+        "label": "depression.struggling",
+        "text": "Sun shine overload everyone want to ride\na real life high, why can't I?"
       }
     ],
     "song_labels": [],
@@ -2891,82 +2926,98 @@
       {
         "start": "1.0",
         "end": "2.59",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "I'd love to blow myself a kiss and wave goodbye to all of this\ncause as the street cracks under me I cry for the last time"
       },
       {
         "start": "1.0",
         "end": "2.59",
-        "label": "topic.leaving"
+        "label": "topic.leaving",
+        "text": "I'd love to blow myself a kiss and wave goodbye to all of this\ncause as the street cracks under me I cry for the last time"
       },
       {
         "start": "4.0",
         "end": "4.70",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "we stare towards the looming end and hope that you'll forgive me frien"
       },
       {
         "start": "6.0",
         "end": "6.62",
-        "label": "depression.lonliness"
+        "label": "depression.lonliness",
+        "text": "For all the days I stayed at home for fear of being cast alone"
       },
       {
         "start": "7.0",
         "end": "8.50",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "the sound of my own empty voice has left me with no other choice\nto rise above the people who will never ever learn"
       },
       {
         "start": "10.0",
         "end": "11.70",
-        "label": "depression.hope"
+        "label": "depression.hope",
+        "text": "The hopes we have are nothing more than one big daunting open door\nwhile they sit back and hate the ride I think it's time to step inside"
       },
       {
         "start": "13.0",
         "end": "13.66",
-        "label": "depression.mild"
+        "label": "depression.mild",
+        "text": "please find it in your heart of hearts to realise why I fall apart"
       },
       {
         "start": "15.0",
         "end": "15.75",
-        "label": "religion.careless"
+        "label": "religion.careless",
+        "text": "and God knows there's enough of them and that's why I must leave you friend"
       },
       {
         "start": "18.0",
         "end": "18.52",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "for all the things I meant to say candynovasupercane"
       },
       {
         "start": "21.36",
         "end": "22.65",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": " these children of a lesser good\ndon't know there's a better world than drunken men and ugly girls"
       },
       {
         "start": "23.0",
         "end": "23.60",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "and suffocate in this decay while we all rise to start again"
       },
       {
         "start": "26.0",
         "end": "26.61",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "of supertentious ego shite that comes to haunt me every night"
       },
       {
         "start": "26.0",
         "end": "26.61",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "of supertentious ego shite that comes to haunt me every night"
       },
       {
         "start": "27.0",
         "end": "27.72",
-        "label": "depression.mild"
+        "label": "depression.mild",
+        "text": "when I want nothing more than sleep when I can pretend that I'm not me, "
       },
       {
         "start": "27.41",
         "end": "28.61",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "I can pretend that I'm not me, \nbut superstars that never fall. (perhaps it is me, after all)"
       },
       {
         "start": "29.0",
         "end": "30.33",
-        "label": "person.elaine"
+        "label": "person.elaine",
+        "text": "to all of you who through all weather somehow kept me help together \nto all of you and my Elaine, CNSC"
       }
     ],
     "song_labels": [],
@@ -2983,12 +3034,14 @@
       {
         "start": "8.0",
         "end": "8.45",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "I know I don't look too good this morning, no"
       },
       {
         "start": "6.0",
         "end": "6.59",
-        "label": "depression.struggling"
+        "label": "depression.struggling",
+        "text": "stick my bones together with a slice of someone else's life"
       }
     ],
     "song_labels": [
@@ -3007,37 +3060,44 @@
       {
         "start": "1.0",
         "end": "2.54",
-        "label": "person.other-real"
+        "label": "person.other-real",
+        "text": "She's on top o' the world, looking down\nso she can't see me 'cause I'm above her in no 9 cloud"
       },
       {
         "start": "3.0",
         "end": "4.41",
-        "label": "arrogance.girls"
+        "label": "arrogance.girls",
+        "text": "she can't see us for what we really are\na cad and a no-one a fool and a superstar"
       },
       {
         "start": "6.0",
         "end": "7.51",
-        "label": "relationship.breakup"
+        "label": "relationship.breakup",
+        "text": "And this is my story and this is how it ends\nI can't pretend I'm sorry I never promised anything"
       },
       {
         "start": "9.0",
         "end": "10.80",
-        "label": "arrogance.girls"
+        "label": "arrogance.girls",
+        "text": "Dressing up as no-on, I guess that you didn't understand\nwhat it takes to make it worthwhile, because I'm more than just a couple of hand"
       },
       {
         "start": "10.0",
         "end": "12.63",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "what it takes to make it worthwhile, because I'm more than just a couple of hands\nI admire your folly, it must have taken all your gall\nbut if you're not ultraspecial it was bound to be your downfall"
       },
       {
         "start": "16.0",
         "end": "17.42",
-        "label": "relationship.sad-girl"
+        "label": "relationship.sad-girl",
+        "text": "But what is this all for, oh what a great surprise\nhere comes a girl with emotion in her eyes"
       },
       {
         "start": "18.0",
         "end": "19.35",
-        "label": "relationship.comparing-girls"
+        "label": "relationship.comparing-girls",
+        "text": "what's it all about well here comes the sting\nnow I found a girl worth everything"
       }
     ],
     "song_labels": [
@@ -3069,27 +3129,32 @@
       {
         "start": "1.0",
         "end": "1.45",
-        "label": "topic.angels"
+        "label": "topic.angels",
+        "text": "All the angels put out on this trodden ground"
       },
       {
         "start": "1.0",
         "end": "1.45",
-        "label": "religion.careless"
+        "label": "religion.careless",
+        "text": "All the angels put out on this trodden ground"
       },
       {
         "start": "1.0",
         "end": "1.45",
-        "label": "relationship.sex-general"
+        "label": "relationship.sex-general",
+        "text": "All the angels put out on this trodden ground"
       },
       {
         "start": "3.0",
         "end": "3.53",
-        "label": "depression.giving-up"
+        "label": "depression.giving-up",
+        "text": "as all the forces give up 'cause nothing's ever moved"
       },
       {
         "start": "4.0",
         "end": "4.43",
-        "label": "depression.failure"
+        "label": "depression.failure",
+        "text": "and then all the walls come down around you"
       }
     ],
     "song_labels": [],
@@ -3106,22 +3171,26 @@
       {
         "start": "1.0",
         "end": "2.35",
-        "label": "arrogance.superiority"
+        "label": "arrogance.superiority",
+        "text": "Fortean TV's on\nam I the only one to see it's lies?"
       },
       {
         "start": "4.0",
         "end": "6.22",
-        "label": "topic.sad-songs"
+        "label": "topic.sad-songs",
+        "text": "I can't stay here too long (it's not too late)\nI've heard to many sad songs\nand I know their power"
       },
       {
         "start": "9.0",
         "end": "11.24",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "Static eyes and greasy hair\nonly matters when you don't care\nto those who won't stare"
       },
       {
         "start": "18.0",
         "end": "18.30",
-        "label": "relationship.sex-discovering"
+        "label": "relationship.sex-discovering",
+        "text": "I can still taste your tongue "
       }
     ],
     "song_labels": [
@@ -3140,7 +3209,8 @@
       {
         "start": "2.0",
         "end": "2.60",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "washed up on an ultratacky shore, but I don't wanna go there"
       }
     ],
     "song_labels": [
@@ -3159,32 +3229,38 @@
       {
         "start": "1.0",
         "end": "1.84",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "Open up my wound, see how maggots seem to think I'm good enough for food. Unlike you"
       },
       {
         "start": "2.0",
         "end": "2.85",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "Smelling like a whore, you don't have to bite to see I'm rotten to the core, like you"
       },
       {
         "start": "2.0",
         "end": "2.85",
-        "label": "meta.embarrassing"
+        "label": "meta.embarrassing",
+        "text": "Smelling like a whore, you don't have to bite to see I'm rotten to the core, like you"
       },
       {
         "start": "6.0",
         "end": "6.79",
-        "label": "meta.embarrassing"
+        "label": "meta.embarrassing",
+        "text": "Fallen to the floor, find my pride and rape it til I cannot take no more of you"
       },
       {
         "start": "12.0",
         "end": "12.46",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "And my machines will swoop at you, in mourning"
       },
       {
         "start": "14.0",
         "end": "15.28",
-        "label": "depression.self-harm"
+        "label": "depression.self-harm",
+        "text": "Chipping at my bones, throw me in the petri-dish\nset my thousand clones on me"
       }
     ],
     "song_labels": [
@@ -3203,32 +3279,38 @@
       {
         "start": "1.0",
         "end": "4.57",
-        "label": "character.evil"
+        "label": "character.evil",
+        "text": "I'd like to lock you in a box inside a room and\ndance around the town and then pretend that I am human\nthen I'd fly to Vegas and then terrorise the dancers\nask a stupid questions and then tell them all the answers"
       },
       {
         "start": "6.0",
         "end": "6.50",
-        "label": "character.evil"
+        "label": "character.evil",
+        "text": "roll up to a funeral and laugh at all the mourners"
       },
       {
         "start": "7.0",
         "end": "7.51",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "drink a drink called poison to elixiate my laughter"
       },
       {
         "start": "10.0",
         "end": "11.51",
-        "label": "character.evil"
+        "label": "character.evil",
+        "text": "I told a joke about a bloke inside a car crash\nnobody laughed and now I'm waiting for the backlash"
       },
       {
         "start": "15.0",
         "end": "16.19",
-        "label": "language.gibberish"
+        "label": "language.gibberish",
+        "text": "Drunk drive, live a lie, heavy metal samurai \nPsycho silent child"
       },
       {
         "start": "21.0",
         "end": "21.33",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "See-thru plastic nymph-an-tastic "
       }
     ],
     "song_labels": [
@@ -3247,52 +3329,62 @@
       {
         "start": "1.0",
         "end": "3.48",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "On my may out of here going to learn how to fly\nview the world from above with a glint in my eye\nonly you could stop me from being a fool for you"
       },
       {
         "start": "5.0",
         "end": "5.54",
-        "label": "topic.angels"
+        "label": "topic.angels",
+        "text": "Going to sprout angel wings and then fly back to earth"
       },
       {
         "start": "6.0",
         "end": "7.41",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "watch you mourn the sad loss and then love you to death\nonly you could make suicide sound so cool"
       },
       {
         "start": "9.0",
         "end": "9.48",
-        "label": "religion.anti"
+        "label": "religion.anti",
+        "text": "Shooting god in the fist with the gun in my hand"
       },
       {
         "start": "11.0",
         "end": "11.38",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "only I will laugh on the morning I die"
       },
       {
         "start": "10.0",
         "end": "10.54",
-        "label": "society.distain-for"
+        "label": "society.distain-for",
+        "text": "I smash the plate glass lies on which the world stands"
       },
       {
         "start": "15.0",
         "end": "15.44",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "only you can look like a song penned in blue"
       },
       {
         "start": "17.0",
         "end": "17.62",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "I just don't want to see tomorrow, I'm just along for the ride"
       },
       {
         "start": "18.0",
         "end": "19.19",
-        "label": "topic.alcohol"
+        "label": "topic.alcohol",
+        "text": "I drive through distraction like a soft perfume fusion\nand a pink kangaroo"
       },
       {
         "start": "18.0",
         "end": "19.19",
-        "label": "cultural-reference"
+        "label": "cultural-reference",
+        "text": "I drive through distraction like a soft perfume fusion\nand a pink kangaroo"
       }
     ],
     "song_labels": [
@@ -3311,27 +3403,32 @@
       {
         "start": "1.0",
         "end": "2.45",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "After all I've been through I deserve to understand\nIt's all you can do to refuse to hold my hand"
       },
       {
         "start": "6.0",
         "end": "6.51",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "I'm in too deep I just know it's gonna end in tears"
       },
       {
         "start": "11.0",
         "end": "12.28",
-        "label": "arrogance.general"
+        "label": "arrogance.general",
+        "text": "It's almost too easy but it helps you to see\nthat you're empty without me"
       },
       {
         "start": "16.0",
         "end": "16.47",
-        "label": "religion.careless"
+        "label": "religion.careless",
+        "text": "Did the god I destroyed find a way to conceive?"
       },
       {
         "start": "18.0",
         "end": "18.48",
-        "label": "character.flippant"
+        "label": "character.flippant",
+        "text": "and do I breath, it seems it should matter to me"
       }
     ],
     "song_labels": [],
@@ -3359,17 +3456,20 @@
       {
         "start": "1.0",
         "end": "1.33",
-        "label": "language.gibberish"
+        "label": "language.gibberish",
+        "text": "Travesties of finite human nature"
       },
       {
         "start": "11.0",
         "end": "11.32",
-        "label": "depression.lonliness"
+        "label": "depression.lonliness",
+        "text": "the age of aloneness passed away"
       },
       {
         "start": "19.0",
         "end": "19.35",
-        "label": "relationship.sex-general"
+        "label": "relationship.sex-general",
+        "text": "I wonder why she plays with herself"
       }
     ],
     "song_labels": [],
@@ -3386,12 +3486,14 @@
       {
         "start": "1.0",
         "end": "2.39",
-        "label": "relationship.affection"
+        "label": "relationship.affection",
+        "text": "Kissing you lovers is only the start\nalways forever you'll sleep in my heart"
       },
       {
         "start": "13.0",
         "end": "14.27",
-        "label": "relationship.affection"
+        "label": "relationship.affection",
+        "text": "and please never wonder if I still love you\nCoz always and forever I do"
       }
     ],
     "song_labels": [
@@ -3411,37 +3513,44 @@
       {
         "start": "1.0",
         "end": "3.35",
-        "label": "relationship.seperation"
+        "label": "relationship.seperation",
+        "text": "Looking back and feeling sickly\ntime has never passed so quickly\nI'm all alone and felling all alone"
       },
       {
         "start": "4.0",
         "end": "7.28",
-        "label": "relationship.insecurity"
+        "label": "relationship.insecurity",
+        "text": "The vagrant [sic probably flagrant] lack of conversation \ndrive me into desperation\nI lie here staring blankly at the phone\nsearching for an explanation"
       },
       {
         "start": "9.0",
         "end": "10.22",
-        "label": "relationship.insecurity"
+        "label": "relationship.insecurity",
+        "text": "Breakdown in communication \noh why don't you call?"
       },
       {
         "start": "12.4",
         "end": "13.19",
-        "label": "relationship.insecurity"
+        "label": "relationship.insecurity",
+        "text": "you sat there at home just waiting\nor not alone at all"
       },
       {
         "start": "19.0",
         "end": "20.25",
-        "label": "relationship.dont-know-how-to"
+        "label": "relationship.dont-know-how-to",
+        "text": "I feel so much depends on this\nI've got so much to learn"
       },
       {
         "start": "22.0",
         "end": "24.19",
-        "label": "depression.lonliness"
+        "label": "depression.lonliness",
+        "text": "It's not how it's supposed to happen I\njust hope that you're still laughing\nwhile I'm on my own"
       },
       {
         "start": "26.0",
         "end": "27.30",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "feels like children wait for Christmas\nbut the know that it will come"
       }
     ],
     "song_labels": [
@@ -3462,32 +3571,38 @@
       {
         "start": "2.0",
         "end": "2.71",
-        "label": "society.distain-for"
+        "label": "society.distain-for",
+        "text": "heads are an empty space bound by the sound of a frown on a lonely face"
       },
       {
         "start": "8.0",
         "end": "9.49",
-        "label": "character.evil"
+        "label": "character.evil",
+        "text": "The smile on my other face (shows that)\nI am the one who put the bomb in the public place"
       },
       {
         "start": "12.0",
         "end": "12.47",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "My slide of life was the one with the lemon pip"
       },
       {
         "start": "12.0",
         "end": "12.47",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "My slide of life was the one with the lemon pip"
       },
       {
         "start": "13.0",
         "end": "13.44",
-        "label": "language.made-up-words"
+        "label": "language.made-up-words",
+        "text": "I penned a pretendy sonnet on my jacket cuff"
       },
       {
         "start": "20.0",
         "end": "21.52",
-        "label": "depression.self-harm"
+        "label": "depression.self-harm",
+        "text": "The scars on my inner wrist\nShow that I am a coward and a cheat and an anarchist"
       }
     ],
     "song_labels": [],
@@ -3504,32 +3619,38 @@
       {
         "start": "1.0",
         "end": "2.45",
-        "label": "depression.hope"
+        "label": "depression.hope",
+        "text": "Life seems so full of so many possibilities\nI'd like to think that they're all open to me"
       },
       {
         "start": "3.0",
         "end": "3.50",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "I found you swimming in the deep end of my destiny"
       },
       {
         "start": "6.0",
         "end": "6.53",
-        "label": "language.gibberish"
+        "label": "language.gibberish",
+        "text": "You took me to a purple beach with red and yellow sea"
       },
       {
         "start": "7.0",
         "end": "9.40",
-        "label": "relationship.sex-general"
+        "label": "relationship.sex-general",
+        "text": "We stripped naked and just lay they a while\nthe sun when down about 23,07.\nI must confess we didn't notice the time"
       },
       {
         "start": "17.0",
         "end": "17.62",
-        "label": "relationship.sex-discovering"
+        "label": "relationship.sex-discovering",
+        "text": "I work next morning with a childish grin and kick-ass attitude"
       },
       {
         "start": "19.0",
         "end": "19.66",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "a dream's a dream but when it's real it takes on new complications"
       }
     ],
     "song_labels": [],
@@ -3546,37 +3667,44 @@
       {
         "start": "1.0",
         "end": "2.35",
-        "label": "society.distain-for"
+        "label": "society.distain-for",
+        "text": "Run away from home, fight against the pull\neveryone here is dumb and beautiful"
       },
       {
         "start": "6.0",
         "end": "6.66",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "cast off your robes and neither sink nor swim saying I have heard "
       },
       {
         "start": "7.0",
         "end": "7.44",
-        "label": "character.self-pity"
+        "label": "character.self-pity",
+        "text": "that son you're not a bird. Don't try flying"
       },
       {
         "start": "9.0",
         "end": "10.44",
-        "label": "character.quiet"
+        "label": "character.quiet",
+        "text": "Sent into this restless world, I'm a quiet reverb\nOut into the solid earth, I'm a quiet reverb"
       },
       {
         "start": "12.0",
         "end": "13.39",
-        "label": "depression.giving-up"
+        "label": "depression.giving-up",
+        "text": "People all around me say that it's too late to grow. \nI don't know better so I guess that so "
       },
       {
         "start": "16.0",
         "end": "17.42",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "Head up in the clouds feet down on the floor. \nNot really sure what I've been living for "
       },
       {
         "start": "17.0",
         "end": "18.47",
-        "label": "depression.lonliness"
+        "label": "depression.lonliness",
+        "text": "Not really sure what I've been living for \nGentle arms to guide in somewhere safe to hide."
       }
     ],
     "song_labels": [],
@@ -3593,27 +3721,32 @@
       {
         "start": "3.0",
         "end": "4.44",
-        "label": "relationship.breakup"
+        "label": "relationship.breakup",
+        "text": "Oh, now I kicked you when you're down.\nMy head is bowed, so if you're walking out, "
       },
       {
         "start": "8.0",
         "end": "9.53",
-        "label": "relationship.affection"
+        "label": "relationship.affection",
+        "text": "Ooh girl, you're more than just my world \nyour my future now and past you're everything I have "
       },
       {
         "start": "10.0",
         "end": "10.100",
-        "label": "relationship.desperate"
+        "label": "relationship.desperate",
+        "text": "you could split my world into you're all I ever need but if you're going to leave just do while true"
       },
       {
         "start": "12.0",
         "end": "13.55",
-        "label": "relationship.desperate"
+        "label": "relationship.desperate",
+        "text": "If you're gonna leave shoot me now to make it easy \nand if you wanna go I'd rather not know until tomorrow "
       },
       {
         "start": "12.0",
         "end": "12.51",
-        "label": "depression.suicide"
+        "label": "depression.suicide",
+        "text": "If you're gonna leave shoot me now to make it easy "
       }
     ],
     "song_labels": [
@@ -3632,12 +3765,14 @@
       {
         "start": "1.0",
         "end": "5.28",
-        "label": "relationship.affection"
+        "label": "relationship.affection",
+        "text": "Good night sweetheart, close your eyes dream of being warm. \nI'll see that you are \n\nSleep well sweetheart dream away live there as you sleep \nI'll be there when you wake."
       },
       {
         "start": "4.0",
         "end": "4.57",
-        "label": "Sleep"
+        "label": "Sleep",
+        "text": "Sleep well sweetheart dream away live there as you sleep "
       }
     ],
     "song_labels": [
@@ -3656,72 +3791,86 @@
       {
         "start": "1.0",
         "end": "2.59",
-        "label": "relationship.breakup"
+        "label": "relationship.breakup",
+        "text": "There's a first time for everything there is a pain in my heart uh-ho\nBut if you don't wanna feed it then you don't want to know "
       },
       {
         "start": "1.0",
         "end": "2.59",
-        "label": "depression.mild"
+        "label": "depression.mild",
+        "text": "There's a first time for everything there is a pain in my heart uh-ho\nBut if you don't wanna feed it then you don't want to know "
       },
       {
         "start": "4.0",
         "end": "5.51",
-        "label": "relationship.girls-love-the-wrong-sort"
+        "label": "relationship.girls-love-the-wrong-sort",
+        "text": "Well I ain't got an attitude and I don't think I could be rough \nYou say that I am beautiful I guess it's not enough"
       },
       {
         "start": "7.0",
         "end": "8.61",
-        "label": "relationship.grand-gesture"
+        "label": "relationship.grand-gesture",
+        "text": "Well I've never seen a girl so cool and I'm desperate and it shows in my eyes \nso I'll cry and I'll cry just to show that I'm hurting inside"
       },
       {
         "start": "7.0",
         "end": "8.62",
-        "label": "relationship.desperate"
+        "label": "relationship.desperate",
+        "text": "Well I've never seen a girl so cool and I'm desperate and it shows in my eyes \nso I'll cry and I'll cry just to show that I'm hurting inside "
       },
       {
         "start": "10.0",
         "end": "10.69",
-        "label": "relationship.breakup"
+        "label": "relationship.breakup",
+        "text": "It's over, don't you care how I feel? The girl with the lava machine "
       },
       {
         "start": "12.0",
         "end": "12.78",
-        "label": "depression.struggling"
+        "label": "depression.struggling",
+        "text": "And I'll try be alright if it makes you feel better but I'll never forget her "
       },
       {
         "start": "15.0",
         "end": "15.112",
-        "label": "depression.predicting-death"
+        "label": "depression.predicting-death",
+        "text": "There is a light in my abdomen I don't think you'll ever go out I may soon be cinders so I wouldn't turn around "
       },
       {
         "start": "15.0",
         "end": "15.112",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "There is a light in my abdomen I don't think you'll ever go out I may soon be cinders so I wouldn't turn around "
       },
       {
         "start": "19.0",
         "end": "19.76",
-        "label": "tier.b"
+        "label": "tier.b",
+        "text": "I'm a wreck in a mess will pretend it never happened when we meet next year."
       },
       {
         "start": "17.0",
         "end": "18.45",
-        "label": "relationship.hurt-by"
+        "label": "relationship.hurt-by",
+        "text": "And I never known that this could happen. \nYou could hurt someone and say that you care "
       },
       {
         "start": "21.0",
         "end": "21.32",
-        "label": "relationship.insecurity"
+        "label": "relationship.insecurity",
+        "text": "You were young, I was vulnerable"
       },
       {
         "start": "23.0",
         "end": "23.53",
-        "label": "depression.struggling"
+        "label": "depression.struggling",
+        "text": "I can't face the daylight and I can't sleep at night "
       },
       {
         "start": "24.0",
         "end": "25.61",
-        "label": "relationship.hurt-by"
+        "label": "relationship.hurt-by",
+        "text": "And it's hard not to seem so angry when I think about the things that you said \nMy life is escaping through the hole that you put in my head."
       }
     ],
     "song_labels": [

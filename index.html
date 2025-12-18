@@ -3,193 +3,200 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Lyrics Annotator</title>
+	<title>Lyric Host</title>
 	<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
 	<style>
 		:root { --primary: #0081ff; }
-		.tag-pill { cursor: pointer; margin-right: 4px; margin-bottom: 4px; font-size: 0.75rem; display: inline-block; padding: 2px 8px; border-radius: 12px; border: 1px solid #ccc; }
+		.tag-pill { cursor: pointer; margin: 2px; font-size: 0.7rem; display: inline-block; padding: 2px 8px; border-radius: 12px; border: 1px solid #ccc; transition: all 0.2s; white-space: nowrap; }
 		.active-tag { background-color: var(--primary); color: white; border-color: var(--primary); }
-		.lyrics-box { white-space: pre-wrap; font-family: 'Courier New', monospace; background: #fdfdfd; padding: 15px; border: 1px solid #eee; border-radius: 8px; font-size: 0.9rem; }
-		.annotation-block { border-left: 4px solid var(--primary); padding-left: 10px; margin-bottom: 15px; background: #f9f9f9; }
-		.sub-text { font-size: 0.8rem; color: #666; }
-		summary { font-weight: bold; }
-		.nav-links { margin-bottom: 20px; }
-		.tag-group { margin-bottom: 1rem; }
+		.parent-tag { font-weight: bold; cursor: pointer; text-decoration: underline; color: #444; padding: 2px 4px; border-radius: 4px; }
+		.active-parent { background-color: #e0f0ff; color: var(--primary); }
+		.lyrics-box { white-space: pre-wrap; font-family: monospace; background: #f9f9f9; padding: 15px; border-radius: 8px; border: 1px solid #ddd; }
+		.annotation-block { border-left: 4px solid var(--primary); padding-left: 10px; margin-bottom: 1rem; background: #f4f4f4; border-radius: 0 4px 4px 0; }
+		.meta { font-size: 0.8rem; color: #666; display: inline; margin-left: 5px; }
+		.count { font-size: 0.6rem; opacity: 0.8; margin-left: 4px; }
+		.clickable-title { cursor: pointer; color: var(--primary); text-decoration: underline; }
+		
+		/* Single line song list styling */
+		.song-horizontal-list { display: flex; flex-wrap: wrap; gap: 15px; align-items: baseline; }
+		.song-item { border-right: 1px solid #ddd; padding-right: 15px; margin-bottom: 10px; }
+		.song-item:last-child { border-right: none; }
 	</style>
 </head>
 <body>
 	<main class="container" id="app">
 		<header>
 			<nav>
-				<ul><li><strong>LyricDB</strong></li></ul>
+				<ul><li><strong>Lyric Host</strong></li></ul>
 				<ul>
 					<li><a href="#" @click="view = 'songs'">Songs</a></li>
-					<li><a href="#" @click="view = 'tags'">Tags</a></li>
+					<li><a href="#" @click="view = 'tags'">Snippet View</a></li>
 				</ul>
 			</nav>
+			<input type="search" v-model="searchQuery" placeholder="Search song titles...">
 		</header>
 
-		<div v-if="loading" aria-busy="true">Loading song data...</div>
+		<div v-if="loading" aria-busy="true">Loading...</div>
 
 		<div v-else>
-			
-			<section v-if="view === 'tags' || view === 'songs'">
+			<section v-if="view !== 'song_detail'">
 				<details open>
-					<summary>Filter by Tags ({{selectedTags.length}} active)</summary>
-					<div v-for="(subtags, category) in hierarchicalTags" :key="category" class="tag-group">
-						<small><strong>{{ category.toUpperCase() }}</strong></small><br>
-						<span v-for="tag in subtags" 
-							:key="tag" 
-							class="tag-pill" 
-							:class="{'active-tag': selectedTags.includes(tag)}"
-							@click="toggleTag(tag)">
-							{{ tag.includes('.') ? tag.split('.')[1] : tag }}
+					<summary>Filter ({{selectedTags.length + selectedCategories.length}} active)</summary>
+					<div v-for="(subtags, cat) in hierarchicalTags" :key="cat" style="margin-bottom: 1rem;">
+						<span class="parent-tag" :class="{'active-parent': selectedCategories.includes(cat)}" @click="toggleParent(cat)">
+							{{ cat.toUpperCase() }}
+						</span>
+						<br>
+						<span v-for="tag in subtags" :key="tag" class="tag-pill" 
+							:class="{'active-tag': selectedTags.includes(tag)}" @click="toggleTag(tag)">
+							{{ tag.split('.')[1] || tag }}
+							<span class="count">{{ getTagCount(tag) }} / {{ totalTagCounts[tag] || 0 }}</span>
 						</span>
 					</div>
-					<button v-if="selectedTags.length" class="outline secondary" @click="selectedTags = []">Clear Filters</button>
+					<button v-if="selectedTags.length || selectedCategories.length" class="outline secondary" @click="resetFilters">Reset Filters</button>
 				</details>
 
 				<hr>
 
-				<div v-if="view === 'songs'">
-					<h3>Songs matching filters ({{ filteredSongs.length }})</h3>
-					<article v-for="song in filteredSongs" :key="song.title">
-						<header>
-							<a href="#" @click.prevent="openSong(song)"><strong>{{ song.title }}</strong></a>
-							<div class="sub-text">{{ song.album }} ({{ song.year || 'N/A' }})</div>
-						</header>
-						<div class="tag-list">
+				<div v-if="view === 'songs'" class="song-horizontal-list">
+					<div v-for="song in filteredSongs" :key="song.id" class="song-item">
+						<a href="#" @click.prevent="openSong(song)"><strong>{{ song.id }}</strong></a>
+						<div class="meta">({{ song.album }})</div>
+						<div v-if="song.song_labels && song.song_labels.length">
 							<span v-for="t in song.song_labels" class="tag-pill active-tag">{{t}}</span>
 						</div>
-					</article>
+					</div>
 				</div>
 
-				<div v-if="view === 'tags' && selectedTags.length > 0">
-					<h3>Annotated Lyrics for selected tags</h3>
+				<div v-if="view === 'tags'">
 					<div v-for="item in filteredLyrics" class="annotation-block">
-						<blockquote style="margin:0; border:none; padding:0;">
-							"{{ item.text }}"
-						</blockquote>
-						<div class="sub-text">
-							— <strong>{{ item.song }}</strong> ({{ item.tag }}) 
-							<a href="#" @click.prevent="openSongByTitle(item.song)">View Song</a>
+						<p style="margin:0">"{{ item.text }}"</p>
+						<div class="meta">
+							— <strong class="clickable-title" @click="openSongByTitle(item.song)">{{ item.song }}</strong> 
+							({{ item.tag }})
 						</div>
 					</div>
 				</div>
 			</section>
 
 			<section v-if="view === 'song_detail' && currentSong">
-				<button class="outline" @click="view = 'songs'">← Back</button>
-				<h2>{{ currentSong.title }}</h2>
-				<p>Album: {{ currentSong.album }} | Date: {{ currentSong.date || 'Unknown' }}</p>
-				
-				<div class="tag-list">
-					<strong>Song Tags:</strong>
-					<span v-for="t in currentSong.song_labels" class="tag-pill active-tag">{{t}}</span>
-				</div>
-
-				<div class="lyrics-box" v-if="rawLyrics">{{ rawLyrics }}</div>
-				<div v-else aria-busy="true">Loading lyrics...</div>
-
+				<button @click="view = 'songs'" class="outline">← Back</button>
+				<h2>{{ currentSong.id }}</h2>
+				<p class="meta">Album: {{ currentSong.album }}</p>
+				<div class="lyrics-box" v-html="rawLyrics || 'Loading lyrics...'"></div>
 				<hr>
-				<h4>Annotations ({{ currentSong.annotations.length }})</h4>
+				<h4>Annotations</h4>
 				<div v-for="anno in currentSong.annotations" class="annotation-block">
-					<small>Tag: <strong>{{ anno.label }}</strong> (Lines {{ anno.start }} - {{ anno.end }})</small>
-					<p style="margin-top: 5px;"><em>"{{ anno.text }}"</em></p>
+					<small><strong>{{ anno.label }}</strong></small>
+					<p><em>"{{ anno.text }}"</em></p>
 				</div>
 			</section>
-
 		</div>
 	</main>
 
 	<script>
 		const { createApp } = Vue;
-
 		createApp({
 			data() {
 				return {
-					loading: true,
-					view: 'songs',
-					db: {},
-					selectedTags: [],
-					currentSong: null,
-					rawLyrics: ''
+					loading: true, view: 'songs', db: {}, 
+					selectedTags: [], selectedCategories: [], searchQuery: '',
+					currentSong: null, rawLyrics: ''
 				}
 			},
 			computed: {
 				songs() {
-					// Transform dictionary to array and inject title
-					return Object.entries(this.db).map(([title, data]) => ({
-						title,
-						...data
-					}));
+					return Object.entries(this.db).map(([id, data]) => ({ id, ...data }));
 				},
 				hierarchicalTags() {
 					const tree = {};
-					this.songs.forEach(song => {
-						const allTags = [...(song.song_labels || []), ...song.annotations.map(a => a.label)];
-						allTags.forEach(t => {
-							const category = t.includes('.') ? t.split('.')[0] : 'general';
-							if (!tree[category]) tree[category] = new Set();
-							tree[category].add(t);
+					this.songs.forEach(s => {
+						const all = [...(s.song_labels || []), ...s.annotations.map(a => a.label)];
+						all.forEach(t => {
+							const cat = t.includes('.') ? t.split('.')[0] : 'general';
+							if (!tree[cat]) tree[cat] = new Set();
+							tree[cat].add(t);
 						});
 					});
 					Object.keys(tree).forEach(k => tree[k] = Array.from(tree[k]).sort());
 					return tree;
 				},
+				totalTagCounts() {
+					const counts = {};
+					this.songs.forEach(s => {
+						const tags = new Set([...(s.song_labels || []), ...s.annotations.map(a => a.label)]);
+						tags.forEach(t => counts[t] = (counts[t] || 0) + 1);
+					});
+					return counts;
+				},
 				filteredSongs() {
-					if (this.selectedTags.length === 0) return this.songs;
-					return this.songs.filter(song => {
-						const songTags = [...(song.song_labels || []), ...song.annotations.map(a => a.label)];
-						// Requirement 5: Combinations (Match ALL selected tags)
-						return this.selectedTags.every(t => songTags.includes(t));
+					return this.songs.filter(s => {
+						const matchSearch = s.id.toLowerCase().includes(this.searchQuery.toLowerCase());
+						const songTags = [...(s.song_labels || []), ...s.annotations.map(a => a.label)];
+						const matchSpecific = this.selectedTags.every(t => songTags.includes(t));
+						const matchParents = this.selectedCategories.every(cat => 
+							songTags.some(t => (t.includes('.') ? t.split('.')[0] : 'general') === cat)
+						);
+						return matchSearch && matchSpecific && matchParents;
 					});
 				},
 				filteredLyrics() {
-					const results = [];
-					this.songs.forEach(song => {
-						song.annotations.forEach(anno => {
-							if (this.selectedTags.includes(anno.label)) {
-								results.push({
-									song: song.title,
-									tag: anno.label,
-									text: anno.text
-								});
+					const res = [];
+					this.filteredSongs.forEach(s => {
+						s.annotations.forEach(a => {
+							const tag = a.label;
+							const cat = tag.includes('.') ? tag.split('.')[0] : 'general';
+							const isTagMatch = this.selectedTags.includes(tag);
+							const isCatMatch = this.selectedCategories.includes(cat);
+							const noFilter = this.selectedTags.length === 0 && this.selectedCategories.length === 0;
+							if (noFilter || isTagMatch || isCatMatch) {
+								res.push({ song: s.id, tag: tag, text: a.text });
 							}
 						});
 					});
-					return results;
+					return res;
 				}
 			},
 			methods: {
-				toggleTag(tag) {
-					const idx = this.selectedTags.indexOf(tag);
-					if (idx > -1) this.selectedTags.splice(idx, 1);
-					else this.selectedTags.push(tag);
+				toggleTag(t) {
+					const i = this.selectedTags.indexOf(t);
+					if (i > -1) this.selectedTags.splice(i, 1);
+					else this.selectedTags.push(t);
 				},
-				openSong(song) {
+				toggleParent(cat) {
+					const i = this.selectedCategories.indexOf(cat);
+					if (i > -1) this.selectedCategories.splice(i, 1);
+					else this.selectedCategories.push(cat);
+				},
+				resetFilters() {
+					this.selectedTags = [];
+					this.selectedCategories = [];
+				},
+				getTagCount(tag) {
+					return this.filteredSongs.filter(s => {
+						const tags = [...(s.song_labels || []), ...s.annotations.map(a => a.label)];
+						return tags.includes(tag);
+					}).length;
+				},
+				async openSong(song) {
 					this.currentSong = song;
 					this.view = 'song_detail';
 					this.rawLyrics = '';
-					fetch(song.lyrics_path)
-						.then(r => r.text())
-						.then(t => this.rawLyrics = t)
-						.catch(() => this.rawLyrics = "Error: Lyrics file not found at " + song.lyrics_path);
+					try {
+						const r = await fetch(song.lyrics_path);
+						this.rawLyrics = await r.text();
+					} catch (e) { this.rawLyrics = "Lyric file not found."; }
 				},
 				openSongByTitle(title) {
-					const song = this.songs.find(s => s.title === title);
+					const song = this.songs.find(s => s.id === title);
 					if (song) this.openSong(song);
 				}
 			},
 			async mounted() {
-				try {
-					const response = await fetch('songs.json');
-					this.db = await response.json();
-					this.loading = false;
-				} catch (e) {
-					alert("Failed to load songs.json. Ensure it is in the same folder.");
-				}
+				const r = await fetch('songs.json');
+				this.db = await r.json();
+				this.loading = false;
 			}
 		}).mount('#app');
 	</script>
