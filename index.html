@@ -5,91 +5,96 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Lyric Host</title>
 	<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+	<script src="https://cdn.tailwindcss.com"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400&display=swap" rel="stylesheet">
 	<style>
-		:root { --primary: #0081ff; }
-		.tag-pill { cursor: pointer; margin: 2px; font-size: 0.7rem; display: inline-block; padding: 2px 8px; border-radius: 12px; border: 1px solid #ccc; transition: all 0.2s; white-space: nowrap; }
-		.active-tag { background-color: var(--primary); color: white; border-color: var(--primary); }
-		.parent-tag { font-weight: bold; cursor: pointer; text-decoration: underline; color: #444; padding: 2px 4px; border-radius: 4px; }
-		.active-parent { background-color: #e0f0ff; color: var(--primary); }
-		.lyrics-box { white-space: pre-wrap; font-family: monospace; background: #f9f9f9; padding: 15px; border-radius: 8px; border: 1px solid #ddd; }
-		.annotation-block { border-left: 4px solid var(--primary); padding-left: 10px; margin-bottom: 1rem; background: #f4f4f4; border-radius: 0 4px 4px 0; }
-		.meta { font-size: 0.8rem; color: #666; display: inline; margin-left: 5px; }
-		.count { font-size: 0.6rem; opacity: 0.8; margin-left: 4px; }
-		.clickable-title { cursor: pointer; color: var(--primary); text-decoration: underline; }
-		
-		/* Single line song list styling */
-		.song-horizontal-list { display: flex; flex-wrap: wrap; gap: 15px; align-items: baseline; }
-		.song-item { border-right: 1px solid #ddd; padding-right: 15px; margin-bottom: 10px; }
-		.song-item:last-child { border-right: none; }
+		body { font-family: 'Noto Sans', sans-serif; font-weight: 400 !important; }
+		* { font-weight: 400 !important; font-style: normal !important; }
+		.tag-pill { cursor: pointer; font-size: 0.7rem; padding: 2px 8px; border-radius: 9999px; border: 1px solid #e5e7eb; transition: all 0.2s; white-space: nowrap; display: inline-block; margin: 2px; }
+		.active-tag { background-color: #0081ff; color: white; border-color: #0081ff; }
+		.active-parent { color: #0081ff; text-decoration: none; }
+		.lyrics-box { white-space: pre-wrap; background: #f9fafb; padding: 1rem; border-radius: 0.5rem; border: 1px solid #e5e7eb; font-size: 0.875rem; }
+		.annotation-block { border-left: 3px solid #0081ff; padding-left: 0.75rem; margin-bottom: 1rem; }
 	</style>
 </head>
-<body>
-	<main class="container" id="app">
-		<header>
-			<nav>
-				<ul><li><strong>Lyric Host</strong></li></ul>
-				<ul>
-					<li><a href="#" @click="view = 'songs'">Songs</a></li>
-					<li><a href="#" @click="view = 'tags'">Snippet View</a></li>
+<body class="bg-white text-gray-900">
+	<main class="max-w-4xl mx-auto p-4" id="app">
+		<header class="flex flex-col gap-4 mb-6">
+			<nav class="flex justify-between items-center border-b pb-4">
+				<div class="text-lg">Lyric Host</div>
+				<ul class="flex gap-4 list-none m-0 p-0">
+					<li><a href="#" class="text-blue-600 no-underline" @click="view = 'tags'">Snippet View</a></li>
+					<li><a href="#" class="text-blue-600 no-underline" @click="view = 'songs'">Songs</a></li>
 				</ul>
 			</nav>
-			<input type="search" v-model="searchQuery" placeholder="Search song titles...">
+			<input type="search" v-model="searchQuery" placeholder="Search song titles..." class="w-full p-2 border border-gray-300 rounded focus:outline-none focus:ring-1 focus:ring-blue-500">
 		</header>
 
-		<div v-if="loading" aria-busy="true">Loading...</div>
+		<div v-if="loading" class="text-center py-10">Loading...</div>
 
 		<div v-else>
 			<section v-if="view !== 'song_detail'">
-				<details open>
-					<summary>Filter ({{selectedTags.length + selectedCategories.length}} active)</summary>
-					<div v-for="(subtags, cat) in hierarchicalTags" :key="cat" style="margin-bottom: 1rem;">
-						<span class="parent-tag" :class="{'active-parent': selectedCategories.includes(cat)}" @click="toggleParent(cat)">
-							{{ cat.toUpperCase() }}
-						</span>
-						<br>
-						<span v-for="tag in subtags" :key="tag" class="tag-pill" 
-							:class="{'active-tag': selectedTags.includes(tag)}" @click="toggleTag(tag)">
-							{{ tag.split('.')[1] || tag }}
-							<span class="count">{{ getTagCount(tag) }} / {{ totalTagCounts[tag] || 0 }}</span>
-						</span>
+				<div class="mb-6">
+					<div class="flex items-center gap-4 mb-2">
+						<span class="text-sm">Filter ({{selectedTags.length + selectedCategories.length}} active)</span>
+						<button v-if="selectedTags.length || selectedCategories.length" 
+							@click="resetFilters" 
+							class="text-xs text-red-500 border border-red-500 px-2 py-1 rounded hover:bg-red-50">
+							Clear
+						</button>
 					</div>
-					<button v-if="selectedTags.length || selectedCategories.length" class="outline secondary" @click="resetFilters">Reset Filters</button>
-				</details>
+					
+					<div v-for="(subtags, cat) in hierarchicalTags" :key="cat" class="mb-4">
+						<span class="text-xs text-gray-500 cursor-pointer hover:text-blue-500" 
+							:class="{'active-parent': selectedCategories.includes(cat)}" 
+							@click="toggleParent(cat)">
+							{{ cat }}
+						</span>
+						<div class="flex flex-wrap gap-1 mt-1">
+							<span v-for="tag in subtags" :key="tag" class="tag-pill" 
+								:class="{'active-tag': selectedTags.includes(tag)}" @click="toggleTag(tag)">
+								{{ tag.split('.')[1] || tag }}
+								<span class="ml-1 opacity-70 text-[0.6rem]">{{ getTagCount(tag) }} / {{ totalTagCounts[tag] || 0 }}</span>
+							</span>
+						</div>
+					</div>
+				</div>
 
-				<hr>
+				<hr class="my-6 border-gray-200">
 
-				<div v-if="view === 'songs'" class="song-horizontal-list">
-					<div v-for="song in filteredSongs" :key="song.id" class="song-item">
-						<a href="#" @click.prevent="openSong(song)"><strong>{{ song.id }}</strong></a>
-						<div class="meta">({{ song.album }})</div>
-						<div v-if="song.song_labels && song.song_labels.length">
+				<div v-if="view === 'songs'" class="flex flex-wrap gap-x-6 gap-y-4">
+					<div v-for="song in filteredSongs" :key="song.id" class="border-r border-gray-200 pr-6 last:border-0">
+						<a href="#" @click.prevent="openSong(song)" class="text-blue-600 no-underline">{{ song.id }}</a>
+						<span class="text-xs text-gray-500 ml-2">({{ song.album }})</span>
+						<div v-if="song.song_labels && song.song_labels.length" class="mt-1">
 							<span v-for="t in song.song_labels" class="tag-pill active-tag">{{t}}</span>
 						</div>
 					</div>
 				</div>
 
-				<div v-if="view === 'tags'">
+				<div v-if="view === 'tags'" class="space-y-6">
 					<div v-for="item in filteredLyrics" class="annotation-block">
-						<p style="margin:0">"{{ item.text }}"</p>
-						<div class="meta">
-							— <strong class="clickable-title" @click="openSongByTitle(item.song)">{{ item.song }}</strong> 
-							({{ item.tag }})
+						<p class="text-xs m-0 leading-relaxed text-gray-700">"{{ item.text }}"</p>
+						<div class="text-[0.7rem] text-gray-500 mt-1">
+							<span class="text-blue-600 cursor-pointer hover:underline" @click="openSongByTitle(item.song)">{{ item.song }}</span> 
+							<span class="ml-1">({{ item.tag }})</span>
 						</div>
 					</div>
 				</div>
 			</section>
 
 			<section v-if="view === 'song_detail' && currentSong">
-				<button @click="view = 'songs'" class="outline">← Back</button>
-				<h2>{{ currentSong.id }}</h2>
-				<p class="meta">Album: {{ currentSong.album }}</p>
+				<button @click="view = 'tags'" class="mb-4 text-xs border border-gray-300 px-3 py-1 rounded hover:bg-gray-50">← Back</button>
+				<h2 class="text-xl mb-1">{{ currentSong.id }}</h2>
+				<p class="text-xs text-gray-500 mb-6">Album: {{ currentSong.album }}</p>
 				<div class="lyrics-box" v-html="rawLyrics || 'Loading lyrics...'"></div>
-				<hr>
-				<h4>Annotations</h4>
+				<hr class="my-8 border-gray-200">
+				<h4 class="text-sm mb-4">Annotations</h4>
 				<div v-for="anno in currentSong.annotations" class="annotation-block">
-					<small><strong>{{ anno.label }}</strong></small>
-					<p><em>"{{ anno.text }}"</em></p>
+					<div class="text-[0.7rem] text-gray-500 mb-1">{{ anno.label }}</div>
+					<p class="text-xs">"{{ anno.text }}"</p>
 				</div>
 			</section>
 		</div>
@@ -100,9 +105,14 @@
 		createApp({
 			data() {
 				return {
-					loading: true, view: 'songs', db: {}, 
-					selectedTags: [], selectedCategories: [], searchQuery: '',
-					currentSong: null, rawLyrics: ''
+					loading: true, 
+					view: 'tags', // System defaults to snippet view
+					db: {}, 
+					selectedTags: [], 
+					selectedCategories: [], 
+					searchQuery: '',
+					currentSong: null, 
+					rawLyrics: ''
 				}
 			},
 			computed: {
@@ -183,8 +193,9 @@
 					this.currentSong = song;
 					this.view = 'song_detail';
 					this.rawLyrics = '';
+					const fullPath = `lyrics/${song.lyrics_path}`;
 					try {
-						const r = await fetch(song.lyrics_path);
+						const r = await fetch(fullPath);
 						this.rawLyrics = await r.text();
 					} catch (e) { this.rawLyrics = "Lyric file not found."; }
 				},
@@ -194,9 +205,11 @@
 				}
 			},
 			async mounted() {
-				const r = await fetch('songs.json');
-				this.db = await r.json();
-				this.loading = false;
+				try {
+					const r = await fetch('songs.json');
+					this.db = await r.json();
+					this.loading = false;
+				} catch (e) { console.error("Error loading JSON", e); }
 			}
 		}).mount('#app');
 	</script>

@@ -12,7 +12,7 @@
       {
         "start": "12.0",
         "end": "12.54",
-        "label": "quality.awkward",
+        "label": "tier.f",
         "text": "I\u2019m alarmed, \u2018cause you never know who\u2019s in your house"
       },
       {
@@ -41,12 +41,14 @@
       }
     ],
     "song_labels": [
-      "person.becky"
+      "person.becky",
+      "relationship.insecurity"
     ],
     "description": "",
     "year": "",
-    "date_range": "",
-    "date": ""
+    "date": "",
+    "date_range_start": "",
+    "date_range_end": ""
   },
   "Brilliance": {
     "album": "Alarme",
@@ -72,13 +74,19 @@
       {
         "start": "3.0",
         "end": "3.45",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "I'm never satisfied, I'm never choosing life "
       }
     ],
-    "song_labels": [],
+    "song_labels": [
+      "arrogance.general"
+    ],
     "lyrics_path": "alarme/brilliance.txt",
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Hazard Lights": {
     "album": "Alarme",
@@ -125,7 +133,11 @@
       "person.becky"
     ],
     "lyrics_path": "alarme/hazard-lights.txt",
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Your Star": {
     "album": "Alarme",
@@ -160,7 +172,11 @@
       "person.becky"
     ],
     "description": "description for your star!!!",
-    "lyrics_path": "alarme/your-star.txt"
+    "lyrics_path": "alarme/your-star.txt",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Unknown #1": {
     "album": "Alarme",
@@ -194,7 +210,11 @@
       "society.end-of-the-world"
     ],
     "lyrics_path": "alarme/unknown-1.txt",
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Over and Out": {
     "album": "Alarme",
@@ -259,7 +279,11 @@
       "character.inadequacy"
     ],
     "lyrics_path": "alarme/over-and-out.txt",
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Unfortunata": {
     "album": "Alarme",
@@ -308,10 +332,15 @@
       }
     ],
     "song_labels": [
-      "person.becky"
+      "person.becky",
+      "relationship.breakup"
     ],
     "description": "It's not clear who this song is about. I think it's early becky. Am I imagining a immenent breakup?",
-    "lyrics_path": "alarme/unfortunata.txt"
+    "lyrics_path": "alarme/unfortunata.txt",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Wagon": {
     "album": "Alarme",
@@ -389,7 +418,11 @@
       "person.becky"
     ],
     "description": "Production\n\nDR550 1 guitar and vocals\n\nWas re-recorded for A-Sides and Asides",
-    "lyrics_path": "alarme/wagon.txt"
+    "lyrics_path": "alarme/wagon.txt",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Mudsligner": {
     "album": "Alarme",
@@ -443,7 +476,11 @@
       "depression.suicide",
       "relationship.breakup"
     ],
-    "description": "\"Some day maybe soon you will know you were close to losing it all\" may relate to the early idea of splitting up with becky.\n\nI think this song must be at a time when I am close to splitting up, or want to, or think that it might happen. It's not clear to me whether the self-harm aspects related to consequences of the breakup or seperate from it."
+    "description": "\"Some day maybe soon you will know you were close to losing it all\" may relate to the early idea of splitting up with becky.\n\nI think this song must be at a time when I am close to splitting up, or want to, or think that it might happen. It's not clear to me whether the self-harm aspects related to consequences of the breakup or seperate from it.",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Come round": {
     "album": "Alarme",
@@ -537,7 +574,11 @@
       "depression.serious",
       "arrogance.superiority"
     ],
-    "description": "First mention of Becky in a song?\n\nMostly a song about me and battling to understand who I am, in a world where being smart isn't important. Becky is a side-note."
+    "description": "First mention of Becky in a song?\n\nMostly a song about me and battling to understand who I am, in a world where being smart isn't important. Becky is a side-note.",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Butterfingers": {
     "album": "28 minutes 'til creation",
@@ -575,8 +616,7 @@
       }
     ],
     "song_labels": [
-      "songtheme.imaginary",
-      "songtheme.somethingelse"
+      "topic.imaginary"
     ],
     "description": "It's likely that as I discovered sex I wrote about it but in awkward and immature ways. This is an example where I'm writing about a prostitute.",
     "year": "",
@@ -803,7 +843,7 @@
       {
         "start": "11.0",
         "end": "11.41",
-        "label": "depression.paranoia",
+        "label": "relationship.insecurity",
         "text": "to wonder if your word's as good as mine "
       },
       {
@@ -967,7 +1007,7 @@
       {
         "start": "14.0",
         "end": "14.51",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "No wonder I lie here alone (langa bollar pa Bengt) "
       },
       {
@@ -1005,7 +1045,7 @@
       {
         "start": "8.0",
         "end": "8.70",
-        "label": "language.contrast-big-kitchen-sink",
+        "label": "language.absurdity",
         "text": "And all the angels want is a lullaby, but we can deal with it tomorrow"
       },
       {
@@ -1437,10 +1477,10 @@
       }
     ],
     "song_labels": [
-      "relationship.breakup",
+      "meta.unrecorded-but-known-tune",
       "person.immaginary-girl",
-      "songtheme.imaginary",
-      "meta.unrecorded-but-known-tune"
+      "relationship.breakup",
+      "topic.imaginary"
     ],
     "description": "Seems likely to be Leanne Gill but somehow called \"Lucy\""
   },
@@ -2092,7 +2132,7 @@
       {
         "start": "19.0",
         "end": "19.60",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "Yes, the princess was my fault, but I am not ashamed at all."
       }
     ],
@@ -2134,7 +2174,11 @@
     "song_labels": [
       "person.becky"
     ],
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Solids and Liquids": {
     "album": "Unrecorded",
@@ -2172,7 +2216,12 @@
       }
     ],
     "song_labels": [],
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": "",
+    "flagged": true
   },
   "Overdrive #2": {
     "album": "Unrecorded",
@@ -2194,7 +2243,11 @@
     "song_labels": [
       "person.becky"
     ],
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
   },
   "Of the utmost unimportance": {
     "album": "Earlier",
@@ -2239,7 +2292,7 @@
       {
         "start": "25.0",
         "end": "25.72",
-        "label": "relationship.girls-love-the-wrong-sort",
+        "label": "relationship.dont-know-how-to",
         "text": "and if I can start to be a retard you'll love me with all of your heart."
       }
     ],
@@ -2346,7 +2399,7 @@
       {
         "start": "25.0",
         "end": "26.34",
-        "label": "relationship.sex-aggressive",
+        "label": "relationship.sex-general",
         "text": "Bye Bye child, hope you come back I'll finish what I want to do\njust to give you a good seeing to."
       }
     ],
@@ -2791,7 +2844,7 @@
       {
         "start": "10.0",
         "end": "10.170",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "You never said goodbye never said anything never promised anything that you didn't mean never ever knew that we just died perchance to sleep perchance to dream our dreams"
       }
     ],
@@ -2839,7 +2892,7 @@
       {
         "start": "1.0",
         "end": "1.37",
-        "label": "depression.location",
+        "label": "topic.places",
         "text": "I want to be anywhere other than here"
       },
       {
@@ -2869,7 +2922,7 @@
       {
         "start": "9.0",
         "end": "9.41",
-        "label": "depression.location",
+        "label": "topic.places",
         "text": "I grow wings whenever my town sucks me in"
       },
       {
@@ -2880,8 +2933,8 @@
       }
     ],
     "song_labels": [
-      "depression.location",
-      "depression.mild"
+      "depression.mild",
+      "topic.places"
     ],
     "description": "",
     "year": "",
@@ -3383,7 +3436,7 @@
       {
         "start": "18.0",
         "end": "19.19",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "I drive through distraction like a soft perfume fusion\nand a pink kangaroo"
       }
     ],
@@ -3685,7 +3738,7 @@
       {
         "start": "9.0",
         "end": "10.44",
-        "label": "character.quiet",
+        "label": "character.awkwardness",
         "text": "Sent into this restless world, I'm a quiet reverb\nOut into the solid earth, I'm a quiet reverb"
       },
       {
@@ -3771,7 +3824,7 @@
       {
         "start": "4.0",
         "end": "4.57",
-        "label": "Sleep",
+        "label": "topic.sleep",
         "text": "Sleep well sweetheart dream away live there as you sleep "
       }
     ],
@@ -3803,7 +3856,7 @@
       {
         "start": "4.0",
         "end": "5.51",
-        "label": "relationship.girls-love-the-wrong-sort",
+        "label": "relationship.dont-know-how-to",
         "text": "Well I ain't got an attitude and I don't think I could be rough \nYou say that I am beautiful I guess it's not enough"
       },
       {
@@ -3922,7 +3975,7 @@
       {
         "start": "1.0",
         "end": "1.83",
-        "label": "Sleep",
+        "label": "topic.sleep",
         "text": "Wake up each morning, have 6 cups cups of coffee and fall back asleep on the floor,"
       },
       {
@@ -4026,7 +4079,7 @@
     ],
     "song_labels": [
       "person.imaginary-other",
-      "songtheme.imaginary"
+      "topic.imaginary"
     ],
     "description": "",
     "year": "",
@@ -4527,7 +4580,7 @@
       {
         "start": "3.0",
         "end": "3.69",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "It ticks and rhymes as a waste of time like the plans of mice and men"
       },
       {
@@ -4628,7 +4681,7 @@
       {
         "start": "15.0",
         "end": "15.58",
-        "label": "cultural-reference",
+        "label": "language.cultural-reference",
         "text": "My voice is intact, but I don't want to sing my life again"
       },
       {
@@ -4689,7 +4742,8 @@
     "year": "",
     "date_range_start": "",
     "date_range_end": "",
-    "date": ""
+    "date": "",
+    "flagged": false
   },
   "CJC (I'd love to)": {
     "album": "Can Love Kill Misery Era",
@@ -4746,7 +4800,8 @@
     "year": "",
     "date_range_start": "",
     "date_range_end": "",
-    "date": ""
+    "date": "",
+    "flagged": false
   },
   "Unknown CLKM 1": {
     "album": "Can Love Kill Misery Era",
@@ -4825,13 +4880,13 @@
       {
         "start": "1.0",
         "end": "1.53",
-        "label": "Sleep",
+        "label": "topic.sleep",
         "text": "Time will tell, If I can dream as well as I can sleep"
       },
       {
         "start": "2.0",
         "end": "2.25",
-        "label": "relationship.mss-you",
+        "label": "relationship.miss-you",
         "text": "I write to say I miss you"
       },
       {
@@ -4843,13 +4898,14 @@
     ],
     "song_labels": [
       "person.charlotte",
-      "relationship.mss-you"
+      "relationship.miss-you"
     ],
     "description": "",
     "year": "",
     "date_range_start": "",
     "date_range_end": "",
-    "date": ""
+    "date": "",
+    "flagged": false
   },
   "Unknown CLKM 2": {
     "album": "Can Love Kill Misery Era",
@@ -4938,7 +4994,8 @@
       }
     ],
     "song_labels": [
-      "person.charlotte"
+      "person.charlotte",
+      "depression.suicide"
     ],
     "description": "",
     "year": "",
@@ -4971,7 +5028,12 @@
     "lyrics_path": "can-love-kill-misery/love-by-intimidation.txt",
     "annotations": [],
     "song_labels": [],
-    "description": ""
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": "",
+    "flagged": false
   },
   "Best days of my life": {
     "album": "Explosions I have known",
@@ -5110,9 +5172,9 @@
       }
     ],
     "song_labels": [
-      "person.other-real",
       "depression.suicide",
-      "songtheme.imaginary"
+      "person.other-real",
+      "topic.imaginary"
     ],
     "description": "",
     "year": "",
@@ -5273,7 +5335,8 @@
     ],
     "song_labels": [
       "person.catherine",
-      "self-reference.writing"
+      "self-reference.writing",
+      "relationship.affection"
     ],
     "description": "",
     "year": "",
