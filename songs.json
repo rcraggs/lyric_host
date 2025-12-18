@@ -1,0 +1,5135 @@
+{
+  "Alarmed": {
+    "album": "Alarme",
+    "lyrics_path": "alarme/alarmed.txt",
+    "annotations": [
+      {
+        "start": "18.0",
+        "end": "19.23",
+        "label": "self-reference.musician",
+        "text": "I\u2019m a singler la la la\nI\u2019m a voice la la la la"
+      },
+      {
+        "start": "12.0",
+        "end": "12.54",
+        "label": "quality.awkward",
+        "text": "I\u2019m alarmed, \u2018cause you never know who\u2019s in your house"
+      },
+      {
+        "start": "1.0",
+        "end": "2.49",
+        "label": "relationship.insecurity",
+        "text": "I\u2019m no sinner, \u2018cause my better half if almost half a world away\nAnd I\u2019m frightened she will hear every word I say"
+      },
+      {
+        "start": "3.0",
+        "end": "4.30",
+        "label": "depression.mild",
+        "text": "I\u2019m a liar because I always tend to say that I\u2019m ok, \nWhen I\u2019m really not that great"
+      },
+      {
+        "start": "16.0",
+        "end": "16.28",
+        "label": "language.gibberish",
+        "text": "Panic station trans-oblivion"
+      },
+      {
+        "start": "16.0",
+        "end": "17.59",
+        "label": "character.awkwardness",
+        "text": "Panic station trans-oblivion the phone\u2019s great ringing shout\nI\u2019m a loner I can\u2019t talk to you, you just might find me out"
+      }
+    ],
+    "song_labels": [
+      "person.becky"
+    ],
+    "description": "",
+    "year": "",
+    "date_range": "",
+    "date": ""
+  },
+  "Brilliance": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.50",
+        "label": "arrogance.general",
+        "text": "I'm God's own child, turned good, although I wasn't really that bad \nIf you consider what I had, I made the most of it."
+      },
+      {
+        "start": "8.0",
+        "end": "9.13",
+        "label": "arrogance.general",
+        "text": "But you must all admit \nI'm brilliant"
+      },
+      {
+        "start": "6.0",
+        "end": "6.62",
+        "label": "language.mild",
+        "text": "Get off your arse and sing if there's something to sing about."
+      },
+      {
+        "start": "3.0",
+        "end": "3.45",
+        "label": "cultural-reference",
+        "text": "I'm never satisfied, I'm never choosing life "
+      }
+    ],
+    "song_labels": [],
+    "lyrics_path": "alarme/brilliance.txt",
+    "description": ""
+  },
+  "Hazard Lights": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.30",
+        "label": "character.contradiction",
+        "text": "I\u2019m not scared, well just a little bit\nI\u2019m so sussed, handle anything"
+      },
+      {
+        "start": "2.0",
+        "end": "2.30",
+        "label": "arrogance.general",
+        "text": "I\u2019m so sussed, handle anything"
+      },
+      {
+        "start": "3.0",
+        "end": "4.25",
+        "label": "relationship.insecurity",
+        "text": "Don\u2019t be fooled, I\u2019m no better than anyone else\nLeft by the girl you love"
+      },
+      {
+        "start": "12.0",
+        "end": "16.46",
+        "label": "relationship.insecurity",
+        "text": "Now you're gone, all my hazard lights turn on \nburning bright \u2018cause I'm not strong \nmakes me feel there's something wrong, well just a little bit \non my own intravenous telephone \ndon't shoot till you see the white of her lies"
+      },
+      {
+        "start": "16.0",
+        "end": "16.46",
+        "label": "language.play-on-words",
+        "text": "don't shoot till you see the white of her lies"
+      },
+      {
+        "start": "9.12",
+        "end": "9.31",
+        "label": "relationship.insecurity",
+        "text": " trust you baby but"
+      }
+    ],
+    "song_labels": [
+      "relationship.insecurity",
+      "person.becky"
+    ],
+    "lyrics_path": "alarme/hazard-lights.txt",
+    "description": ""
+  },
+  "Your Star": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.53",
+        "label": "tier.b",
+        "text": "Oh baby, I\u2019m shaking like a stone and falling from my satellite\nSoon maybe you\u2019ll teach me how to rocketeer from here"
+      },
+      {
+        "start": "18.0",
+        "end": "18.77",
+        "label": "relationship.sex-discovering",
+        "text": "And if I\u2019m allowed to fly you home, maybe I can stay here for a little while?"
+      },
+      {
+        "start": "11.0",
+        "end": "11.55",
+        "label": "relationship.affection",
+        "text": "I wish that I could be on your star, never come to down"
+      },
+      {
+        "start": "6.0",
+        "end": "6.60",
+        "label": "tier.b",
+        "text": "If you see me floating by I\u2019d appreciate you holding my hand"
+      }
+    ],
+    "song_labels": [
+      "relationship.insecurity",
+      "person.becky"
+    ],
+    "description": "description for your star!!!",
+    "lyrics_path": "alarme/your-star.txt"
+  },
+  "Unknown #1": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.59",
+        "label": "society.end-of-the-world",
+        "text": "Believe your eyes, it\u2019s over and our time is nearly up\nThe earth shakes as the mantle effervesces through the crust\nThe end is neigh, the sands of time have clearly had enough"
+      },
+      {
+        "start": "4.0",
+        "end": "4.69",
+        "label": "tier.b",
+        "text": "Yet something makes the earth spins round even though noone\u2019s in love"
+      },
+      {
+        "start": "7.0",
+        "end": "9.53",
+        "label": "religion.anti",
+        "text": "\u2018Cause rumour has it, you can take it with you when you go\nBut if you leave it behind, someone can buy your soul\nAnd sell it to your demons, \u2018cause noone\u2019s in control"
+      },
+      {
+        "start": "12.0",
+        "end": "12.58",
+        "label": "society.distain-for",
+        "text": "The meek will inherit the earth, but that\u2019s not us anymore"
+      }
+    ],
+    "song_labels": [
+      "society.end-of-the-world"
+    ],
+    "lyrics_path": "alarme/unknown-1.txt",
+    "description": ""
+  },
+  "Over and Out": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.108",
+        "label": "society.distruction",
+        "text": "Life at a difficult speed, too fast to stay on my feet and too slow to fashion my own kind of social disease"
+      },
+      {
+        "start": "1.0",
+        "end": "1.111",
+        "label": "character.growing-up",
+        "text": "Life at a difficult age, too young for getting engaged, and too old to cry for the way that love makes you feel"
+      },
+      {
+        "start": "3.0",
+        "end": "4.26",
+        "label": "arrogance.general",
+        "text": "Already on my knees, somebody:\n save me, save me, save me"
+      },
+      {
+        "start": "6.0",
+        "end": "6.66",
+        "label": "depression.lonliness",
+        "text": "Abuse yourself, use your own pride, two reasons for staying inside"
+      },
+      {
+        "start": "7.0",
+        "end": "7.57",
+        "label": "self-reference.writing",
+        "text": "I\u2019ve read all the verses I wrote, so I\u2019ll write some more"
+      },
+      {
+        "start": "9.0",
+        "end": "9.56",
+        "label": "depression.suicide",
+        "text": "Stand on the shoulders of giants and take a running jump"
+      },
+      {
+        "start": "8.0",
+        "end": "8.55",
+        "label": "character.inadequacy",
+        "text": "Better than being yourself is being the person in front"
+      },
+      {
+        "start": "13.0",
+        "end": "13.29",
+        "label": "character.awkwardness",
+        "text": "Maybe I\u2019m so hard to be about"
+      },
+      {
+        "start": "15.0",
+        "end": "15.31",
+        "label": "character.awkwardness",
+        "text": "Hiding among shadows of a doubt"
+      }
+    ],
+    "song_labels": [
+      "character.awkwardness",
+      "character.inadequacy"
+    ],
+    "lyrics_path": "alarme/over-and-out.txt",
+    "description": ""
+  },
+  "Unfortunata": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.51",
+        "label": "character.contradiction",
+        "text": "By rights I should be crying all the way to my grave\nI'm pretty vocal in the way in which I'm feeling ok"
+      },
+      {
+        "start": "4.0",
+        "end": "5.7",
+        "label": "arrogance.girls",
+        "text": "I always thought that it would matter, and it matters\nTo you."
+      },
+      {
+        "start": "8.0",
+        "end": "9.45",
+        "label": "relationship.being-single",
+        "text": "By rights I should be staring daggers at your head\nbut I'm tired looking forward to an empty bed"
+      },
+      {
+        "start": "11.0",
+        "end": "12.27",
+        "label": "character.flippant",
+        "text": "It doesn't mean to say that it doesn't matter\nIt does, just not that much"
+      },
+      {
+        "start": "15.16",
+        "end": "15.27",
+        "label": "language.made-up-words",
+        "text": "unfortunata"
+      },
+      {
+        "start": "20.0",
+        "end": "20.31",
+        "label": "character.contradiction",
+        "text": "It's nice in an unfortunate way"
+      },
+      {
+        "start": "22.0",
+        "end": "23.48",
+        "label": "character.growing-up",
+        "text": "To be honest I just think I've grown tired of love\nI'm only 12 but I think I've already had enough "
+      }
+    ],
+    "song_labels": [
+      "person.becky"
+    ],
+    "description": "It's not clear who this song is about. I think it's early becky. Am I imagining a immenent breakup?",
+    "lyrics_path": "alarme/unfortunata.txt"
+  },
+  "Wagon": {
+    "album": "Alarme",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.41",
+        "label": "language.absurdity",
+        "text": "I like air, I like it more than breathing"
+      },
+      {
+        "start": "2.0",
+        "end": "2.46",
+        "label": "arrogance.general",
+        "text": "I like things, it's just that they're too easy"
+      },
+      {
+        "start": "5.0",
+        "end": "5.36",
+        "label": "depression.self-harm",
+        "text": "I'd rather watch my blood turn black"
+      },
+      {
+        "start": "7.0",
+        "end": "7.34",
+        "label": "depression.mild",
+        "text": "I wake up in the middle of the day"
+      },
+      {
+        "start": "7.0",
+        "end": "8.19",
+        "label": "relationship.affection",
+        "text": "I wake up in the middle of the day \nto say \"I love you\""
+      },
+      {
+        "start": "11.0",
+        "end": "13.38",
+        "label": "depression.failure",
+        "text": "I want more, 'cause I'm so tired of this\nLooking back I think I achieved nothing\nLooking back nothing happened, but you"
+      },
+      {
+        "start": "15.0",
+        "end": "15.33",
+        "label": "depression.self-harm",
+        "text": "I'd rather feel my bones go crack"
+      },
+      {
+        "start": "17.0",
+        "end": "17.57",
+        "label": "relationship.affection",
+        "text": "I wake up in the middle of the night to dream about you. "
+      },
+      {
+        "start": "19.0",
+        "end": "19.36",
+        "label": "important-to-me.nights-out",
+        "text": "Saturday night, I feel a bit excited"
+      },
+      {
+        "start": "22.0",
+        "end": "22.30",
+        "label": "depression.self-harm",
+        "text": "I'd rather a wagon hit my back"
+      },
+      {
+        "start": "23.0",
+        "end": "23.36",
+        "label": "relationship.sex-discovering",
+        "text": "than spend another night without you"
+      }
+    ],
+    "song_labels": [
+      "relationship.affection",
+      "depression.self-harm",
+      "person.becky"
+    ],
+    "description": "Production\n\nDR550 1 guitar and vocals\n\nWas re-recorded for A-Sides and Asides",
+    "lyrics_path": "alarme/wagon.txt"
+  },
+  "Mudsligner": {
+    "album": "Alarme",
+    "lyrics_path": "alarme/mudsligner.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "4.18",
+        "label": "relationship.insecurity",
+        "text": "Sometimes you just have to lose control of it all\nNot when I'm alone"
+      },
+      {
+        "start": "6.0",
+        "end": "7.39",
+        "label": "depression.serious",
+        "text": "Turning very sour, crumble in my skin\nDying on the outside, slowly working in"
+      },
+      {
+        "start": "8.0",
+        "end": "9.0",
+        "label": "depression.suicide",
+        "text": "Some day maybe soon you will know you were close to losing it all\n"
+      },
+      {
+        "start": "11.0",
+        "end": "12.26",
+        "label": "arrogance.girls",
+        "text": "I am mortor I am stone\nYou will crumble like dirt"
+      },
+      {
+        "start": "14.0",
+        "end": "15.25",
+        "label": "depression.serious",
+        "text": "and I never promised you\nwe would never fall apart"
+      },
+      {
+        "start": "17.0",
+        "end": "18.43",
+        "label": "depression.suicide",
+        "text": "Everything I have, coming to an end\nLife goes on around me right there and then"
+      },
+      {
+        "start": "20.0",
+        "end": "20.52",
+        "label": "depression.self-harm",
+        "text": "Is it too much to ask you to sit and watch me bleed?"
+      }
+    ],
+    "song_labels": [
+      "person.becky",
+      "depression.suicide",
+      "relationship.breakup"
+    ],
+    "description": "\"Some day maybe soon you will know you were close to losing it all\" may relate to the early idea of splitting up with becky.\n\nI think this song must be at a time when I am close to splitting up, or want to, or think that it might happen. It's not clear to me whether the self-harm aspects related to consequences of the breakup or seperate from it."
+  },
+  "Come round": {
+    "album": "Alarme",
+    "lyrics_path": "alarme/come-round.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Lens Flare": {
+    "album": "28 minutes 'til creation",
+    "lyrics_path": "28-minutes-til-creation/lens-flare.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.35",
+        "label": "religion.anti",
+        "text": "God is dead. Roll out the new lords"
+      },
+      {
+        "start": "1.0",
+        "end": "2.45",
+        "label": "arrogance.superiority",
+        "text": "God is dead. Roll out the new lords\nI'll take them all on, right here, right now "
+      },
+      {
+        "start": "3.0",
+        "end": "4.43",
+        "label": "language.strong",
+        "text": "Becky she called out, \"burn down the night sky\nShine on your people\". \"fuck em all\" I say."
+      },
+      {
+        "start": "3.0",
+        "end": "5.0",
+        "label": "person.becky",
+        "text": "Becky she called out, \"burn down the night sky\nShine on your people\". \"fuck em all\" I say.\n"
+      },
+      {
+        "start": "6.0",
+        "end": "7.19",
+        "label": "language.strong",
+        "text": "Now that she's blown me and left me to die\nPiss on my grey sky"
+      },
+      {
+        "start": "10.0",
+        "end": "10.37",
+        "label": "depression.mild",
+        "text": "I smile like I still care, maybe I do"
+      },
+      {
+        "start": "17.0",
+        "end": "17.27",
+        "label": "meta.unknown-meaning",
+        "text": "All of the rumours are true"
+      },
+      {
+        "start": "19.0",
+        "end": "22.34",
+        "label": "society.distruction",
+        "text": "The king is dead, bring me the queen's heart.\nI'll tear you all apart, right here right now\nSomebody stop me, I can't help myself\nbefore I turn into somebody (else)"
+      },
+      {
+        "start": "26.0",
+        "end": "26.56",
+        "label": "arrogance.intelligence",
+        "text": "Curse this great mind, sometimes I'd rather not be alive"
+      },
+      {
+        "start": "26.0",
+        "end": "26.56",
+        "label": "depression.suicide",
+        "text": "Curse this great mind, sometimes I'd rather not be alive"
+      },
+      {
+        "start": "28.0",
+        "end": "29.33",
+        "label": "depression.struggling",
+        "text": "Here with you, blinded by lens flare\nstaggering nowhere, following you"
+      },
+      {
+        "start": "14.0",
+        "end": "15.29",
+        "label": "relationship.affection",
+        "text": "And I will try real hard to be here for you\nwhether or not you want me to"
+      }
+    ],
+    "song_labels": [
+      "depression.serious",
+      "arrogance.superiority"
+    ],
+    "description": "First mention of Becky in a song?\n\nMostly a song about me and battling to understand who I am, in a world where being smart isn't important. Becky is a side-note."
+  },
+  "Butterfingers": {
+    "album": "28 minutes 'til creation",
+    "lyrics_path": "28-minutes-til-creation/butterfingers.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.44",
+        "label": "relationship.sex-discovering",
+        "text": "Butterlips spreads her legs and starts again"
+      },
+      {
+        "start": "3.0",
+        "end": "4.30",
+        "label": "relationship.affection",
+        "text": "Why she don't spread her wings and fly away\nShe sure, she sure should try."
+      },
+      {
+        "start": "8.0",
+        "end": "8.43",
+        "label": "language.strong",
+        "text": "When I catch her fucking someone else's man"
+      },
+      {
+        "start": "20.0",
+        "end": "21.20",
+        "label": "language.dodgy",
+        "text": "By 17 she's been to everywhere\nwith every other man"
+      },
+      {
+        "start": "26.0",
+        "end": "27.26",
+        "label": "relationship.sex-discovering",
+        "text": "When she's lying spread in front of me at last\nbutterfingers in her mouth"
+      }
+    ],
+    "song_labels": [
+      "songtheme.imaginary",
+      "songtheme.somethingelse"
+    ],
+    "description": "It's likely that as I discovered sex I wrote about it but in awkward and immature ways. This is an example where I'm writing about a prostitute.",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Victerladorium": {
+    "album": "28 minutes 'til creation",
+    "lyrics_path": "28-minutes-til-creation/victerladorium.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "5.38",
+        "label": "depression.predicting-death",
+        "text": "Please ignore these vultures they just circle me\nA custom that we've kept for all these years\nYet they fly so low when you're around"
+      },
+      {
+        "start": "9.0",
+        "end": "10.37",
+        "label": "arrogance.superiority",
+        "text": "I am but a fool but you are fooled by me\nA genius with beauty? Yes, that's all"
+      },
+      {
+        "start": "9.0",
+        "end": "10.37",
+        "label": "arrogance.intelligence",
+        "text": "I am but a fool but you are fooled by me\nA genius with beauty? Yes, that's all"
+      },
+      {
+        "start": "11.0",
+        "end": "11.45",
+        "label": "relationship.sex-discovering",
+        "text": "Just shut your eyes and open your legs wide, "
+      },
+      {
+        "start": "13.0",
+        "end": "17.38",
+        "label": "relationship.sex-discovering",
+        "text": "I'll go back down\nI've not had enough not ever\nI love that sounds, oh I do you know\nI go back down, I've not had enough not ever\nI'll swim and drown, oh until you blow"
+      },
+      {
+        "start": "19.0",
+        "end": "19.43",
+        "label": "language.strong",
+        "text": "Come into my arms, I'll come into you mouth"
+      }
+    ],
+    "song_labels": [
+      "meta.embarrassing",
+      "person.becky",
+      "relationship.sex-discovering"
+    ],
+    "description": ""
+  },
+  "Geek boy in an atom blast": {
+    "album": "28 minutes 'til creation",
+    "lyrics_path": "28-minutes-til-creation/geek-boy-in-an-atom-blast.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/unknown.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "3.129",
+        "label": "person.immaginary-girl",
+        "text": "Oh what a bad girl. I see you've broken all your promises. I left my heart in your ashtray. You left your clothes on my premises."
+      },
+      {
+        "start": "5.0",
+        "end": "5.54",
+        "label": "character.contradiction",
+        "text": "Oh what a bad dream I dreamt I dreamt about a good day"
+      },
+      {
+        "start": "5.88",
+        "end": "5.120",
+        "label": "society.distruction",
+        "text": " I taught myself how to rampage."
+      },
+      {
+        "start": "5.56",
+        "end": "5.87",
+        "label": "relationship.sad-girl",
+        "text": "I saw my face in your tear drop"
+      },
+      {
+        "start": "7.0",
+        "end": "7.58",
+        "label": "person.immaginary-girl",
+        "text": "Oh what a good girl, I see you've tidied up your bedroom. "
+      },
+      {
+        "start": "9.45",
+        "end": "9.86",
+        "label": "arrogance.intelligence",
+        "text": "I'm meaning what I say (coz it's seminal)"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "Nonesense song about an immaginary relationship that contains some of the common themes at the time"
+  },
+  "CNSC Reprise": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/cnsc-reprise.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.80",
+        "label": "person.other-real",
+        "text": "Tracey loves Joey. They'll never be lonley As long as there's words left to say "
+      },
+      {
+        "start": "3.0",
+        "end": "3.89",
+        "label": "person.other-real",
+        "text": "Ian loves Hazel, she doesn't understand, and he doesn't know how to say he loves her so. "
+      },
+      {
+        "start": "5.0",
+        "end": "5.80",
+        "label": "person.other-real",
+        "text": "Cara loves nothing and that's the best way to be. I know coz she told me sweetly"
+      },
+      {
+        "start": "7.0",
+        "end": "8.49",
+        "label": "person.elaine",
+        "text": "Elaine still loves Stephen, I guess I still love her some, \nand maybe that's more than I'll ever love anyone."
+      },
+      {
+        "start": "7.0",
+        "end": "9.0",
+        "label": "relationship.being-single",
+        "text": "Elaine still loves Stephen, I guess I still love her some, \nand maybe that's more than I'll ever love anyone.\n"
+      },
+      {
+        "start": "10.0",
+        "end": "10.102",
+        "label": "person.other-real",
+        "text": "Sarah disowned me, I think that she loves herself, and she has good reason coz so should everyone else"
+      }
+    ],
+    "song_labels": [],
+    "description": "A snapshot of the relationships around me at the time",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Wanting more": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/wanting-more.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.41",
+        "label": "depression.mild",
+        "text": "Misery, is all that we are. \nCatastrophe, is all we ever wanted to be."
+      },
+      {
+        "start": "4.0",
+        "end": "4.50",
+        "label": "arrogance.superiority",
+        "text": "Blasphemy. I dreamt that I didn't rule the world. "
+      },
+      {
+        "start": "7.0",
+        "end": "7.29",
+        "label": "depression.mild",
+        "text": "Apathy, why is nothing cool? "
+      },
+      {
+        "start": "8.0",
+        "end": "9.36",
+        "label": "character.self-pity",
+        "text": "Empathy drains my heart of every drop of \nSympathy as if anyone cared about me"
+      },
+      {
+        "start": "14.0",
+        "end": "18.24",
+        "label": "depression.mild",
+        "text": "Leave me well alone. \nLeave me without direction or dignity.\nLeave them all laughing. Leave in the aisles \nLeave them all lying on the floor... \nLeave them wanting more."
+      }
+    ],
+    "song_labels": [
+      "depression.mild",
+      "depression.lonliness"
+    ],
+    "description": ""
+  },
+  "Reaching another dawn": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/reaching-another-dawn.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "4.45",
+        "label": "relationship.seperation",
+        "text": "Missing you like crazy, crazy though I am. \nI stumble through long dead days I'm owed \nLets my mind betray me once so sleeps the days \nTo mock the fool whose nights are spent alone"
+      },
+      {
+        "start": "6.0",
+        "end": "7.28",
+        "label": "relationship.status-in",
+        "text": "How proud am I, if only to know. \nFuture days not spent alone "
+      },
+      {
+        "start": "10.0",
+        "end": "11.41",
+        "label": "relationship.seperation",
+        "text": "Slowly going crazy, crazy though it seems \nto wonder if your word's as good as mine "
+      },
+      {
+        "start": "11.0",
+        "end": "11.41",
+        "label": "depression.paranoia",
+        "text": "to wonder if your word's as good as mine "
+      },
+      {
+        "start": "17.0",
+        "end": "17.48",
+        "label": "relationship.affection",
+        "text": "Someone should breath for you girl let it be me."
+      }
+    ],
+    "song_labels": [
+      "person.becky",
+      "relationship.seperation"
+    ],
+    "description": "\"Reaching another dawn\" = RAD = Rebecca Anna Demidowicz"
+  },
+  "Parting shots": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/parting-shots.txt",
+    "annotations": [
+      {
+        "start": "4.0",
+        "end": "4.50",
+        "label": "self-reference.writing",
+        "text": "It's so hard to write pop records when you're sad "
+      },
+      {
+        "start": "4.0",
+        "end": "4.50",
+        "label": "depression.mild",
+        "text": "It's so hard to write pop records when you're sad "
+      },
+      {
+        "start": "13.0",
+        "end": "14.59",
+        "label": "topic.music",
+        "text": "Turn down the radio, I'm so tired of all those disco parties \nBass lines, synthesized good times, it all sounds so 1990's"
+      },
+      {
+        "start": "19.0",
+        "end": "19.72",
+        "label": "depression.bordom",
+        "text": "Sometimes there comes a point in your life when you need something new. "
+      },
+      {
+        "start": "20.0",
+        "end": "20.58",
+        "label": "self-reference.writing",
+        "text": "Sometimes I feel so unsung, may never write another tune. "
+      },
+      {
+        "start": "21.0",
+        "end": "21.43",
+        "label": "relationship.seperation",
+        "text": "Smash my head against an empty bed for too "
+      }
+    ],
+    "song_labels": [
+      "topic.music"
+    ],
+    "description": ""
+  },
+  "Sugar rush": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/sugar-rush.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.77",
+        "label": "person.immaginary-girl",
+        "text": "I met a girl she had ribbons in her hair and dark brown diamonds in her eyes "
+      },
+      {
+        "start": "4.0",
+        "end": "5.69",
+        "label": "language.gibberish",
+        "text": "I met a girl she had 27 sisters her mother was just 24. \nSaffron smiles and a pocket full of time spend living on the far side"
+      },
+      {
+        "start": "10.0",
+        "end": "10.82",
+        "label": "tier.b",
+        "text": "I met a girl she had all of the right answers all of the questions started \"why?\" "
+      },
+      {
+        "start": "16.0",
+        "end": "16.27",
+        "label": "relationship.sex-discovering",
+        "text": "The lube's in the saddlebag"
+      },
+      {
+        "start": "22.0",
+        "end": "23.12",
+        "label": "topic.sad-songs"
+      },
+      {
+        "start": "24.0",
+        "end": "24.33",
+        "label": "arrogance.general"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Death of a princess": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/death-of-a-princess.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.56",
+        "label": "person.immaginary-girl",
+        "text": "Who said only days are lost inside a coma you did angel "
+      }
+    ],
+    "song_labels": [],
+    "description": ""
+  },
+  "Townie": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/townie.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": ""
+  },
+  "Drawing (Cathy Whispers)": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/drawing-cathy-whispers.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.39",
+        "label": "person.other-real",
+        "text": "Cathy, Carina I can't believe I'm here "
+      },
+      {
+        "start": "2.0",
+        "end": "2.34",
+        "label": "language.made-up-words",
+        "text": "Falling out of view of a fallchild"
+      },
+      {
+        "start": "5.0",
+        "end": "5.44",
+        "label": "topic.sad-songs",
+        "text": "I don't want to listen to a sad song anymore"
+      },
+      {
+        "start": "7.0",
+        "end": "9.37",
+        "label": "language.gibberish",
+        "text": "I cut myself on some chocolate \nI didn't know that, that could happen \nAt least I know that nothing's wrong "
+      },
+      {
+        "start": "14.0",
+        "end": "14.51",
+        "label": "cultural-reference",
+        "text": "No wonder I lie here alone (langa bollar pa Bengt) "
+      },
+      {
+        "start": "4.0",
+        "end": "4.36",
+        "label": "tier.c",
+        "text": "I get vertigo standing on the floor "
+      }
+    ],
+    "song_labels": [
+      "person.other-real"
+    ],
+    "description": "Written for a swedish girl I met online at the age of ~17 who was called \"Carina\" but called herself Cathy online. The relationship got as far as me asking for lyrics to include in a song and she suggested \"langa bollar pa Bengt\" from a Swedish novety song.",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Something in the water": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/something-in-the-water.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.78",
+        "label": "depression.lonliness",
+        "text": "Oh is there a somewhere you can go on your own when you don't wanna stay home?"
+      },
+      {
+        "start": "5.0",
+        "end": "6.57",
+        "label": "person.immaginary-girl",
+        "text": "Oh is there a someone who'll call you when you cry and she doesn't care that you can't talk \nshe'll listen to silence and understand even if you don't"
+      },
+      {
+        "start": "8.0",
+        "end": "8.70",
+        "label": "language.contrast-big-kitchen-sink",
+        "text": "And all the angels want is a lullaby, but we can deal with it tomorrow"
+      },
+      {
+        "start": "10.0",
+        "end": "10.78",
+        "label": "depression.hope",
+        "text": "we'll live it and love and there always be something better around the corner "
+      },
+      {
+        "start": "13.0",
+        "end": "15.48",
+        "label": "person.immaginary-girl",
+        "text": "Is there a somewhere that the girl of your dreams will be there when you wake \nand she isn't destroyed by sunlight \nand the feelings you feel are somehow quite nice"
+      },
+      {
+        "start": "17.9",
+        "end": "18.34",
+        "label": "language.absurdity",
+        "text": "the air is clear and grass is sweet and worms\ngrow stranger from under your feet"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "I think we're missing the final line which would be \"and I think there's something special in the water\".\n\nI'm not sure specifically what this song is about, if anything. Contains themes of wanting a girl to fix my sad life."
+  },
+  "The girl from Friday 13th": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-girl-from-friday-13th.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.70",
+        "label": "language.sarcasm",
+        "text": "Isn't it a lovely day for it. And isn't it a lovely time of the year. "
+      },
+      {
+        "start": "2.0",
+        "end": "2.39",
+        "label": "topic.places",
+        "text": "And isn't this a joke of a town to live"
+      },
+      {
+        "start": "5.0",
+        "end": "6.46",
+        "label": "topic.places",
+        "text": "And isn't this a backward, boring haunt \nAnd isn't this a chronic way to waste your day"
+      },
+      {
+        "start": "11.0",
+        "end": "12.50",
+        "label": "relationship.sex-discovering",
+        "text": "And isn't it an open mind we share \nI think we should go further where everyone stares"
+      },
+      {
+        "start": "18.0",
+        "end": "19.32",
+        "label": "person.other-real",
+        "text": "But you're the coolest girl I ever met\nYou've even got pisces iscariot "
+      },
+      {
+        "start": "20.0",
+        "end": "22.26",
+        "label": "arrogance.superiority",
+        "text": "And isn't this the perfect way to show the rest \nthat we're stars\nwhile they're already dead"
+      }
+    ],
+    "song_labels": [
+      "relationship.sex-discovering",
+      "person.other-real"
+    ],
+    "description": "About a specific evening with a girl in a pub at which we were asked by the landlord to calm it down. Possibly the \"Cara\" mentioned in CNSC reprise. I vaguely recall someone older, taller, from another town visiting crook."
+  },
+  "unknown-2": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/unknown-2.txt",
+    "annotations": [
+      {
+        "start": "8.0",
+        "end": "8.51",
+        "label": "person.immaginary-girl",
+        "text": "Are something else when you are dancing close to me"
+      },
+      {
+        "start": "3.0",
+        "end": "5.27",
+        "label": "tier.c",
+        "text": "Pop songs sound special when you're feeling\n\nWounded by a broken heart. "
+      }
+    ],
+    "song_labels": [
+      "topic.music"
+    ],
+    "description": "",
+    "year": "",
+    "date": "",
+    "date_range_start": "",
+    "date_range_end": ""
+  },
+  "The art of being noone": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-art-of-being-noone.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.45",
+        "label": "character.outsider",
+        "text": "Don't wanna be cool 'cause everybody else is "
+      },
+      {
+        "start": "2.0",
+        "end": "2.21",
+        "label": "depression.lonliness",
+        "text": "Don't wanna be alone."
+      },
+      {
+        "start": "4.0",
+        "end": "4.67",
+        "label": "arrogance.superiority",
+        "text": "Don't wanna talk like everybody else 'cause everybody else is wrong"
+      },
+      {
+        "start": "6.0",
+        "end": "6.40",
+        "label": "arrogance.general",
+        "text": "Everybody loves me (You don't know that)"
+      },
+      {
+        "start": "7.0",
+        "end": "9.23",
+        "label": "depression.lonliness",
+        "text": "Everybody  needs to (feel that someone)\n\nLoves them, hopelessly."
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The greater sex": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-greater-sex.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.72",
+        "label": "arrogance.general",
+        "text": "I taught the world how to smile makes the morning less blue \u2014 ooh \u2014 ooh "
+      },
+      {
+        "start": "3.0",
+        "end": "4.26",
+        "label": "depression.attracted-to",
+        "text": "I'll hit on you if you do. \nMake nightmares come true."
+      },
+      {
+        "start": "9.0",
+        "end": "10.17",
+        "label": "arrogance.general",
+        "text": "They said my ego'd dominate my flow. \nAnd you did know "
+      },
+      {
+        "start": "11.0",
+        "end": "11.55",
+        "label": "relationship.being-single",
+        "text": "I the greater sex are easy, please make it easier for m"
+      },
+      {
+        "start": "3.0",
+        "end": "4.26",
+        "label": "relationship.sad-girl",
+        "text": "I'll hit on you if you do. \nMake nightmares come true."
+      },
+      {
+        "start": "17.0",
+        "end": "17.57",
+        "label": "relationship.being-single",
+        "text": "You are so easy to choose. Look so fine dressed in flesh "
+      },
+      {
+        "start": "19.0",
+        "end": "19.32",
+        "label": "tier.b",
+        "text": "Tonight and the rest of tonight."
+      },
+      {
+        "start": "26.0",
+        "end": "26.62",
+        "label": "depression.mild",
+        "text": "my mental state is not great and sometimes I overflow because "
+      },
+      {
+        "start": "22.0",
+        "end": "23.29",
+        "label": "character.flippant",
+        "text": "I'll be destroyed if that's alright \nI'll fall apart if you like, "
+      },
+      {
+        "start": "22.0",
+        "end": "24.0",
+        "label": "depression.mild",
+        "text": "I'll be destroyed if that's alright \nI'll fall apart if you like, \n"
+      }
+    ],
+    "song_labels": [
+      "relationship.being-single"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The Death of Rock and Roll": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-death-of-rock-and-roll.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.71",
+        "label": "language.gibberish",
+        "text": "Coded messages from Lovers makes you want sleep a little longer tonight"
+      },
+      {
+        "start": "2.0",
+        "end": "2.85",
+        "label": "language.humour",
+        "text": "Antics underneath your covers. makes you wish that there was someone sharing with you"
+      },
+      {
+        "start": "4.0",
+        "end": "4.83",
+        "label": "religion.careless",
+        "text": "Tonight we'll dream a dream free from feeling suicide (I hope that God won't mind) "
+      },
+      {
+        "start": "4.0",
+        "end": "4.82",
+        "label": "depression.suicide",
+        "text": "Tonight we'll dream a dream free from feeling suicide (I hope that God won't mind)"
+      },
+      {
+        "start": "4.0",
+        "end": "4.83",
+        "label": "depression.hope",
+        "text": "Tonight we'll dream a dream free from feeling suicide (I hope that God won't mind) "
+      },
+      {
+        "start": "8.0",
+        "end": "8.76",
+        "label": "depression.self-harm",
+        "text": "Places of self-mutiliation so cliche but it's something to show your friends"
+      },
+      {
+        "start": "9.0",
+        "end": "9.65",
+        "label": "topic.alcohol",
+        "text": "I prescribe intoxication so you'll forget and have to do it again"
+      },
+      {
+        "start": "11.0",
+        "end": "12.36",
+        "label": "depression.suicide",
+        "text": "Today let's make the same mistake as we did yesterday \nWe fall asleep and wake on up again "
+      },
+      {
+        "start": "13.0",
+        "end": "13.65",
+        "label": "depression.suicide",
+        "text": "Today we'll wish the stars were there so we could wish lives away"
+      },
+      {
+        "start": "16.0",
+        "end": "16.57",
+        "label": "depression.suicide",
+        "text": "It's a sign of the times that we're all afraid of suicide"
+      },
+      {
+        "start": "17.0",
+        "end": "17.37",
+        "label": "tier.c",
+        "text": "Long, live the death of rock and roll"
+      }
+    ],
+    "song_labels": [
+      "depression.suicide"
+    ],
+    "description": ""
+  },
+  "That girl's got wings": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/that-girls-got-wings.txt",
+    "annotations": [
+      {
+        "start": "5.0",
+        "end": "5.44",
+        "label": "meta.album-title",
+        "text": "I love your charm offensive so a-woah-a-hoh."
+      },
+      {
+        "start": "12.13",
+        "end": "12.22",
+        "label": "language.made-up-words",
+        "text": "novasuper"
+      },
+      {
+        "start": "1.0",
+        "end": "1.50",
+        "label": "character.contradiction",
+        "text": "You dragged me up and leaved me low a-woah-a-hoaw "
+      }
+    ],
+    "song_labels": [
+      "person.other-real",
+      "meta.unrecorded-but-known-tune"
+    ],
+    "description": "About a real girl but I'm not sure who. Possibly  Gill \n\nMisheard as \"That grl's got wind\" by one of my uni mates. Possibly the last non-recorded song.\n\nIncludes the title name for \"Charm offensive\" which suggests that CO was after My Sad Machines",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The last great high": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-last-great-high.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.47",
+        "label": "society.distruction",
+        "text": "I poinsoned the apples in the orchard\nand gave them to the babies for their breakfast"
+      },
+      {
+        "start": "4.0",
+        "end": "5.39",
+        "label": "relationship.sex-general",
+        "text": "The mothers thanked me individually, that night \nOh just what a wonderful waste of life "
+      },
+      {
+        "start": "1.0",
+        "end": "5.39",
+        "label": "character.evil",
+        "text": "I poinsoned the apples in the orchard\nand gave them to the babies for their breakfast\n\nThe mothers thanked me individually, that night \nOh just what a wonderful waste of life "
+      },
+      {
+        "start": "7.0",
+        "end": "7.41",
+        "label": "society.distruction",
+        "text": "I poisoned all the gasses in the open air"
+      },
+      {
+        "start": "10.0",
+        "end": "11.49",
+        "label": "arrogance.general",
+        "text": "I captured such imaginations with my smile \nI made you forget about your problems for a while"
+      },
+      {
+        "start": "19.0",
+        "end": "21.62",
+        "label": "depression.lonliness",
+        "text": "I suffered the indignity of childhood \nI shudder at the flowering of a million bloom \nI tried hard not to think of what was happening in their rooms"
+      },
+      {
+        "start": "19.0",
+        "end": "21.62",
+        "label": "relationship.insecurity",
+        "text": "I suffered the indignity of childhood \nI shudder at the flowering of a million bloom \nI tried hard not to think of what was happening in their rooms"
+      },
+      {
+        "start": "23.0",
+        "end": "25.56",
+        "label": "arrogance.superiority",
+        "text": "I clambered out of was [sic] deep isolation \nand since then my ascention has never stop [sic]\nI guess I'll be the first to find out what is at the top"
+      }
+    ],
+    "song_labels": [
+      "society.distruction",
+      "meta.unrecorded-but-known-tune"
+    ],
+    "description": ""
+  },
+  "Learning to live without Lucy": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/learning-to-live-without-lucy.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.78",
+        "label": "relationship.breakup",
+        "text": "So, halfway there I'll start again, pick up the pieces, carry on alone \nLearning a whole new way of life, single and searching too hard If I'm honest."
+      },
+      {
+        "start": "1.0",
+        "end": "2.78",
+        "label": "relationship.being-single",
+        "text": "So, halfway there I'll start again, pick up the pieces, carry on alone \nLearning a whole new way of life, single and searching too hard If I'm honest."
+      },
+      {
+        "start": "4.0",
+        "end": "6.33",
+        "label": "relationship.breakup",
+        "text": "Set it on fire, let it go, walk away.\n\n[Sometimes that's not easy to do]"
+      },
+      {
+        "start": "9.0",
+        "end": "9.77",
+        "label": "depression.better-off-without-me",
+        "text": "I'm just a drain on everyone, it's better for all if I just leave right now. "
+      },
+      {
+        "start": "10.0",
+        "end": "10.66",
+        "label": "character.want-to-be-heard",
+        "text": "Don't let me go till I've said what I wanted to. d'oh I don't know"
+      },
+      {
+        "start": "12.0",
+        "end": "14.0",
+        "label": "relationship.breakup",
+        "text": "Now you have gone, I'll carry on, carry on\nSomehow I after all we have done I'll carry on, carry on. somehow\n"
+      },
+      {
+        "start": "16.0",
+        "end": "17.44",
+        "label": "tier.b",
+        "text": "They say that time heals but I'm not sure \nThe cut you left looks awful deep from here "
+      }
+    ],
+    "song_labels": [
+      "relationship.breakup",
+      "person.immaginary-girl",
+      "songtheme.imaginary",
+      "meta.unrecorded-but-known-tune"
+    ],
+    "description": "Seems likely to be Leanne Gill but somehow called \"Lucy\""
+  },
+  "Banshee": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/banshee.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.93",
+        "label": "character.contradiction",
+        "text": "If I were an angel I'd write an epic love song called \"The Angel and the Dead Boy in the Sky\""
+      },
+      {
+        "start": "1.0",
+        "end": "1.93",
+        "label": "self-reference.writing",
+        "text": "If I were an angel I'd write an epic love song called \"The Angel and the Dead Boy in the Sky\""
+      },
+      {
+        "start": "3.0",
+        "end": "3.95",
+        "label": "tier.b",
+        "text": "But if you were an angel the song would be an apology to make sure that I'd join you when I die"
+      },
+      {
+        "start": "10.0",
+        "end": "10.115",
+        "label": "religion.careless",
+        "text": "I wish you were an angel, 'cause it's a God's feeling generous I think I'm think I'm going to join you pretty soon."
+      },
+      {
+        "start": "10.0",
+        "end": "10.115",
+        "label": "depression.predicting-death",
+        "text": "I wish you were an angel, 'cause it's a God's feeling generous I think I'm think I'm going to join you pretty soon."
+      },
+      {
+        "start": "14.0",
+        "end": "15.34",
+        "label": "depression.predicting-death",
+        "text": "I don't want to go, so, I'll see you tomorrow \nI've just heard the banshee's call"
+      },
+      {
+        "start": "14.0",
+        "end": "15.34",
+        "label": "depression.predicting-death",
+        "text": "I don't want to go, so, I'll see you tomorrow \nI've just heard the banshee's call"
+      }
+    ],
+    "song_labels": [
+      "depression.predicting-death"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Traumageddon": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/traumageddon.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.46",
+        "label": "topic.alcohol",
+        "text": "Poisoned apples make it OK to pretend that you're not young \nPoisoned apples make it EASIER TO LOVE SOMEONE"
+      },
+      {
+        "start": "1.0",
+        "end": "2.46",
+        "label": "relationship.sharking",
+        "text": "Poisoned apples make it OK to pretend that you're not young \nPoisoned apples make it EASIER TO LOVE SOMEONE"
+      },
+      {
+        "start": "7.0",
+        "end": "7.74",
+        "label": "relationship.sharking",
+        "text": "Just do whatever you want to and I promise you I shall never lose CONTROL."
+      },
+      {
+        "start": "11.0",
+        "end": "14.61",
+        "label": "relationship.sharking",
+        "text": "Poisoned thoughts and wicked gestures couldn't make it any clearer \nand if you want to BE A CHILD THEN YOU SHOULD NOT BE HERE \nWhen it's over CASANOVA WILL JUST START IT ALL AGAIN \nand any LOVE you need WILL HAVE TO FEED YOUR SO-CALLED FRIEND"
+      },
+      {
+        "start": "19.0",
+        "end": "19.67",
+        "label": "tier.c",
+        "text": "I think tonight, you've been let down real bad but it wasn't by me."
+      },
+      {
+        "start": "21.0",
+        "end": "21.55",
+        "label": "topic.alcohol",
+        "text": "Poisoned apples make it ok but you wake up feeling grey"
+      },
+      {
+        "start": "23.0",
+        "end": "24.66",
+        "label": "language.strong",
+        "text": "Maybe I'll see you someday and I really wish you luck\nCause I remember how a think [sic] think like this can fuck you up"
+      }
+    ],
+    "song_labels": [
+      "relationship.sharking",
+      "important-to-me.nights-out"
+    ],
+    "description": ""
+  },
+  "In a word": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/in-a-word.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.44",
+        "label": "character.contradiction",
+        "text": "I've got a problem for you, I've got a message from the gutter \nLooking down at all the dirt that's above me"
+      },
+      {
+        "start": "1.0",
+        "end": "2.44",
+        "label": "arrogance.superiority",
+        "text": "I've got a problem for you, I've got a message from the gutter \nLooking down at all the dirt that's above me"
+      },
+      {
+        "start": "4.0",
+        "end": "5.32",
+        "label": "language.absurdity",
+        "text": "I've got a craving for you I've got to listen to myself \nand running out of things to say"
+      },
+      {
+        "start": "7.0",
+        "end": "7.54",
+        "label": "character.contradiction",
+        "text": "I can't make it to the end but I'll make it on my own "
+      },
+      {
+        "start": "8.0",
+        "end": "8.53",
+        "label": "tier.b",
+        "text": "when I'm suffering in silence, bleeding self control."
+      },
+      {
+        "start": "15.0",
+        "end": "16.39",
+        "label": "language.gibberish",
+        "text": "Here I am. There I was\nIn my world every little thing has gone"
+      },
+      {
+        "start": "17.0",
+        "end": "17.30",
+        "label": "relationship.insecurity",
+        "text": "There you stand, here I crawl "
+      },
+      {
+        "start": "17.0",
+        "end": "17.30",
+        "label": "relationship.inferiority",
+        "text": "There you stand, here I crawl "
+      },
+      {
+        "start": "24.0",
+        "end": "24.51",
+        "label": "tier.c",
+        "text": "I've got a really bad problem I'd like you to share"
+      }
+    ],
+    "song_labels": [
+      "meta.unrecorded-but-known-tune",
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Keffler's Star": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/kefflers-star.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.75",
+        "label": "relationship.love-as-rescue",
+        "text": "Pull me in the other directions and haul me out of here\nWipe tears from my eyes and paint all my dark skys a bring and glowing blue"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": ""
+  },
+  "The world this morning": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-world-this-morning.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.37",
+        "label": "depression.suicide",
+        "text": "I sent a letter of love\nit told me to kill me tomorrow I know"
+      },
+      {
+        "start": "4.0",
+        "end": "4.36",
+        "label": "person.immaginary-girl",
+        "text": "how is the girl in the corner today?"
+      },
+      {
+        "start": "6.0",
+        "end": "8.37",
+        "label": "self-reference.musician",
+        "text": "I've got a song in my head \npermit me to sing it and I know\nyou'll love me as soon as you hear it"
+      },
+      {
+        "start": "11.0",
+        "end": "12.38",
+        "label": "depression.suicide",
+        "text": "I've got a pain in my head\nI just hope that we're better off dead"
+      },
+      {
+        "start": "15.0",
+        "end": "16.48",
+        "label": "tier.b",
+        "text": "I've got a ticker-tape smile\ndon't worry too much if it looks like I'm crying"
+      },
+      {
+        "start": "17.0",
+        "end": "18.41",
+        "label": "arrogance.superiority",
+        "text": "I'm laughing real hard inside here\nat all of the life in my rear view mirror"
+      },
+      {
+        "start": "20.0",
+        "end": "21.31",
+        "label": "depression.suicide",
+        "text": "I've got a pain in my chest\nI only hope that it's cancerous"
+      },
+      {
+        "start": "20.0",
+        "end": "21.31",
+        "label": "meta.embarrassing",
+        "text": "I've got a pain in my chest\nI only hope that it's cancerous"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": ""
+  },
+  "One More": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/one-more.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.29",
+        "label": "character.contradiction",
+        "text": "One more dream keeps me awake"
+      },
+      {
+        "start": "1.0",
+        "end": "1.33",
+        "label": "depression.predicting-death",
+        "text": "One More rung for me to fall from"
+      },
+      {
+        "start": "6.0",
+        "end": "8.53",
+        "label": "relationship.affection",
+        "text": "It's not shining but it's worth shouting\nhoping someday you might hear me\nIt's not loud enough, everyone should know I love you"
+      },
+      {
+        "start": "10.0",
+        "end": "12.0",
+        "label": "relationship.insecurity",
+        "text": "One more star to guide me through the \nnights we spend apart\n"
+      },
+      {
+        "start": "13.0",
+        "end": "15.0",
+        "label": "relationship.love-as-rescue",
+        "text": "She's the light that shines where we are (and it's)\nOne more reason to live\n"
+      },
+      {
+        "start": "18.0",
+        "end": "18.34",
+        "label": "depression.suicide",
+        "text": "One less cloud for me to jump from"
+      },
+      {
+        "start": "18.0",
+        "end": "18.34",
+        "label": "relationship.love-as-rescue",
+        "text": "One less cloud for me to jump from"
+      }
+    ],
+    "song_labels": [
+      "relationship.love-as-rescue",
+      "person.becky"
+    ],
+    "description": ""
+  },
+  "The adventures of a boy on the way down": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-adventures-of-a-boy-on-the-way-down.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.33",
+        "label": "religion.careless",
+        "text": "sold my mind for a brand new soul"
+      },
+      {
+        "start": "1.0",
+        "end": "3.17",
+        "label": "character.starting-again",
+        "text": "On the way down I dashed my head against a tear shaped stone\nsold my mind for a brand new soul\nto start all over"
+      },
+      {
+        "start": "1.0",
+        "end": "1.60",
+        "label": "depression.self-harm",
+        "text": "On the way down I dashed my head against a tear shaped stone"
+      },
+      {
+        "start": "6.0",
+        "end": "7.40",
+        "label": "character.inadequacy",
+        "text": "I cracked a mirror with a teenage stare\nCursed my looks for the next seven years"
+      },
+      {
+        "start": "15.0",
+        "end": "15.40",
+        "label": "depression.self-harm",
+        "text": "And I dance along the centre of the road"
+      },
+      {
+        "start": "16.0",
+        "end": "16.36",
+        "label": "religion.careless",
+        "text": "and I wave at all the angles as I go"
+      },
+      {
+        "start": "19.0",
+        "end": "20.64",
+        "label": "religion.careless",
+        "text": "It's a long way down\nwhen your head is in the clouds and your wing [sic] doesn't work"
+      },
+      {
+        "start": "19.0",
+        "end": "20.64",
+        "label": "depression.predicting-death",
+        "text": "It's a long way down\nwhen your head is in the clouds and your wing [sic] doesn't work"
+      },
+      {
+        "start": "23.0",
+        "end": "26.30",
+        "label": "depression.mild",
+        "text": "Don't look down\nyou might just see what you've always known\nyou're ugly sad and on your own\nand no-one's going to help you"
+      },
+      {
+        "start": "23.0",
+        "end": "25.31",
+        "label": "character.inadequacy",
+        "text": "Don't look down\nyou might just see what you've always known\nyou're ugly sad and on your own"
+      }
+    ],
+    "song_labels": [
+      "depression.predicting-death",
+      "depression.mild",
+      "character.inadequacy"
+    ],
+    "description": ""
+  },
+  "The Nobel Art": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-nobel-art.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.50",
+        "label": "relationship.sex-discovering",
+        "text": "I guess I'll never know, what makes me so fucking ultraspecial\nwhat makes us the cliche indy couple\nStroll on, til it looks like something's going on "
+      },
+      {
+        "start": "1.0",
+        "end": "1.62",
+        "label": "relationship.insecurity",
+        "text": "I guess I'll never know, what makes me so fucking ultraspecial"
+      },
+      {
+        "start": "5.0",
+        "end": "6.44",
+        "label": "relationship.insecurity",
+        "text": "I guess I'll never learn, what starts the fire that starts to make desire burn\nWhy your lovelife was ever any of my concern"
+      },
+      {
+        "start": "10.0",
+        "end": "10.31",
+        "label": "self-reference.writing",
+        "text": "So it's time to do the sad song"
+      },
+      {
+        "start": "7.0",
+        "end": "8.44",
+        "label": "relationship.sharking",
+        "text": "Cause it feels like there is something going on\nand it tastes just like I'm not the only one"
+      },
+      {
+        "start": "1.0",
+        "end": "3.50",
+        "label": "relationship.sharking",
+        "text": "I guess I'll never know, what makes me so fucking ultraspecial\nwhat makes us the cliche indy couple\nStroll on, til it looks like something's going on "
+      },
+      {
+        "start": "12.0",
+        "end": "13.49",
+        "label": "depression.suicide",
+        "text": "Though I sometimes feel like letting go\nI kept on holding on and waiting to shine through"
+      },
+      {
+        "start": "14.0",
+        "end": "16.49",
+        "label": "relationship.sharking",
+        "text": "THough I often feel like staying home\nYou never know when I'm [sic] meeting somebody like you \nI never thought that it would ever come this true"
+      },
+      {
+        "start": "19.0",
+        "end": "21.35",
+        "label": "relationship.sharking",
+        "text": "I guess you wonder why, such a dodgy hairdo is such a flimsy alibi\nActing so pathetic is enough to make just anybody cry\nbut it seems to have worked tonight"
+      },
+      {
+        "start": "23.0",
+        "end": "23.55",
+        "label": "relationship.being-single",
+        "text": "such a late starter that I'm taking you all from behind"
+      }
+    ],
+    "song_labels": [
+      "relationship.sharking"
+    ],
+    "description": "I fear the line bout \"acting so pathetic\" refers to my sharking techniques"
+  },
+  "Heaven Sent": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/heaven-sent.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.47",
+        "label": "person.elaine",
+        "text": "\"But it's you Elaine\" I know it's 60 days too late\nbut last night seemed the right time to explain"
+      },
+      {
+        "start": "3.0",
+        "end": "3.58",
+        "label": "relationship.insecurity",
+        "text": "Do you feel that way? or were trying just to ease the pain"
+      },
+      {
+        "start": "6.0",
+        "end": "8.39",
+        "label": "relationship.affection",
+        "text": "Do you remember all the things I said?\nEven if you do you won't understand\nIt means so much to me it hurts my head"
+      },
+      {
+        "start": "9.0",
+        "end": "9.45",
+        "label": "tier.b",
+        "text": "Is he thinking of you RIGHT NOW? thought not."
+      },
+      {
+        "start": "19.0",
+        "end": "20.43",
+        "label": "society.distain-for",
+        "text": "The days will change and we will change some to\nI'll hate the world but I'll still love you"
+      },
+      {
+        "start": "22.0",
+        "end": "23.31",
+        "label": "relationship.affection",
+        "text": "Heaven sent you, what could I do?\nEven when we part I'll love you"
+      },
+      {
+        "start": "26.0",
+        "end": "27.25",
+        "label": "depression.predicting-death",
+        "text": "even if you we die before we change\nyou're heaven sent Elaine"
+      },
+      {
+        "start": "32.0",
+        "end": "34.0",
+        "label": "relationship.other-guy",
+        "text": "And the boy you're with would give you all that I would give\nwhich is everything I have while we both live.\n"
+      },
+      {
+        "start": "35.0",
+        "end": "36.62",
+        "label": "relationship.other-guy",
+        "text": "And I'm insane about you Elaine\nI promise you he doesn't love you nowhere near as much as I do"
+      },
+      {
+        "start": "38.0",
+        "end": "39.36",
+        "label": "relationship.insecurity",
+        "text": "and I tried real hard to keep it in\nbut I'm crazy and you're a superstar"
+      },
+      {
+        "start": "40.0",
+        "end": "41.15",
+        "label": "religion.careless",
+        "text": "and heaven sent you\ncould I refuse?"
+      },
+      {
+        "start": "42.0",
+        "end": "43.0",
+        "label": "relationship.affection",
+        "text": "Every time I wake I love you.\n"
+      },
+      {
+        "start": "1.0",
+        "end": "2.47",
+        "label": "relationship.infatuation",
+        "text": "\"But it's you Elaine\" I know it's 60 days too late\nbut last night seemed the right time to explain"
+      },
+      {
+        "start": "44.0",
+        "end": "45.33",
+        "label": "topic.angels",
+        "text": "Heaven calls and all I see if all the world and you above it\nFlapping wings of beauty and love"
+      },
+      {
+        "start": "50.0",
+        "end": "50.30",
+        "label": "person.elaine",
+        "text": "but you're heaven sent Elaine."
+      },
+      {
+        "start": "47.0",
+        "end": "47.36",
+        "label": "tier.b",
+        "text": "dropping by to paint my future [sic]"
+      }
+    ],
+    "song_labels": [
+      "person.elaine",
+      "relationship.infatuation"
+    ],
+    "description": "dropping by the paint future [sic] I think this was \"dropping by to paint my future\" which is quite a nice line"
+  },
+  "A song for the millenium": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/a-song-for-the-millenium.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "3.23",
+        "label": "depression.suicide",
+        "text": "Hooray for mass suicide"
+      },
+      {
+        "start": "9.0",
+        "end": "11.23",
+        "label": "depression.suicide",
+        "text": "12-31-99\nThere won't be a better time to die\nHooray for mass suicide"
+      },
+      {
+        "start": "13.0",
+        "end": "14.33",
+        "label": "society.distruction",
+        "text": "Let's set our friends on fire\nand we'll put the world to rights"
+      },
+      {
+        "start": "5.0",
+        "end": "7.23",
+        "label": "society.end-of-the-world",
+        "text": "I hope you're all safe inside\nthe bomb's going to drop tonight\nHooray for mass suicide"
+      }
+    ],
+    "song_labels": [
+      "depression.suicide",
+      "society.end-of-the-world"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "I am Jesus": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/i-am-jesus.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.68",
+        "label": "topic.gender",
+        "text": "Come to save the world, I just wanna be a girl, I'm alone, I'm alone"
+      },
+      {
+        "start": "6.0",
+        "end": "6.66",
+        "label": "language.strong",
+        "text": "See, my angle wings, don't do a fucking thing, I am so. Let me go."
+      },
+      {
+        "start": "6.0",
+        "end": "6.66",
+        "label": "topic.angels",
+        "text": "See, my angle wings, don't do a fucking thing, I am so. Let me go."
+      },
+      {
+        "start": "8.0",
+        "end": "11.70",
+        "label": "religion.careless",
+        "text": "I fear for my life as everyone laughs at me\nSilence would be nice, I am Jesus\nI would like to save the earth but I'm scared of getting hurt\nI would save you all again, but I'm scaled of all the pain. I am Jesus"
+      },
+      {
+        "start": "13.0",
+        "end": "13.72",
+        "label": "society.distain-for",
+        "text": "I bless upon you life, but you never get it right. You are all so mortal"
+      },
+      {
+        "start": "14.0",
+        "end": "14.65",
+        "label": "topic.angels",
+        "text": "So choose to use your wings. It's easier than you think. Fly, fly"
+      },
+      {
+        "start": "16.0",
+        "end": "16.43",
+        "label": "depression.madness",
+        "text": "I fear for my sanity, everybody yells at me"
+      },
+      {
+        "start": "18.0",
+        "end": "19.0",
+        "label": "religion.anti",
+        "text": "I don't believe in my father any more\n"
+      },
+      {
+        "start": "19.0",
+        "end": "19.60",
+        "label": "cultural-reference",
+        "text": "Yes, the princess was my fault, but I am not ashamed at all."
+      }
+    ],
+    "song_labels": [
+      "religion.careless",
+      "meta.later-not-recorded"
+    ],
+    "description": ""
+  },
+  "Overdrive #1": {
+    "album": "Unrecorded",
+    "lyrics_path": "unrecorded/overdrive-1.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.53",
+        "label": "character.inadequacy",
+        "text": "I love to feel you hand on my sore and blemished skin"
+      },
+      {
+        "start": "3.0",
+        "end": "3.85",
+        "label": "tier.b",
+        "text": "I love you see your lips arching as they search for mine. It means you're smiling too"
+      },
+      {
+        "start": "8.0",
+        "end": "11.28",
+        "label": "relationship.sex-discovering",
+        "text": "I love to feel your hair as it cascades on my face\nIt means you're over me\nAnd I hope you think the name when I do those lover things\nIt means that you're in love"
+      },
+      {
+        "start": "15.0",
+        "end": "17.0",
+        "label": "arrogance.superiority",
+        "text": "The public gets what the public wants\nWell it can't have me\n"
+      }
+    ],
+    "song_labels": [
+      "person.becky"
+    ],
+    "description": ""
+  },
+  "Solids and Liquids": {
+    "album": "Unrecorded",
+    "lyrics_path": "unrecorded/solids-and-liquids.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.126",
+        "label": "depression.predicting-death",
+        "text": "I know one day that I'm gonna die and when I do I don't want to know everything everyybody's every known about anything (ever)"
+      },
+      {
+        "start": "3.0",
+        "end": "3.118",
+        "label": "depression.struggling",
+        "text": "I've a phobia of sleeping alone, with nobody to tell me that it's alright to be a bit frightened so turn on the light."
+      },
+      {
+        "start": "5.0",
+        "end": "5.56",
+        "label": "character.flippant",
+        "text": "Yeah! electrify my chair, it's not as if I value my hair"
+      },
+      {
+        "start": "5.0",
+        "end": "5.56",
+        "label": "depression.suicide",
+        "text": "Yeah! electrify my chair, it's not as if I value my hair"
+      },
+      {
+        "start": "7.0",
+        "end": "7.99",
+        "label": "tier.b",
+        "text": "I phone you up to ask if I'm fine. You pause a while and tell em I'm alright if a little bit tired."
+      }
+    ],
+    "song_labels": [],
+    "description": ""
+  },
+  "Overdrive #2": {
+    "album": "Unrecorded",
+    "lyrics_path": "unrecorded/overdrive-2.txt",
+    "annotations": [
+      {
+        "start": "15.0",
+        "end": "16.54",
+        "label": "language.gibberish",
+        "text": "Thrust your hands into my tar pit, pulled out a plum\nLick it clean of silvery, green, saliva, darkening goo"
+      },
+      {
+        "start": "7.0",
+        "end": "8.24",
+        "label": "language.gibberish",
+        "text": "Demons start to turn my silver heart all tarnished. \nHear it racing 1000 bpm."
+      }
+    ],
+    "song_labels": [
+      "person.becky"
+    ],
+    "description": ""
+  },
+  "Of the utmost unimportance": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/of-the-utmost-unimportance.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.45",
+        "label": "depression.predicting-death",
+        "text": "You watched me though different coloured eyes\nAll the way from my decay to ultimate demise "
+      },
+      {
+        "start": "5.0",
+        "end": "5.57",
+        "label": "relationship.being-single",
+        "text": "I cried so much I'm out of touch with why you need a girl"
+      },
+      {
+        "start": "7.0",
+        "end": "10.49",
+        "label": "relationship.inferiority",
+        "text": "I want more than you could ever give\nand you would flee if you could see the thoughts that lie within\nDoubt and green and will to see more\nI break so easily that I don't need to be no more"
+      },
+      {
+        "start": "12.0",
+        "end": "15.36",
+        "label": "relationship.inferiority",
+        "text": "And maybe I'm not excellent at making you groan\nAnd maybe I'm not brilliant at smiling alone\nAnd maybe not proficient at breaking you heart\nbut I'm exceptional at falling apart"
+      },
+      {
+        "start": "18.0",
+        "end": "18.57",
+        "label": "language.gibberish",
+        "text": "I look to far too things that are too much for me to know"
+      },
+      {
+        "start": "25.0",
+        "end": "25.72",
+        "label": "meta.embarrassing",
+        "text": "and if I can start to be a retard you'll love me with all of your heart."
+      },
+      {
+        "start": "25.0",
+        "end": "25.72",
+        "label": "relationship.girls-love-the-wrong-sort",
+        "text": "and if I can start to be a retard you'll love me with all of your heart."
+      }
+    ],
+    "song_labels": [
+      "relationship.being-single",
+      "relationship.insecurity",
+      "meta.title-no-meaning"
+    ],
+    "description": ""
+  },
+  "The girl that won't die": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-girl-that-wont-die.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.30",
+        "label": "relationship.infatuation",
+        "text": "I want you to. You wanted to. \nIt's a wonder how we never do."
+      },
+      {
+        "start": "11.0",
+        "end": "11.33",
+        "label": "relationship.inferiority",
+        "text": "You get me high then eat me alive"
+      },
+      {
+        "start": "16.0",
+        "end": "16.35",
+        "label": "relationship.insecurity",
+        "text": "You're somewhere else, I hope alone"
+      }
+    ],
+    "song_labels": [
+      "person.other-real",
+      "relationship.being-single"
+    ],
+    "description": ""
+  },
+  "Just whatever": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/just-whatever.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.36",
+        "label": "depression.struggling",
+        "text": "Fortune cookies on a spinning wheel it doesn't matter which you choose\nIt will also turn out black and blue"
+      },
+      {
+        "start": "4.0",
+        "end": "4.36",
+        "label": "language.gibberish",
+        "text": "Black is white and white apocryphal."
+      },
+      {
+        "start": "7.0",
+        "end": "7.48",
+        "label": "language.gibberish",
+        "text": "Sorted seemingly meaningless seamless seamstress"
+      },
+      {
+        "start": "9.0",
+        "end": "9.72",
+        "label": "language.gibberish",
+        "text": "Velvet knickers and some superglue, I don't (know?) what you're gonna do"
+      },
+      {
+        "start": "11.0",
+        "end": "12.47",
+        "label": "language.gibberish",
+        "text": "A two tonne smile that splits your face in two sending me\nout of view chocolate buttons dance in solitude"
+      },
+      {
+        "start": "15.0",
+        "end": "15.33",
+        "label": "meta.album-title",
+        "text": "Smiling, the art of being someone"
+      },
+      {
+        "start": "18.0",
+        "end": "18.34",
+        "label": "relationship.sex-discovering",
+        "text": "What about tonight? Alone with you"
+      },
+      {
+        "start": "23.0",
+        "end": "23.64",
+        "label": "tier.b",
+        "text": "Flowers don't grow just anywhere but they grow real close to you"
+      },
+      {
+        "start": "23.0",
+        "end": "23.64",
+        "label": "relationship.affection",
+        "text": "Flowers don't grow just anywhere but they grow real close to you"
+      },
+      {
+        "start": "23.0",
+        "end": "24.30",
+        "label": "language.gibberish",
+        "text": "Flowers don't grow just anywhere but they grow real close to you\nMake you damn hard to identify"
+      },
+      {
+        "start": "25.0",
+        "end": "26.34",
+        "label": "relationship.sex-aggressive",
+        "text": "Bye Bye child, hope you come back I'll finish what I want to do\njust to give you a good seeing to."
+      }
+    ],
+    "song_labels": [
+      "relationship.infatuation"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Queen of outer space": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/queen-of-outer-space.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.33",
+        "label": "topic.gender",
+        "text": "Icon of my bidirectional hues\ntoo much for a little boy to lose"
+      },
+      {
+        "start": "7.0",
+        "end": "7.41",
+        "label": "relationship.affection",
+        "text": "The world is just not good enough for you"
+      },
+      {
+        "start": "6.0",
+        "end": "6.40",
+        "label": "relationship.dont-know-how-to",
+        "text": "I want I need I'm sorry I didn't mean it"
+      },
+      {
+        "start": "9.0",
+        "end": "12.33",
+        "label": "arrogance.superiority",
+        "text": "Two drinks and I'm taking over the world\nTomorrow, not til I conquered the girl\nToo easy this world's sown up, on a plate\nAll hail the queen of outta space"
+      },
+      {
+        "start": "14.0",
+        "end": "17.0",
+        "label": "relationship.sex-discovering",
+        "text": "Have me 2 bottles sent to my room\nLet me lie on the floor next to you\nas you do what you do and you do\n"
+      },
+      {
+        "start": "18.0",
+        "end": "21.20",
+        "label": "depression.suicide",
+        "text": "Have me 2 bullets sent to my room\nlet us fly through the night with these tunes\nring loud all around our face\nQueen of outer space"
+      },
+      {
+        "start": "23.0",
+        "end": "24.33",
+        "label": "arrogance.superiority",
+        "text": "To watch you, you'd think you were out of this world\nHalf-wit and half incredible girl"
+      },
+      {
+        "start": "25.0",
+        "end": "26.31",
+        "label": "relationship.sex-discovering",
+        "text": "Tongue talking oh what a terrible waste\ninhale the queen of outer space"
+      }
+    ],
+    "song_labels": [
+      "relationship.infatuation",
+      "person.immaginary-girl"
+    ],
+    "description": ""
+  },
+  "Jilted": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/jilted.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.86",
+        "label": "relationship.inferiority",
+        "text": "This one's out of my head, I'll try to carry on, with the knowledge that I'm all wrong"
+      },
+      {
+        "start": "3.0",
+        "end": "4.33",
+        "label": "depression.mild",
+        "text": "This one's over my head, I'm going to try to understand\nThat it isn't going to get better"
+      },
+      {
+        "start": "8.0",
+        "end": "9.33",
+        "label": "depression.struggling",
+        "text": "This boy's out of his depth, I'm going to try to stay afloat\nwith everything you gave me (air)"
+      },
+      {
+        "start": "19.0",
+        "end": "19.57",
+        "label": "society.distruction",
+        "text": "Now I'm out of my mind, I want to break the world's spine"
+      },
+      {
+        "start": "22.0",
+        "end": "23.30",
+        "label": "relationship.affection",
+        "text": "Now I'm out on my own I'm going to pick the telephone\nand ring you with a long song."
+      }
+    ],
+    "song_labels": [],
+    "description": ""
+  },
+  "Whatever hurts the most": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/whatever-hurts-the-most.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.26",
+        "label": "relationship.love-as-rescue",
+        "text": "I know, it wasn't meant to feel this good, I know\nbut if I make it off and out of my mind\nwe'll feel better tomorrow"
+      },
+      {
+        "start": "12.0",
+        "end": "15.76",
+        "label": "relationship.growing-confident",
+        "text": "Hello girl in the refectory, \nI think we could be pretty special if we work it out\nI know you think I'm pretty strange or brave or both\nBut I don't know why or how you got me so wound up about a girl I don't know"
+      },
+      {
+        "start": "17.0",
+        "end": "17.47",
+        "label": "relationship.growing-confident",
+        "text": "I know I'm feeling pretty pretty and pretty low"
+      },
+      {
+        "start": "17.0",
+        "end": "17.47",
+        "label": "depression.mild",
+        "text": "I know I'm feeling pretty pretty and pretty low"
+      }
+    ],
+    "song_labels": [
+      "relationship.infatuation",
+      "person.other-real"
+    ],
+    "description": ""
+  },
+  "Pseudo Masacism": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/pseudo-masacism.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": ""
+  },
+  "Straight Pride": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/straight-pride.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.33",
+        "label": "relationship.sexuality",
+        "text": "If all of the boys in the world joined hands\nwe'd form a very pretty long line"
+      },
+      {
+        "start": "3.0",
+        "end": "4.34",
+        "label": "relationship.sexuality",
+        "text": "and if all of the girls in the world joined in \nwe would be the only ones to shine"
+      },
+      {
+        "start": "6.0",
+        "end": "6.64",
+        "label": "arrogance.superiority",
+        "text": "But the world isn't mine but that's surely just a matter of time"
+      },
+      {
+        "start": "14.0",
+        "end": "14.73",
+        "label": "depression.predicting-death",
+        "text": "And I'm counting the days, when the day comes I know I won't want to stay"
+      },
+      {
+        "start": "19.0",
+        "end": "19.48",
+        "label": "depression.mild",
+        "text": "so I trade it all in for some type of everything"
+      }
+    ],
+    "song_labels": [
+      "relationship.sexuality"
+    ],
+    "description": ""
+  },
+  "Nature Intended": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/nature-intended.txt",
+    "annotations": [
+      {
+        "start": "5.0",
+        "end": "5.46",
+        "label": "relationship.affection",
+        "text": "seems my life has lost several hours with you."
+      }
+    ],
+    "song_labels": [],
+    "description": ""
+  },
+  "Loser": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/loser.txt",
+    "annotations": [
+      {
+        "start": "2.7",
+        "end": "2.53",
+        "label": "depression.madness",
+        "text": "In the acrid state of mind you call your home."
+      },
+      {
+        "start": "4.0",
+        "end": "4.83",
+        "label": "depression.better-off-without-me",
+        "text": "And deep behind my amatory smile there hides a side of me that we don't really need"
+      },
+      {
+        "start": "11.0",
+        "end": "11.20",
+        "label": "language.strong",
+        "text": "Fucker, faker, hater"
+      },
+      {
+        "start": "13.0",
+        "end": "13.26",
+        "label": "depression.serious",
+        "text": "oh you sad abhorrent loser"
+      }
+    ],
+    "song_labels": [
+      "depression.better-off-without-me"
+    ],
+    "description": "",
+    "year": "",
+    "date_range": "",
+    "date": ""
+  },
+  "wsoh": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/wsoh.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.31",
+        "label": "depression.predicting-death",
+        "text": "Living slow, dying bored, lying on the bar-room floor\nins't really what I had in mind"
+      },
+      {
+        "start": "3.0",
+        "end": "4.38",
+        "label": "depression.mild",
+        "text": "I block out the sunshine with my violent little finger\nIt doesn't really made now we're blind"
+      },
+      {
+        "start": "6.0",
+        "end": "7.23",
+        "label": "depression.self-harm",
+        "text": "We're all so low, that I cannot poke my eyes out\ncause my hands are cold"
+      },
+      {
+        "start": "9.0",
+        "end": "9.61",
+        "label": "language.dodgy",
+        "text": "Lying on the bedroom floor, we laugh about the 1st world word"
+      },
+      {
+        "start": "10.0",
+        "end": "10.36",
+        "label": "language.strong",
+        "text": "taking all the fuckups in our strude"
+      },
+      {
+        "start": "15.0",
+        "end": "16.43",
+        "label": "character.want-to-be-heard",
+        "text": "And I'm scaring all of the children with my WSOH\nand it bothers me that on-one seems to care"
+      },
+      {
+        "start": "17.0",
+        "end": "18.21",
+        "label": "depression.lonliness",
+        "text": "Take me home how was I to know that no-one\nloves you on your own"
+      },
+      {
+        "start": "20.0",
+        "end": "21.34",
+        "label": "character.want-to-be-heard",
+        "text": "Everybody looks at me but that's ok cause I am scary\nit's nice that people seem to care"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date": "1996-09-07",
+    "date_range_start": "",
+    "date_range_end": ""
+  },
+  "Largo Captitivio": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/largo-captitivio.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.43",
+        "label": "language.gibberish"
+      },
+      {
+        "start": "5.0",
+        "end": "5.57",
+        "label": "religion.careless"
+      },
+      {
+        "start": "6.0",
+        "end": "6.49",
+        "label": "character.flippant"
+      },
+      {
+        "start": "10.0",
+        "end": "11.52",
+        "label": "language.humour"
+      },
+      {
+        "start": "14.0",
+        "end": "16.67",
+        "label": "topic.alcohol"
+      },
+      {
+        "start": "20.0",
+        "end": "21.50",
+        "label": "language.humour"
+      },
+      {
+        "start": "23.0",
+        "end": "24.36",
+        "label": "relationship.sex-general"
+      }
+    ],
+    "song_labels": [
+      "person.imaginary-other",
+      "language.gibberish"
+    ],
+    "description": ""
+  },
+  "The superstars": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-superstars.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.44",
+        "label": "self-reference.writing"
+      },
+      {
+        "start": "2.0",
+        "end": "3.32",
+        "label": "topic.drugs"
+      },
+      {
+        "start": "2.0",
+        "end": "3.32",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "6.0",
+        "end": "7.38",
+        "label": "depression.giving-up"
+      },
+      {
+        "start": "11.0",
+        "end": "12.33",
+        "label": "depression.serious"
+      },
+      {
+        "start": "15.0",
+        "end": "15.31",
+        "label": "depression.self-harm"
+      },
+      {
+        "start": "17.0",
+        "end": "17.29",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "21.0",
+        "end": "22.34",
+        "label": "self-reference.writing"
+      },
+      {
+        "start": "21.0",
+        "end": "22.34",
+        "label": "depression.attracted-to"
+      },
+      {
+        "start": "25.0",
+        "end": "26.43",
+        "label": "depression.failure"
+      }
+    ],
+    "song_labels": [
+      "depression.suicide"
+    ],
+    "description": ""
+  },
+  "Dreamer Absolute": {
+    "album": "Charm Offensive",
+    "lyrics_path": "charm-offensive/dreamer-absolute.txt",
+    "annotations": [
+      {
+        "start": "5.0",
+        "end": "5.67",
+        "label": "tier.c"
+      },
+      {
+        "start": "9.0",
+        "end": "9.50",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "10.0",
+        "end": "10.170",
+        "label": "cultural-reference"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Another ambiguous love song": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/another-ambiguous-love-song.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.44",
+        "label": "relationship.being-single"
+      },
+      {
+        "start": "4.0",
+        "end": "4.26",
+        "label": "tier.b"
+      },
+      {
+        "start": "12.0",
+        "end": "12.77",
+        "label": "topic.dated-reference"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unkown CO #1": {
+    "album": "Charm Offensive",
+    "lyrics_path": "charm-offensive/unkown-co-1.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.37",
+        "label": "depression.location"
+      },
+      {
+        "start": "2.0",
+        "end": "2.43",
+        "label": "relationship.sex-discovering"
+      },
+      {
+        "start": "4.0",
+        "end": "4.34",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "6.0",
+        "end": "6.43",
+        "label": "society.distain-for"
+      },
+      {
+        "start": "7.0",
+        "end": "7.41",
+        "label": "depression.mild"
+      },
+      {
+        "start": "9.0",
+        "end": "9.41",
+        "label": "depression.location"
+      },
+      {
+        "start": "10.0",
+        "end": "10.38",
+        "label": "arrogance.superiority"
+      }
+    ],
+    "song_labels": [
+      "depression.location",
+      "depression.mild"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Real life high": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/real-life-high.txt",
+    "annotations": [
+      {
+        "start": "5.0",
+        "end": "5.28",
+        "label": "language.gibberish"
+      },
+      {
+        "start": "7.0",
+        "end": "8.25",
+        "label": "topic.angels"
+      },
+      {
+        "start": "17.0",
+        "end": "18.30",
+        "label": "depression.struggling"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Candynovasupercane": {
+    "album": "Charm Offensive",
+    "lyrics_path": "charm-offensive/candynovasupercane.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.59",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "1.0",
+        "end": "2.59",
+        "label": "topic.leaving"
+      },
+      {
+        "start": "4.0",
+        "end": "4.70",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "6.0",
+        "end": "6.62",
+        "label": "depression.lonliness"
+      },
+      {
+        "start": "7.0",
+        "end": "8.50",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "10.0",
+        "end": "11.70",
+        "label": "depression.hope"
+      },
+      {
+        "start": "13.0",
+        "end": "13.66",
+        "label": "depression.mild"
+      },
+      {
+        "start": "15.0",
+        "end": "15.75",
+        "label": "religion.careless"
+      },
+      {
+        "start": "18.0",
+        "end": "18.52",
+        "label": "language.made-up-words"
+      },
+      {
+        "start": "21.36",
+        "end": "22.65",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "23.0",
+        "end": "23.60",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "26.0",
+        "end": "26.61",
+        "label": "language.made-up-words"
+      },
+      {
+        "start": "26.0",
+        "end": "26.61",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "27.0",
+        "end": "27.72",
+        "label": "depression.mild"
+      },
+      {
+        "start": "27.41",
+        "end": "28.61",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "29.0",
+        "end": "30.33",
+        "label": "person.elaine"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Last of the big time chancers": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/last-of-the-big-time-chancers.txt",
+    "annotations": [
+      {
+        "start": "8.0",
+        "end": "8.45",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "6.0",
+        "end": "6.59",
+        "label": "depression.struggling"
+      }
+    ],
+    "song_labels": [
+      "meta.title-not-in-lyrics"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The cad and the no-one": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-cad-and-the-no-one.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.54",
+        "label": "person.other-real"
+      },
+      {
+        "start": "3.0",
+        "end": "4.41",
+        "label": "arrogance.girls"
+      },
+      {
+        "start": "6.0",
+        "end": "7.51",
+        "label": "relationship.breakup"
+      },
+      {
+        "start": "9.0",
+        "end": "10.80",
+        "label": "arrogance.girls"
+      },
+      {
+        "start": "10.0",
+        "end": "12.63",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "16.0",
+        "end": "17.42",
+        "label": "relationship.sad-girl"
+      },
+      {
+        "start": "18.0",
+        "end": "19.35",
+        "label": "relationship.comparing-girls"
+      }
+    ],
+    "song_labels": [
+      "relationship.comparing-girls",
+      "person.other-real",
+      "arrogance.girls"
+    ],
+    "description": "I guess the girl I'm claming to have gilted is not actually upset. Possible Sarah -> Elaine?",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Turtle Graveyard": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/turtle-graveyard.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown-3": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/unknown-3.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.45",
+        "label": "topic.angels"
+      },
+      {
+        "start": "1.0",
+        "end": "1.45",
+        "label": "religion.careless"
+      },
+      {
+        "start": "1.0",
+        "end": "1.45",
+        "label": "relationship.sex-general"
+      },
+      {
+        "start": "3.0",
+        "end": "3.53",
+        "label": "depression.giving-up"
+      },
+      {
+        "start": "4.0",
+        "end": "4.43",
+        "label": "depression.failure"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Ladies Man": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/ladies-man.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.35",
+        "label": "arrogance.superiority"
+      },
+      {
+        "start": "4.0",
+        "end": "6.22",
+        "label": "topic.sad-songs"
+      },
+      {
+        "start": "9.0",
+        "end": "11.24",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "18.0",
+        "end": "18.30",
+        "label": "relationship.sex-discovering"
+      }
+    ],
+    "song_labels": [
+      "relationship.sex-discovering"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The isle of ultratacky": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/the-isle-of-ultratacky.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.60",
+        "label": "language.made-up-words"
+      }
+    ],
+    "song_labels": [
+      "language.gibberish"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My sad machines": {
+    "album": "Charm Offensive",
+    "lyrics_path": "charm-offensive/my-sad-machines.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.84",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "2.0",
+        "end": "2.85",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "2.0",
+        "end": "2.85",
+        "label": "meta.embarrassing"
+      },
+      {
+        "start": "6.0",
+        "end": "6.79",
+        "label": "meta.embarrassing"
+      },
+      {
+        "start": "12.0",
+        "end": "12.46",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "14.0",
+        "end": "15.28",
+        "label": "depression.self-harm"
+      }
+    ],
+    "song_labels": [
+      "character.self-pity"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Keffler's Dream": {
+    "album": "Charm Offensive",
+    "lyrics_path": "charm-offensive/kefflers-dream.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "4.57",
+        "label": "character.evil"
+      },
+      {
+        "start": "6.0",
+        "end": "6.50",
+        "label": "character.evil"
+      },
+      {
+        "start": "7.0",
+        "end": "7.51",
+        "label": "language.made-up-words"
+      },
+      {
+        "start": "10.0",
+        "end": "11.51",
+        "label": "character.evil"
+      },
+      {
+        "start": "15.0",
+        "end": "16.19",
+        "label": "language.gibberish"
+      },
+      {
+        "start": "21.0",
+        "end": "21.33",
+        "label": "language.made-up-words"
+      }
+    ],
+    "song_labels": [
+      "character.evil"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Perfume Fusion": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/perfume-fusion.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.48",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "5.0",
+        "end": "5.54",
+        "label": "topic.angels"
+      },
+      {
+        "start": "6.0",
+        "end": "7.41",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "9.0",
+        "end": "9.48",
+        "label": "religion.anti"
+      },
+      {
+        "start": "11.0",
+        "end": "11.38",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "10.0",
+        "end": "10.54",
+        "label": "society.distain-for"
+      },
+      {
+        "start": "15.0",
+        "end": "15.44",
+        "label": "tier.b"
+      },
+      {
+        "start": "17.0",
+        "end": "17.62",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "18.0",
+        "end": "19.19",
+        "label": "topic.alcohol"
+      },
+      {
+        "start": "18.0",
+        "end": "19.19",
+        "label": "cultural-reference"
+      }
+    ],
+    "song_labels": [
+      "depression.suicide"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Cleopatra and the bad dream": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/cleopatra-and-the-bad-dream.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.45",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "6.0",
+        "end": "6.51",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "11.0",
+        "end": "12.28",
+        "label": "arrogance.general"
+      },
+      {
+        "start": "16.0",
+        "end": "16.47",
+        "label": "religion.careless"
+      },
+      {
+        "start": "18.0",
+        "end": "18.48",
+        "label": "character.flippant"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Keffler's Animal": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/kefflers-animal.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Chaos Now": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/chaos-now.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.33",
+        "label": "language.gibberish"
+      },
+      {
+        "start": "11.0",
+        "end": "11.32",
+        "label": "depression.lonliness"
+      },
+      {
+        "start": "19.0",
+        "end": "19.35",
+        "label": "relationship.sex-general"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Always and forever": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/always-and-forever.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.39",
+        "label": "relationship.affection"
+      },
+      {
+        "start": "13.0",
+        "end": "14.27",
+        "label": "relationship.affection"
+      }
+    ],
+    "song_labels": [
+      "relationship.affection",
+      "person.other-real"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "unknown-4": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/unknown-4.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.35",
+        "label": "relationship.seperation"
+      },
+      {
+        "start": "4.0",
+        "end": "7.28",
+        "label": "relationship.insecurity"
+      },
+      {
+        "start": "9.0",
+        "end": "10.22",
+        "label": "relationship.insecurity"
+      },
+      {
+        "start": "12.4",
+        "end": "13.19",
+        "label": "relationship.insecurity"
+      },
+      {
+        "start": "19.0",
+        "end": "20.25",
+        "label": "relationship.dont-know-how-to"
+      },
+      {
+        "start": "22.0",
+        "end": "24.19",
+        "label": "depression.lonliness"
+      },
+      {
+        "start": "26.0",
+        "end": "27.30",
+        "label": "character.self-pity"
+      }
+    ],
+    "song_labels": [
+      "person.lianne",
+      "relationship.seperation",
+      "relationship.insecurity"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Derailed": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/derailed.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.71",
+        "label": "society.distain-for"
+      },
+      {
+        "start": "8.0",
+        "end": "9.49",
+        "label": "character.evil"
+      },
+      {
+        "start": "12.0",
+        "end": "12.47",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "12.0",
+        "end": "12.47",
+        "label": "tier.b"
+      },
+      {
+        "start": "13.0",
+        "end": "13.44",
+        "label": "language.made-up-words"
+      },
+      {
+        "start": "20.0",
+        "end": "21.52",
+        "label": "depression.self-harm"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My best ever": {
+    "album": "Earlier",
+    "lyrics_path": "earlier/my-best-ever.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.45",
+        "label": "depression.hope"
+      },
+      {
+        "start": "3.0",
+        "end": "3.50",
+        "label": "tier.b"
+      },
+      {
+        "start": "6.0",
+        "end": "6.53",
+        "label": "language.gibberish"
+      },
+      {
+        "start": "7.0",
+        "end": "9.40",
+        "label": "relationship.sex-general"
+      },
+      {
+        "start": "17.0",
+        "end": "17.62",
+        "label": "relationship.sex-discovering"
+      },
+      {
+        "start": "19.0",
+        "end": "19.66",
+        "label": "tier.b"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Quiet Reverb": {
+    "album": "Unrecorded",
+    "lyrics_path": "unrecorded/quiet-reverb.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.35",
+        "label": "society.distain-for"
+      },
+      {
+        "start": "6.0",
+        "end": "6.66",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "7.0",
+        "end": "7.44",
+        "label": "character.self-pity"
+      },
+      {
+        "start": "9.0",
+        "end": "10.44",
+        "label": "character.quiet"
+      },
+      {
+        "start": "12.0",
+        "end": "13.39",
+        "label": "depression.giving-up"
+      },
+      {
+        "start": "16.0",
+        "end": "17.42",
+        "label": "depression.suicide"
+      },
+      {
+        "start": "17.0",
+        "end": "18.47",
+        "label": "depression.lonliness"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Explosions I have known": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "unrecorded/explosions-i-have-known.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "4.44",
+        "label": "relationship.breakup"
+      },
+      {
+        "start": "8.0",
+        "end": "9.53",
+        "label": "relationship.affection"
+      },
+      {
+        "start": "10.0",
+        "end": "10.100",
+        "label": "relationship.desperate"
+      },
+      {
+        "start": "12.0",
+        "end": "13.55",
+        "label": "relationship.desperate"
+      },
+      {
+        "start": "12.0",
+        "end": "12.51",
+        "label": "depression.suicide"
+      }
+    ],
+    "song_labels": [
+      "relationship.breakup"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My lullabye": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "unrecorded/my-lullabye.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "5.28",
+        "label": "relationship.affection"
+      },
+      {
+        "start": "4.0",
+        "end": "4.57",
+        "label": "Sleep"
+      }
+    ],
+    "song_labels": [
+      "relationship.affection"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Lava Machine": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/lava-machine.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.59",
+        "label": "relationship.breakup"
+      },
+      {
+        "start": "1.0",
+        "end": "2.59",
+        "label": "depression.mild"
+      },
+      {
+        "start": "4.0",
+        "end": "5.51",
+        "label": "relationship.girls-love-the-wrong-sort"
+      },
+      {
+        "start": "7.0",
+        "end": "8.61",
+        "label": "relationship.grand-gesture"
+      },
+      {
+        "start": "7.0",
+        "end": "8.62",
+        "label": "relationship.desperate"
+      },
+      {
+        "start": "10.0",
+        "end": "10.69",
+        "label": "relationship.breakup"
+      },
+      {
+        "start": "12.0",
+        "end": "12.78",
+        "label": "depression.struggling"
+      },
+      {
+        "start": "15.0",
+        "end": "15.112",
+        "label": "depression.predicting-death"
+      },
+      {
+        "start": "15.0",
+        "end": "15.112",
+        "label": "tier.b"
+      },
+      {
+        "start": "19.0",
+        "end": "19.76",
+        "label": "tier.b"
+      },
+      {
+        "start": "17.0",
+        "end": "18.45",
+        "label": "relationship.hurt-by"
+      },
+      {
+        "start": "21.0",
+        "end": "21.32",
+        "label": "relationship.insecurity"
+      },
+      {
+        "start": "23.0",
+        "end": "23.53",
+        "label": "depression.struggling"
+      },
+      {
+        "start": "24.0",
+        "end": "25.61",
+        "label": "relationship.hurt-by"
+      }
+    ],
+    "song_labels": [
+      "person.sarah-a",
+      "relationship.breakup"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Elaine (unrecorded verssion)": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/elaine-unrecorded-verssion.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.49",
+        "label": "relationship.being-single",
+        "text": "Teenage crushes crush me 'cause no-one ever cared"
+      },
+      {
+        "start": "1.0",
+        "end": "1.49",
+        "label": "character.self-pity",
+        "text": "Teenage crushes crush me 'cause no-one ever cared"
+      },
+      {
+        "start": "2.0",
+        "end": "2.48",
+        "label": "relationship.infatuation",
+        "text": "Tried so hard to let you know, but I never dared"
+      }
+    ],
+    "song_labels": [
+      "person.elaine"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My Way": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/my-way.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.83",
+        "label": "Sleep",
+        "text": "Wake up each morning, have 6 cups cups of coffee and fall back asleep on the floor,"
+      },
+      {
+        "start": "4.0",
+        "end": "4.77",
+        "label": "depression.predicting-death",
+        "text": "You're a bum and a loser the life that you choose will end it for you one day"
+      },
+      {
+        "start": "7.0",
+        "end": "7.61",
+        "label": "character.evil",
+        "text": "Turn on the TV watch shows about VD, hoping to see people die"
+      },
+      {
+        "start": "7.0",
+        "end": "7.61",
+        "label": "meta.embarrassing",
+        "text": "Turn on the TV watch shows about VD, hoping to see people die"
+      },
+      {
+        "start": "8.0",
+        "end": "8.69",
+        "label": "depression.self-harm",
+        "text": "Starting to shake I keep myself away just by poking myself in the eye"
+      },
+      {
+        "start": "12.0",
+        "end": "14.71",
+        "label": "depression.suicide",
+        "text": "By nighttime I'm high and I'm feeling like dying, \ntelling my friends that there's no point in trying\nYou cannot take anything with you, so you might as well lose it all now"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Summer in my back yard": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/summer-in-my-back-yard.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "3.54",
+        "label": "relationship.sex-discovering",
+        "text": "Beauty spots are something for nothing\nHave my doubts, you only notice when the lights go on "
+      },
+      {
+        "start": "5.0",
+        "end": "6.46",
+        "label": "character.happy",
+        "text": "Sun is out and kids are splaying, out the back the grass is praying\nwaiting for the door to open to be rolled upon"
+      },
+      {
+        "start": "10.0",
+        "end": "11.22",
+        "label": "character.happy",
+        "text": "and I wanna know who seems to think life's getting hard\nSummer in my back yard"
+      }
+    ],
+    "song_labels": [
+      "character.happy"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "She's falling down": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/shes-falling-down.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "4.41",
+        "label": "person.imaginary-other",
+        "text": "She's got a reason to wake up today \nbecause she's frightened what the papers will say \nshe spent \u00a3100,000 on champagne. \nShe can't remember if she bothered to pay"
+      },
+      {
+        "start": "20.0",
+        "end": "20.64",
+        "label": "relationship.insecurity",
+        "text": "   No way I'll ever believe, I can't believe she's fallen for me"
+      },
+      {
+        "start": "27.0",
+        "end": "27.38",
+        "label": "language.made-up-words",
+        "text": "She wears a ribbon in her auburny hair"
+      },
+      {
+        "start": "20.3",
+        "end": "20.64",
+        "label": "meta.missing-from-recording",
+        "text": "No way I'll ever believe, I can't believe she's fallen for me"
+      }
+    ],
+    "song_labels": [
+      "person.imaginary-other",
+      "songtheme.imaginary"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Multiple chances to fail": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/multiple-chances-to-fail.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.73",
+        "label": "topic.wasting-life",
+        "text": "Monday morning comes around, shoving lazy weekends out the way\nPostman wakes you up, delivering the debts you're yet to pay\nMorning phones you now, in case there's something you've forgotten to say"
+      },
+      {
+        "start": "4.0",
+        "end": "4.33",
+        "label": "topic.alcohol",
+        "text": "Whiskey makes the hours more sane"
+      },
+      {
+        "start": "6.0",
+        "end": "6.54",
+        "label": "topic.drugs",
+        "text": "Coffee, books and jays rolling into one big fuzzy haze"
+      },
+      {
+        "start": "7.0",
+        "end": "7.69",
+        "label": "relationship.sex-general",
+        "text": "Friends have left for sun, guess that means there's no more sex today"
+      },
+      {
+        "start": "10.0",
+        "end": "10.43",
+        "label": "depression.failure",
+        "text": "Hey, you've got multiple changes to fail x2"
+      },
+      {
+        "start": "12.0",
+        "end": "13.59",
+        "label": "language.mild",
+        "text": "Go, redecorate, pulling all the posters from the wall\nThrow them in the street, residents protest at all the porn"
+      },
+      {
+        "start": "18.0",
+        "end": "20.64",
+        "label": "meta.missing-from-recording",
+        "text": "Stay inside, tensor choosy, chooses you to fight her wars\nCount the cost, pick your battle to forget the ones you've lost\nI'd rather die than face the world from/on this cross what I won"
+      },
+      {
+        "start": "20.0",
+        "end": "20.64",
+        "label": "depression.suicide",
+        "text": "I'd rather die than face the world from/on this cross what I won"
+      }
+    ],
+    "song_labels": [
+      "topic.wasting-life"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Elaine": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/elaine.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.46",
+        "label": "meta.repurposed",
+        "text": "Oh the pain, it hit me like a rock in the face"
+      },
+      {
+        "start": "3.0",
+        "end": "5.51",
+        "label": "topic.space",
+        "text": "I need to catch a shuttle, it's departing soon\nHave to join a battle, us against the moon\nNot sure if I'll ever return, or even if I want to "
+      },
+      {
+        "start": "3.0",
+        "end": "5.51",
+        "label": "depression.mild",
+        "text": "I need to catch a shuttle, it's departing soon\nHave to join a battle, us against the moon\nNot sure if I'll ever return, or even if I want to "
+      },
+      {
+        "start": "10.0",
+        "end": "11.11",
+        "label": "relationship.kissing",
+        "text": "I forgot her voice and her taste, but still remember her name\nIt's Elaine"
+      },
+      {
+        "start": "13.0",
+        "end": "14.55",
+        "label": "depression.struggling",
+        "text": "Now I don my helmet, as I pull the pin\nUsed to know my way around so well, now I'm lost as sin"
+      }
+    ],
+    "song_labels": [
+      "person.elaine"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown (won't see another Saturday)": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/unknown-wont-see-another-saturday.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "3.0",
+        "label": "character.self-pity",
+        "text": "More rain than you've ever seen, filling up the rivers and streams\ntrying to burst their banks on me\n"
+      },
+      {
+        "start": "6.0",
+        "end": "7.30",
+        "label": "society.distruction",
+        "text": "More jolts than the earth can take, manifest in a rattle and shake\nI can feel the fabric breaking"
+      },
+      {
+        "start": "11.0",
+        "end": "12.62",
+        "label": "society.end-of-the-world",
+        "text": "You've gotta get out, there's a parasite on the way\nTastes like kissing ginger and it's coming in from outer-space"
+      },
+      {
+        "start": "16.0",
+        "end": "17.32",
+        "label": "society.end-of-the-world",
+        "text": "Last night when I closed my eyes, I could feel the deathly silence\nbeing broken by a distant rumble"
+      },
+      {
+        "start": "18.0",
+        "end": "18.62",
+        "label": "society.end-of-the-world",
+        "text": "Black scars on the planet's face ??? the end of the human race"
+      },
+      {
+        "start": "22.0",
+        "end": "23.62",
+        "label": "depression.giving-up",
+        "text": "Told me of another world where they care for one another\nShe turned around and walked away said to follow didn't bother"
+      }
+    ],
+    "song_labels": [
+      "society.end-of-the-world",
+      "meta.unrecorded-but-known-tune"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Death by little girl": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/death-by-little-girl.txt",
+    "annotations": [
+      {
+        "start": "4.0",
+        "end": "6.35",
+        "label": "relationship.hurt-by",
+        "text": "Soon you'll know, a feeling unlike ever before. \nIt'll make you feel inhuman it'll play with your mind\nand scatter you all over the floor."
+      },
+      {
+        "start": "8.0",
+        "end": "9.33",
+        "label": "relationship.infatuation",
+        "text": "Do you know why? It's something called infatuation.\nSometimes it's fatal it's unkind."
+      },
+      {
+        "start": "15.0",
+        "end": "18.40",
+        "label": "relationship.hurt-by",
+        "text": "So out of her world, the end of a living boy\nmurderous curls. Death by little girl.\nHarmless as she may look, she's a menace to society\nof innocent nerds. Death by little girl."
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown #5": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/unknown-5.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.54",
+        "label": "depression.bordom",
+        "text": "Bored of it all, Bored of it all, Bored of it all, now"
+      },
+      {
+        "start": "2.0",
+        "end": "2.56",
+        "label": "depression.failure",
+        "text": "Tired of trying, bored of failing, sick of dropping out."
+      },
+      {
+        "start": "4.0",
+        "end": "5.26",
+        "label": "meta.repurposed",
+        "text": "So I'm going to breath until I fall on my knees\nI'm going to say \"goodbye\""
+      },
+      {
+        "start": "7.0",
+        "end": "7.51",
+        "label": "person.mum",
+        "text": "Mother tell me, why'd you worry? I will be alright."
+      },
+      {
+        "start": "8.0",
+        "end": "8.53",
+        "label": "relationship.growing-confident",
+        "text": "I'm rock and you have shown me, how to find the light"
+      },
+      {
+        "start": "10.0",
+        "end": "10.49",
+        "label": "character.inadequacy",
+        "text": "And oh my god, we don't deserve to be here at all"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "After the lord mayor's show": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/after-the-lord-mayors-show.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.62",
+        "label": "character.self-pity",
+        "text": "and if I ran away from home would you lock the door behind me?"
+      },
+      {
+        "start": "3.0",
+        "end": "4.0",
+        "label": "important-to-me.nights-out",
+        "text": "There's a light on in my window but it doesn't mean I'm staying home tonight\n"
+      },
+      {
+        "start": "5.0",
+        "end": "5.54",
+        "label": "character.self-pity",
+        "text": "If I'd lost my job and wife would you dare to tell me?"
+      },
+      {
+        "start": "6.0",
+        "end": "6.48",
+        "label": "character.evil",
+        "text": "'Cause the messenger gets shot like all the rest"
+      },
+      {
+        "start": "7.0",
+        "end": "7.68",
+        "label": "person.imaginary-other",
+        "text": "There's a message in my wallet, it says \"Catherine, take care\" yeah."
+      },
+      {
+        "start": "9.0",
+        "end": "10.29",
+        "label": "depression.mild",
+        "text": "All I want is to be happy, all I want is to get by. \nAnd I can't get either right."
+      },
+      {
+        "start": "11.0",
+        "end": "12.31",
+        "label": "relationship.being-single",
+        "text": "All I want's for you to love me. All you gotta do is try\nBut you can't get either right."
+      },
+      {
+        "start": "14.0",
+        "end": "14.49",
+        "label": "depression.predicting-death",
+        "text": "If I die right now, I'll be in hell for breakfast"
+      },
+      {
+        "start": "15.0",
+        "end": "15.48",
+        "label": "depression.better-off-without-me",
+        "text": "If I go tonight do you think anyone will notice?"
+      },
+      {
+        "start": "14.0",
+        "end": "15.48",
+        "label": "depression.predicting-death",
+        "text": "If I die right now, I'll be in hell for breakfast\nIf I go tonight do you think anyone will notice?"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Loose end": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/loose-end.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.75",
+        "label": "language.gibberish",
+        "text": "She game me knows an bruises and a Commodore 16. I don't know how to use it"
+      },
+      {
+        "start": "6.0",
+        "end": "8.0",
+        "label": "language.gibberish",
+        "text": "I gave my life to the army for green velveteen. I've got the haircut to prove it.\nI tried to fight for my country. I was too drunk to see. They all said \"who're you foolin'\"\n"
+      },
+      {
+        "start": "6.0",
+        "end": "7.91",
+        "label": "meta.funny",
+        "text": "I gave my life to the army for green velveteen. I've got the haircut to prove it.\nI tried to fight for my country. I was too drunk to see. They all said \"who're you foolin'\""
+      },
+      {
+        "start": "9.0",
+        "end": "9.74",
+        "label": "person.other-real",
+        "text": "The demise of the 80s was blamed on a lady who'd sell her soul for a pound"
+      },
+      {
+        "start": "14.0",
+        "end": "16.28",
+        "label": "language.gibberish",
+        "text": "I found a girl in the gutter on a dimly lit street but she fell in love immediately \nShe had degrees in science and awards for bravery\nshe looked at my like vermin"
+      },
+      {
+        "start": "9.0",
+        "end": "9.74",
+        "label": "topic.dated-reference",
+        "text": "The demise of the 80s was blamed on a lady who'd sell her soul for a pound"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Crystalline Ginger": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/crystalline-ginger.txt",
+    "annotations": [
+      {
+        "start": "9.0",
+        "end": "9.75",
+        "label": "arrogance.general",
+        "text": "But your diary away I've got something to say that will change all eternity"
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Burn the city girl": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/burn-the-city-girl.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.38",
+        "label": "society.distruction",
+        "text": "Burn it up, let's watch this city burn"
+      },
+      {
+        "start": "3.0",
+        "end": "3.70",
+        "label": "meta.embarrassing",
+        "text": "If her eyes aren't weeping you couldn't get it up. Odd for a Saturday."
+      },
+      {
+        "start": "2.0",
+        "end": "2.52",
+        "label": "meta.embarrassing",
+        "text": "Cleanse the streets of the tramps and the call-girls"
+      },
+      {
+        "start": "8.0",
+        "end": "8.87",
+        "label": "important-to-me.nights-out",
+        "text": "When your friends stopped stealing, you couldn't give it up. To pay for your Saturdays."
+      },
+      {
+        "start": "14.0",
+        "end": "14.43",
+        "label": "society.distain-for",
+        "text": "Feel the heat, as it boils in its own blood"
+      },
+      {
+        "start": "16.0",
+        "end": "16.61",
+        "label": "depression.struggling",
+        "text": "Your heart feels heavy and you haven't haven't slept for days"
+      }
+    ],
+    "song_labels": [
+      "meta.title-not-in-lyrics",
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "High Society": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/high-society.txt",
+    "annotations": [
+      {
+        "start": "5.0",
+        "end": "5.65",
+        "label": "depression.suicide",
+        "text": "And I've got pills in the sole of my soul my wings tips suicide. "
+      }
+    ],
+    "song_labels": [
+      "meta.title-not-in-lyrics"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Clowns and lemonade (aka the end of the world fiasco)": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/clowns-and-lemonade-aka-the-end-of-the-world-fiasco.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.55",
+        "label": "relationship.breakup",
+        "text": "I've got 10,000 reasons not the stay this time\nFeels like we're bolted together and wrapped in twine. "
+      },
+      {
+        "start": "6.0",
+        "end": "10.0",
+        "label": "relationship.breakup",
+        "text": "Last week I wrote you a letter tryin-a let you go\nBut then our song started playing on the radio\nI just couldn't lick that stamp, I just couldn't sign that note.\nGuess that you will never know\n"
+      },
+      {
+        "start": "13.0",
+        "end": "13.58",
+        "label": "relationship.sex-general",
+        "text": "As least I'm getting out and at least you're getting laid."
+      },
+      {
+        "start": "16.0",
+        "end": "16.53",
+        "label": "topic.places",
+        "text": "Sometimes, this kinda a weather, wanna go back home. "
+      }
+    ],
+    "song_labels": [
+      "person.imaginary-other"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "By candle light": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/by-candle-light.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "3.69",
+        "label": "cultural-reference",
+        "text": "It ticks and rhymes as a waste of time like the plans of mice and men"
+      },
+      {
+        "start": "4.0",
+        "end": "4.32",
+        "label": "person.immaginary-girl",
+        "text": "and I don't wanna lose you again"
+      },
+      {
+        "start": "8.0",
+        "end": "9.24",
+        "label": "character.evil",
+        "text": "The kids rush by to the visiting time \nof the sane but evil men"
+      },
+      {
+        "start": "14.0",
+        "end": "14.46",
+        "label": "depression.suicide",
+        "text": "50 ways to kill yourself and I am still around"
+      },
+      {
+        "start": "19.0",
+        "end": "19.68",
+        "label": "society.distruction",
+        "text": "It doesn't matter where your roots are, when they drop the atom bomb"
+      },
+      {
+        "start": "19.0",
+        "end": "20.66",
+        "label": "character.evil",
+        "text": "It doesn't matter where your roots are, when they drop the atom bomb\nIt seems to wild that it makes me smile as I'm laying down my pen."
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Leaves": {
+    "album": "Explosions I have known era",
+    "lyrics_path": "explosions-i-have-known-era/leaves.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Gagged and leatherbound": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "can-love-kill-misery/gagged-and-leatherbound.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.53",
+        "label": "self-reference.writing",
+        "text": "Write down, all the things you dare not say out loud."
+      },
+      {
+        "start": "2.0",
+        "end": "2.46",
+        "label": "self-reference.writing",
+        "text": "Yell them out. Feel how good confessions sound"
+      },
+      {
+        "start": "3.0",
+        "end": "4.47",
+        "label": "meta.unknown-meaning",
+        "text": "When you told me, all the things you wrote\nIt sounded better than I ever could have hoped."
+      },
+      {
+        "start": "7.0",
+        "end": "7.55",
+        "label": "depression.attracted-to",
+        "text": "Calm down, it's not a coffin just a box I painted brown"
+      },
+      {
+        "start": "9.0",
+        "end": "10.43",
+        "label": "self-reference.writing",
+        "text": "Empty pages, often say much more, than the bookfuls of dark verse I'd wrote before\nI'd rather bleeding fingers than aching jaw"
+      },
+      {
+        "start": "12.0",
+        "end": "13.51",
+        "label": "depression.predicting-death",
+        "text": "I'm not leaving, I'm already gone, \nCoasting alone along my slow but definite departure"
+      },
+      {
+        "start": "14.0",
+        "end": "14.43",
+        "label": "self-reference.writing",
+        "text": "You cannot describe how you feel with a pen"
+      },
+      {
+        "start": "15.0",
+        "end": "15.58",
+        "label": "cultural-reference",
+        "text": "My voice is intact, but I don't want to sing my life again"
+      },
+      {
+        "start": "17.0",
+        "end": "20.22",
+        "label": "topic.media",
+        "text": "Maybe we should give up art in favour of TV\nSit naive absorbing nearly everything I see\nBut I despise someone telling me to cry\nso I decline and smile"
+      },
+      {
+        "start": "22.0",
+        "end": "22.48",
+        "label": "topic.media",
+        "text": "I can't find a channel, that tells me how I feel"
+      }
+    ],
+    "song_labels": [
+      "self-reference.writing"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Fallowfield": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/fallowfield.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "4.44",
+        "label": "depression.bordom",
+        "text": "Every street has a tale to tell me\nI once dared to listen I was bored to tears."
+      },
+      {
+        "start": "6.0",
+        "end": "6.33",
+        "label": "language.play-on-words",
+        "text": "The view from the window pains me"
+      },
+      {
+        "start": "8.0",
+        "end": "9.20",
+        "label": "language.play-on-words",
+        "text": "Traffic stops me sleeping \nIt's driving me away"
+      },
+      {
+        "start": "7.0",
+        "end": "7.31",
+        "label": "topic.weather",
+        "text": "and it's pouring down with rain"
+      }
+    ],
+    "song_labels": [
+      "topic.places"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "CJC (I'd love to)": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/cjc-id-love-to.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.26",
+        "label": "self-reference.writing",
+        "text": "Cath, here's to you. Nothing you have heard before\nbut this time put to music"
+      },
+      {
+        "start": "4.0",
+        "end": "4.83",
+        "label": "self-reference.writing",
+        "text": "In case you don't know how I feel, I've committed it to record as a small opus in G"
+      },
+      {
+        "start": "9.0",
+        "end": "10.62",
+        "label": "relationship.affection",
+        "text": "When I sleep it's just not the same\nso I'd travel half way 'round the world to kiss you wide awake"
+      },
+      {
+        "start": "12.0",
+        "end": "14.0",
+        "label": "relationship.affection",
+        "text": "You might think that sounds insane\nBut if I looked as good as you I'd sure you'd do the same.\n"
+      },
+      {
+        "start": "9.0",
+        "end": "10.62",
+        "label": "relationship.grand-gesture",
+        "text": "When I sleep it's just not the same\nso I'd travel half way 'round the world to kiss you wide awake"
+      },
+      {
+        "start": "15.0",
+        "end": "16.19",
+        "label": "relationship.grand-gesture",
+        "text": "Though I've no love of sickness I'd gladly catch a cold from you\nIn fact I'd love to"
+      },
+      {
+        "start": "19.0",
+        "end": "20.58",
+        "label": "relationship.affection",
+        "text": "But if I break your little heart, I'd happily give you mind\nNo need to ask me cause I'm doing fine, since you're alive"
+      }
+    ],
+    "song_labels": [
+      "person.catherine",
+      "meta.repurposed"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown CLKM 1": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/unknown-clkm-1.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.53",
+        "label": "relationship.breakup",
+        "text": "Sorry you found out this way, about my red eyes and chest pains\nI hope it explains. Baby sorry you found out this way"
+      }
+    ],
+    "song_labels": [
+      "meta.unknown-meaning"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Walking barefoot over broken glass": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/walking-barefoot-over-broken-glass.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.46",
+        "label": "depression.self-harm",
+        "text": "Walking barefoot over 15 miles of broken glass"
+      },
+      {
+        "start": "5.0",
+        "end": "5.48",
+        "label": "character.contradiction",
+        "text": "If I didn't know better I'd still feel no better"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Sleep through this": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/sleep-through-this.txt",
+    "annotations": [
+      {
+        "start": "8.0",
+        "end": "9.68",
+        "label": "character.self-pity",
+        "text": "Every scream you hear will be exactly as it was\nEvery glow you feel will symbolise the pain and how it was back them"
+      }
+    ],
+    "song_labels": [
+      "meta.unknown-meaning"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Miss June": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/miss-june.txt",
+    "annotations": [
+      {
+        "start": "7.0",
+        "end": "7.9",
+        "label": "person.charlotte",
+        "text": "Miss June"
+      },
+      {
+        "start": "1.0",
+        "end": "1.53",
+        "label": "Sleep",
+        "text": "Time will tell, If I can dream as well as I can sleep"
+      },
+      {
+        "start": "2.0",
+        "end": "2.25",
+        "label": "relationship.mss-you",
+        "text": "I write to say I miss you"
+      },
+      {
+        "start": "4.0",
+        "end": "5.95",
+        "label": "relationship.infatuation",
+        "text": "Only time will tell, \nif anything becomes of years of hoping and wishing and I deam of you each second and I miss you"
+      }
+    ],
+    "song_labels": [
+      "person.charlotte",
+      "relationship.mss-you"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Unknown CLKM 2": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/unknown-clkm-2.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.31",
+        "label": "self-reference.writing",
+        "text": "I'll say this in my own defence"
+      },
+      {
+        "start": "4.0",
+        "end": "5.50",
+        "label": "relationship.lovers-or-friends",
+        "text": "How can I claim that liking me is quite enough\nwhen at no point did I ever say I was not in love?"
+      }
+    ],
+    "song_labels": [
+      "person.charlotte",
+      "relationship.lovers-or-friends"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "King for a day": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "can-love-kill-misery/king-for-a-day.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.37",
+        "label": "depression.suicide",
+        "text": "I wish I could be, king for a day\nSuddenly everyone cares what you say."
+      },
+      {
+        "start": "3.0",
+        "end": "3.70",
+        "label": "depression.struggling",
+        "text": "You ask me and I say I'm fine, in truth I haven't been fine your years"
+      },
+      {
+        "start": "5.0",
+        "end": "6.40",
+        "label": "society.distain-for",
+        "text": "If I could be, king for a day\nEverything's broken and someone must pay"
+      },
+      {
+        "start": "8.0",
+        "end": "10.46",
+        "label": "relationship.being-single",
+        "text": "Do you think you'll find what you're looking for\nJust maybe I'm what you're looking for \nI am out there somewhere, are you other there?"
+      },
+      {
+        "start": "12.0",
+        "end": "13.47",
+        "label": "arrogance.superiority",
+        "text": "I dreamt I was stupid and free of contempt \nThe most beautiful thing I may ever have dreamt"
+      },
+      {
+        "start": "20.0",
+        "end": "21.30",
+        "label": "depression.suicide",
+        "text": "Put on your coat we're throwing out the litter\nTimes on our side for a change"
+      },
+      {
+        "start": "22.0",
+        "end": "23.68",
+        "label": "character.self-pity",
+        "text": "And if I didn't know any better\nI would say I was due a little luck, things could be a little better"
+      },
+      {
+        "start": "26.0",
+        "end": "26.69",
+        "label": "depression.predicting-death",
+        "text": "If I could be king for day, I'd procrastinate, abdicate and fade away"
+      },
+      {
+        "start": "29.0",
+        "end": "30.55",
+        "label": "depression.lonliness",
+        "text": "Do you think I'll ever find what you're looking for \nwhen I'm pretty sure you left me to follow your dreams?"
+      }
+    ],
+    "song_labels": [
+      "person.charlotte"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Something I forgot to tell you": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "can-love-kill-misery-era/something-i-forgot-to-tell-you.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.40",
+        "label": "relationship.affection",
+        "text": "I wrote down everything I've ever loved \nand sketched your face within the margin"
+      }
+    ],
+    "song_labels": [
+      "person.catherine"
+    ],
+    "description": "I only know that this is about Catherine, because on the page there is a sketch of her, like mentioned in the song",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Love by intimidation": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "can-love-kill-misery/love-by-intimidation.txt",
+    "annotations": [],
+    "song_labels": [],
+    "description": ""
+  },
+  "Best days of my life": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/best-days-of-my-life.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.58",
+        "label": "tier.f",
+        "text": "It's so hard to find your tracks I wish that it would snow"
+      },
+      {
+        "start": "5.0",
+        "end": "6.52",
+        "label": "tier.b",
+        "text": "Every time that I wake up get lost inside my head\nTry to think what day it is and think of you instead"
+      },
+      {
+        "start": "7.0",
+        "end": "7.47",
+        "label": "meta.embarrassing",
+        "text": "Everything you said to me I take it all as read"
+      },
+      {
+        "start": "12.0",
+        "end": "12.55",
+        "label": "relationship.infatuation",
+        "text": "Thank you girl for messing up the best days of my life."
+      },
+      {
+        "start": "12.0",
+        "end": "12.55",
+        "label": "depression.struggling",
+        "text": "Thank you girl for messing up the best days of my life."
+      }
+    ],
+    "song_labels": [
+      "person.immaginary-girl"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "You rock my world": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/you-rock-my-world.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.54",
+        "label": "society.distruction",
+        "text": "Is it getting cold? You need a bomb to make me go out."
+      },
+      {
+        "start": "4.0",
+        "end": "5.27",
+        "label": "depression.madness",
+        "text": "And is it getting so you need to worry if I'm going to be about?\nI may just get lost in town"
+      },
+      {
+        "start": "7.0",
+        "end": "7.60",
+        "label": "arrogance.general",
+        "text": "I'm brilliant to a degree, but I'm not worth anybody's money"
+      },
+      {
+        "start": "7.0",
+        "end": "7.60",
+        "label": "character.self-pity",
+        "text": "I'm brilliant to a degree, but I'm not worth anybody's money"
+      },
+      {
+        "start": "7.0",
+        "end": "7.60",
+        "label": "character.contradiction",
+        "text": "I'm brilliant to a degree, but I'm not worth anybody's money"
+      },
+      {
+        "start": "10.0",
+        "end": "11.36",
+        "label": "relationship.love-as-rescue",
+        "text": "You're the antidote to all the junk that's keeping me down\nYou're the sun to all my rain clouds"
+      },
+      {
+        "start": "12.0",
+        "end": "13.31",
+        "label": "tier.c",
+        "text": "And if you wanna be, you'll be the queen who's paining my town\nall the colours of a sun shower"
+      },
+      {
+        "start": "20.0",
+        "end": "20.55",
+        "label": "language.gibberish",
+        "text": "If I'm getting old I need to find the world in my realm"
+      },
+      {
+        "start": "22.0",
+        "end": "23.31",
+        "label": "language.gibberish",
+        "text": "So I'm lying here with all the tides, the rocks and the sand\nWith nothing but a fake sun-tan"
+      },
+      {
+        "start": "20.0",
+        "end": "21.31",
+        "label": "tier.c",
+        "text": "If I'm getting old I need to find the world in my realm\nThe one with all her walls down"
+      }
+    ],
+    "song_labels": [
+      "relationship.love-as-rescue",
+      "person.unknown"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The drowning of Laura Gates": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/the-drowning-of-laura-gates.txt",
+    "annotations": [
+      {
+        "start": "6.0",
+        "end": "6.61",
+        "label": "depression.suicide",
+        "text": "Someday there'll be a parade, for the drowning of Laura Gates"
+      },
+      {
+        "start": "11.0",
+        "end": "11.36",
+        "label": "depression.suicide",
+        "text": "\"Coming into my arm\" you said to me."
+      }
+    ],
+    "song_labels": [
+      "person.other-real",
+      "depression.suicide",
+      "songtheme.imaginary"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Twist in my arms again": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/twist-in-my-arms-again.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.36",
+        "label": "depression.mild",
+        "text": "By the way I'm not happy, you can tell by the way you're no longer with me\nTo kiss me and tell me I'm beautiful"
+      },
+      {
+        "start": "1.0",
+        "end": "3.0",
+        "label": "relationship.breakup",
+        "text": "By the way I'm not happy, you can tell by the way you're no longer with me\nTo kiss me and tell me I'm beautiful\n"
+      },
+      {
+        "start": "3.0",
+        "end": "3.75",
+        "label": "depression.mild",
+        "text": "It's not that I'm angry, It's just there's a feeling inside and it hurts me"
+      },
+      {
+        "start": "6.0",
+        "end": "7.27",
+        "label": "depression.predicting-death",
+        "text": "I believe that I'm dying, so I'll hide in a corner where no-one can find me\nTo try to make me see sense"
+      },
+      {
+        "start": "8.0",
+        "end": "9.34",
+        "label": "depression.suicide",
+        "text": "'Cause there's no sense in breathing, I'm destined to die here along so just leave me\nBelieve me I'm not going to change"
+      },
+      {
+        "start": "11.0",
+        "end": "11.74",
+        "label": "depression.suicide",
+        "text": "I'll sit in the rain in a path of a train, 'til I twist in your arms again"
+      },
+      {
+        "start": "11.0",
+        "end": "11.74",
+        "label": "tier.b",
+        "text": "I'll sit in the rain in a path of a train, 'til I twist in your arms again"
+      },
+      {
+        "start": "15.0",
+        "end": "15.84",
+        "label": "relationship.love-as-rescue",
+        "text": "Would you write dear and tell me, is there a chance that you might come and save me?"
+      },
+      {
+        "start": "17.0",
+        "end": "18.20",
+        "label": "character.outsider",
+        "text": "I'm a shell of what I used to be, which is merely a boy that children find scary \nAnd messed up inside"
+      },
+      {
+        "start": "22.0",
+        "end": "22.85",
+        "label": "arrogance.general",
+        "text": "I'll break down your arms with my intelligent charms, 'til I twist in your arms again"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Who'd you know": {
+    "album": "Explosions I have known",
+    "lyrics_path": "explosions-i-have-known/whod-you-know.txt",
+    "annotations": [
+      {
+        "start": "13.0",
+        "end": "13.4",
+        "label": "arrogance.general",
+        "text": "(Me)"
+      },
+      {
+        "start": "4.0",
+        "end": "5.50",
+        "label": "arrogance.general",
+        "text": "Who'd you know that is a amazing who'd you know?\nWho'd you know that is a fantastic who'd you know?"
+      }
+    ],
+    "song_labels": [
+      "arrogance.general"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Lounge": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "can-love-kill-misery/lounge.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "1.64",
+        "label": "self-reference.writing",
+        "text": "Can a love song tell you what you need to know? I don't think so"
+      },
+      {
+        "start": "3.0",
+        "end": "3.71",
+        "label": "self-reference.other-song",
+        "text": "It seems so long ago \"the end of June\" how did I ever finish that tune?"
+      },
+      {
+        "start": "5.0",
+        "end": "5.50",
+        "label": "relationship.dont-know-how-to",
+        "text": "this fool would try and fail and say \"I'd love to\""
+      },
+      {
+        "start": "7.0",
+        "end": "9.84",
+        "label": "self-reference.writing",
+        "text": "So if I ever start to write again, please stop me. \nIt doesn't mean there's nothing I could say\nIt's just I could have built a tower for you in the time it's taken me to write this"
+      },
+      {
+        "start": "14.0",
+        "end": "15.46",
+        "label": "depression.predicting-death",
+        "text": "as I lie here beside you, it's almost just as if I'm\ndying, and my pulse won't stop gathering speed"
+      },
+      {
+        "start": "18.0",
+        "end": "19.68",
+        "label": "self-reference.writing",
+        "text": "So, here's to you. Nothing you've not head before but this time it's a tune.\nThis is how I feel, I've committed it to record as a small opus in G"
+      },
+      {
+        "start": "24.0",
+        "end": "25.33",
+        "label": "self-reference.musician",
+        "text": "Some people simply do not pick good notes, maybe I don't\nI swear I used to not so long ago"
+      },
+      {
+        "start": "26.32",
+        "end": "26.52",
+        "label": "language.made-up-words",
+        "text": "graffiti d'italiana "
+      }
+    ],
+    "song_labels": [
+      "person.catherine",
+      "self-reference.writing"
+    ],
+    "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  }
+}
