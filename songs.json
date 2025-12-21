@@ -2221,7 +2221,7 @@
     "date_range_start": "",
     "date_range_end": "",
     "date": "",
-    "flagged": true
+    "flagged": false
   },
   "Overdrive #2": {
     "album": "Unrecorded",
@@ -5339,6 +5339,482 @@
       "relationship.affection"
     ],
     "description": "",
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Julia thinks you're funny kid": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "lyrics/can-love-kill-misery-era/julia-thinks-youre-funny-kid.txt",
+    "annotations": [
+      {
+        "start": "3.0",
+        "end": "3.37",
+        "label": "topic.sleep",
+        "text": "Must have been while she was sleeping"
+      },
+      {
+        "start": "4.0",
+        "end": "4.44",
+        "label": "person.immaginary-girl",
+        "text": "Julia looks at you like she's see you before"
+      },
+      {
+        "start": "5.0",
+        "end": "8.8",
+        "label": "relationship.sex-general",
+        "text": "She likes you kid, and she thinks you're funny\nBut not so she'd want to, oh\n\nYou know"
+      }
+    ],
+    "song_labels": [
+      "meta.title-not-in-lyrics",
+      "meta.repurposed"
+    ],
+    "description": "",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "The boy least likely": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "lyrics/can-love-kill-misery/the-boy-least-likely.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.28",
+        "label": "relationship.dont-know-how-to",
+        "text": "The boy least likely to know"
+      },
+      {
+        "start": "3.0",
+        "end": "4.30",
+        "label": "relationship.dont-know-how-to",
+        "text": "If I find out it'll frighten me, \nso probably best that I don't."
+      },
+      {
+        "start": "9.0",
+        "end": "10.32",
+        "label": "character.awkwardness",
+        "text": "With shuffling shoes and a shortening fuse\nbut that's how I'm going to stay"
+      },
+      {
+        "start": "13.0",
+        "end": "14.26",
+        "label": "important-to-me.nights-out",
+        "text": "There's my bedroom light so it's Friday night, \ninside again for a change."
+      },
+      {
+        "start": "16.0",
+        "end": "16.56",
+        "label": "self-reference.other-song",
+        "text": "When castacodabreaka failed to make us into millionaires"
+      },
+      {
+        "start": "19.0",
+        "end": "20.64",
+        "label": "character.geeky",
+        "text": "Life's not multiple changes to fail. It's a bell-shaped curve\nand it's all I deserve to spend the rest of my life in the tails"
+      },
+      {
+        "start": "23.0",
+        "end": "25.37",
+        "label": "arrogance.intelligence",
+        "text": "I preport to be awfully clever\nIt's necessarily so, as I've decided to go\nand leave the planet earth altogether"
+      },
+      {
+        "start": "27.0",
+        "end": "28.64",
+        "label": "relationship.dont-know-how-to",
+        "text": "But the path to inner peace will never lead me to temptation, I doubt\nI'm tempted just to find my own way there rather than go without"
+      },
+      {
+        "start": "32.0",
+        "end": "32.42",
+        "label": "depression.mild",
+        "text": "Prosperity and happiness, I don't think so"
+      },
+      {
+        "start": "33.0",
+        "end": "33.32",
+        "label": "character.flippant",
+        "text": "All I ever dream of is headroom."
+      },
+      {
+        "start": "36.0",
+        "end": "36.44",
+        "label": "character.self-pity",
+        "text": "What else could I be but my own worst enemy "
+      },
+      {
+        "start": "38.0",
+        "end": "38.54",
+        "label": "self-reference.writing",
+        "text": "When writing morbid melody developed me a cynical view"
+      },
+      {
+        "start": "39.0",
+        "end": "40.32",
+        "label": "character.self-pity",
+        "text": "I huffed and puffed and blew it big time\nbeating myself up black and blue"
+      }
+    ],
+    "song_labels": [
+      "relationship.dont-know-how-to"
+    ],
+    "description": "",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Rescue Fairy": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "lyrics/can-love-kill-misery-era/rescue-fairy.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.49",
+        "label": "topic.theatre",
+        "text": "The dry ice settles and the overture begins to play\nThe overture is not afraid, it's been here before"
+      },
+      {
+        "start": "4.0",
+        "end": "5.64",
+        "label": "topic.theatre",
+        "text": "The lines stick in my throat like something I'm ashamed to say\nThe cracks appearing in my face are much more than they paid for"
+      },
+      {
+        "start": "4.0",
+        "end": "5.64",
+        "label": "depression.struggling",
+        "text": "The lines stick in my throat like something I'm ashamed to say\nThe cracks appearing in my face are much more than they paid for"
+      },
+      {
+        "start": "7.0",
+        "end": "8.0",
+        "label": "depression.giving-up",
+        "text": "There'll be no second time, I'm never stepping out again\n"
+      },
+      {
+        "start": "8.0",
+        "end": "9.31",
+        "label": "character.inadequacy",
+        "text": "The stage is meant for better men with bigger hair and straighter teeth\nand browner tans, when suddenly"
+      },
+      {
+        "start": "11.0",
+        "end": "13.55",
+        "label": "meta.repurposed",
+        "text": "A green light penetrates the atmosphere a voice reminding me of \nla la la la la love\nA thin voice appears says 'I will take you out of here'"
+      }
+    ],
+    "song_labels": [
+      "topic.theatre",
+      "character.inadequacy",
+      "relationship.love-as-rescue",
+      "meta.title-not-in-lyrics"
+    ],
+    "description": "",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "No parachute": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "lyrics/can-love-kill-misery/no-parachute.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.39",
+        "label": "relationship.punching-above",
+        "text": "I stayed around to admire your reflection\nI did not intend to draw your attention"
+      },
+      {
+        "start": "3.0",
+        "end": "4.43",
+        "label": "relationship.growing-confident",
+        "text": "My truths removed the smile you were wearing\nI hope you don't mind if I continue staring"
+      },
+      {
+        "start": "6.0",
+        "end": "8.43",
+        "label": "depression.predicting-death",
+        "text": "I feel you with me as I'm falling down again\nBut if you aren't going to be my parachute\nYou don't wanna be the one to break my fall"
+      },
+      {
+        "start": "10.0",
+        "end": "11.42",
+        "label": "relationship.growing-confident",
+        "text": "You helped me believe that I deserved so much more\nSo I left the plane and pulled the ripcord"
+      },
+      {
+        "start": "12.0",
+        "end": "13.57",
+        "label": "character.flippant",
+        "text": "As the ground speeds towards me, I reassess my value\nIt's all your fault, I thought it only fair if I tell you"
+      },
+      {
+        "start": "15.0",
+        "end": "16.52",
+        "label": "relationship.being-single",
+        "text": "Now I'm trying to love myself, I'm not nearly quite so dull\nIt used to be 'not single' and it's no longer enough"
+      },
+      {
+        "start": "17.0",
+        "end": "18.57",
+        "label": "relationship.desperate",
+        "text": "I need your help again to pick my pieces up, \nYou saved me and I'm grateful, but it's simply not enough"
+      },
+      {
+        "start": "20.0",
+        "end": "21.49",
+        "label": "relationship.desperate",
+        "text": "Come round take a look. \nThere's a boy right here that wants to be in love"
+      },
+      {
+        "start": "22.0",
+        "end": "23.30",
+        "label": "depression.struggling",
+        "text": "Please help, left to my own devices, \nI'm picking up new vices daily"
+      }
+    ],
+    "song_labels": [
+      "meta.title-not-in-lyrics",
+      "person.charlotte",
+      "person.becky",
+      "depression.mild",
+      "relationship.growing-confident"
+    ],
+    "description": "dull is written underlined with a question mark - I wasn't happy with this line",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My final offer": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "lyrics/can-love-kill-misery/my-final-offer.txt",
+    "annotations": [
+      {
+        "start": "1.0",
+        "end": "2.32",
+        "label": "depression.self-harm",
+        "text": "Pick me up, throw me down\nturn around, I'm on longer there"
+      },
+      {
+        "start": "3.0",
+        "end": "3.43",
+        "label": "character.loner",
+        "text": "I'm outta here and please try not to follow"
+      },
+      {
+        "start": "5.0",
+        "end": "6.25",
+        "label": "language.mild",
+        "text": "Piss me off, call me names, \nso what? I no longer care"
+      },
+      {
+        "start": "7.0",
+        "end": "7.48",
+        "label": "depression.self-harm",
+        "text": "You can break my bones but that's my final offer"
+      },
+      {
+        "start": "9.0",
+        "end": "10.34",
+        "label": "topic.sad-songs",
+        "text": "This is my last sad song so please remember it well\nA final verse, a chorus and a coda"
+      },
+      {
+        "start": "9.0",
+        "end": "10.34",
+        "label": "self-reference.writing",
+        "text": "This is my last sad song so please remember it well\nA final verse, a chorus and a coda"
+      },
+      {
+        "start": "12.0",
+        "end": "13.41",
+        "label": "person.charlotte",
+        "text": "Don't ask me about Miss Gray, I lost her a long time ago\nAnd heaven knows I miss her now I'm older"
+      },
+      {
+        "start": "12.0",
+        "end": "13.41",
+        "label": "relationship.miss-you",
+        "text": "Don't ask me about Miss Gray, I lost her a long time ago\nAnd heaven knows I miss her now I'm older"
+      },
+      {
+        "start": "14.0",
+        "end": "15.44",
+        "label": "relationship.desperate",
+        "text": "I loved her far too long, I'll cry for one final time\nWell, maybe twice, but that's my final offer"
+      },
+      {
+        "start": "17.0",
+        "end": "17.23",
+        "label": "character.loner",
+        "text": "I spent too long inside"
+      },
+      {
+        "start": "19.0",
+        "end": "20.38",
+        "label": "character.want-to-be-heard",
+        "text": "So tell me, why I try. Why, then, do I bother?\nNot a soul out there listens or cares."
+      },
+      {
+        "start": "21.0",
+        "end": "21.48",
+        "label": "depression.suicide",
+        "text": "I'll even hang myself, but that's my final offer"
+      },
+      {
+        "start": "22.0",
+        "end": "22.35",
+        "label": "topic.theatre",
+        "text": "not a dry eye in the house this yea"
+      },
+      {
+        "start": "24.0",
+        "end": "25.45",
+        "label": "depression.madness",
+        "text": "Just label me insane, that's fine. I play the role well\nOh, what the hell, I'll even wear the jacket."
+      },
+      {
+        "start": "26.0",
+        "end": "27.40",
+        "label": "Important-to-me.love",
+        "text": "And may one day soon, I can say I am not in love. \nBut maybe not, It's something of a habit"
+      },
+      {
+        "start": "29.0",
+        "end": "29.29",
+        "label": "person.charlotte",
+        "text": "Can you, guess who this time?"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "Two years on": {
+    "album": "Can Love Kill Misery",
+    "lyrics_path": "lyrics/can-love-kill-misery/two-years-on.txt",
+    "annotations": [
+      {
+        "start": "4.0",
+        "end": "4.62",
+        "label": "relationship.dont-know-how-to",
+        "text": "'cause he remembers disassemblence for the first time we met. "
+      },
+      {
+        "start": "4.0",
+        "end": "4.62",
+        "label": "language.made-up-words",
+        "text": "'cause he remembers disassemblence for the first time we met. "
+      },
+      {
+        "start": "1.0",
+        "end": "1.35",
+        "label": "character.feeling-old",
+        "text": "Two years on and four years older, "
+      },
+      {
+        "start": "2.0",
+        "end": "3.37",
+        "label": "relationship.regret",
+        "text": "My conscience is a parrot that sits on my shoulder, \nbegging me not to be so stupid again "
+      },
+      {
+        "start": "8.0",
+        "end": "9.50",
+        "label": "self-reference.writing",
+        "text": "I'm flicking through these pages it's a gentle reminder\nof the hundred also melodies I wrote in your name "
+      },
+      {
+        "start": "11.0",
+        "end": "11.14",
+        "label": "religion.careless",
+        "text": "Oh lord oh no."
+      },
+      {
+        "start": "13.0",
+        "end": "14.35",
+        "label": "tier.b",
+        "text": "The toss of a coin declares you love me.\nBest 2 out of three you love me not"
+      },
+      {
+        "start": "16.0",
+        "end": "16.50",
+        "label": "meta.funny",
+        "text": "and I'm sick of being lied to by inanimate objects"
+      },
+      {
+        "start": "18.0",
+        "end": "19.66",
+        "label": "person.charlotte",
+        "text": "I still live for the memory of walking you home \nBut for Christ's sake Richard, that was almost 3 years ago earlier"
+      },
+      {
+        "start": "20.0",
+        "end": "20.23",
+        "label": "language.made-up-words",
+        "text": "Alea iacta ce n'est pas"
+      },
+      {
+        "start": "22.0",
+        "end": "23.48",
+        "label": "tier.b",
+        "text": "Sure we can be just good friends if I can kiss you\nSpend all my time with you and sleep in your bed"
+      },
+      {
+        "start": "24.0",
+        "end": "25.21",
+        "label": "relationship.sex-general",
+        "text": "So let us retire to my room, I promise not to say \"I love you\"\nDespite the fact I do"
+      },
+      {
+        "start": "24.0",
+        "end": "25.21",
+        "label": "relationship.affection",
+        "text": "So let us retire to my room, I promise not to say \"I love you\"\nDespite the fact I do"
+      }
+    ],
+    "song_labels": [
+      "person.charlotte",
+      "relationship.infatuation"
+    ],
+    "description": "",
+    "flagged": false,
+    "year": "",
+    "date_range_start": "",
+    "date_range_end": "",
+    "date": ""
+  },
+  "My advice to lovers": {
+    "album": "Can Love Kill Misery Era",
+    "lyrics_path": "lyrics/can-love-kill-misery-era/my-advice-to-lovers.txt",
+    "annotations": [
+      {
+        "start": "2.0",
+        "end": "2.32",
+        "label": "depression.mild",
+        "text": "5 easy steps to a miserable life"
+      }
+    ],
+    "song_labels": [],
+    "description": "",
+    "flagged": true,
     "year": "",
     "date_range_start": "",
     "date_range_end": "",
